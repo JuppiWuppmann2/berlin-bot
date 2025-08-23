@@ -5,6 +5,10 @@ from tweet import send_tweet
 app = FastAPI()
 API_KEY = os.getenv("API_KEY")
 
+@app.get("/")
+def healthcheck():
+    return {"status": "ok"}
+
 @app.post("/tweet")
 async def tweet(request: Request):
     auth = request.headers.get("Authorization")
@@ -17,4 +21,5 @@ async def tweet(request: Request):
         return {"error": "No text provided"}
     await send_tweet(text)
     return {"status": "Tweet sent"}
+
 
