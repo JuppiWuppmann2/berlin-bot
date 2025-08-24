@@ -1,29 +1,23 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-import time
+from fastapi import FastAPI, Request, HTTPException
+import os
+from tweet import send_tweet
 
-def send_tweet(text: str):
-    service = Service("/opt/render/project/src/chromedriver")  # Pfad auf Render
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
+app = FastAPI()
+API_KEY = os.getenv("API_KEY")
 
-    driver = webdriver.Chrome(service=service, options=options)
-    driver.get("https://x.com/login")
-    time.sleep(10)  # Zeit für Login (manuell oder Cookie-basiert)
+@app.get("/")
+def healthcheck():
+    return {"status": "ok"}
 
-    # Optional: Cookies laden
-    # driver.add_cookie(...)
+@app.post("/tweet")
+async def tweet(request: Request):
+    auth = request.headers.get("Authorization")
+    if not auth or auth != f"Bearer {API_KEY}":
+        raise HTTPException(status_code=401, detail="Unauthorized")
+    data = await request.json()
+    text = data.get("text")
+    if not text:
+        return {"error": "No text provided"}
+    await send_tweet(text)
+    return {"status": "Tweet sent"}
 
-    driver.get("https://x.com/compose/tweet")
-    time.sleep(5)
-
-    tweet_box = driver.find_element(By.CLASS_NAME, "public-DraftEditor-content")
-    tweet_box.send_keys(text)
-    tweet_box.send_keys(Keys.CONTROL, Keys.ENTER)
-
-    time.sleep(5)
-    driver.quit()
