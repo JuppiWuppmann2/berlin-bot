@@ -1,23 +1,13 @@
-from fastapi import FastAPI, Request, HTTPException
 import os
-from tweet import send_tweet
+from twikit import Client
 
-app = FastAPI()
-API_KEY = os.getenv("API_KEY")
+client = Client("de-DE")
 
-@app.get("/")
-def healthcheck():
-    return {"status": "ok"}
-
-@app.post("/tweet")
-async def tweet(request: Request):
-    auth = request.headers.get("Authorization")
-    if not auth or auth != f"Bearer {API_KEY}":
-        raise HTTPException(status_code=401, detail="Unauthorized")
-    data = await request.json()
-    text = data.get("text")
-    if not text:
-        return {"error": "No text provided"}
-    await send_tweet(text)
-    return {"status": "Tweet sent"}
+async def send_tweet(text: str):
+    await client.login(
+        auth_info_1=os.getenv("TWIKIT_USERNAME"),
+        auth_info_2=os.getenv("TWIKIT_EMAIL"),
+        password=os.getenv("TWIKIT_PASSWORD")
+    )
+    await client.create_tweet(text)
 
