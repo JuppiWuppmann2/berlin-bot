@@ -3,7 +3,7 @@ import os
 from tweet import send_tweet
 
 app = FastAPI()
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("TWEET_API_KEY")
 
 @app.get("/")
 def healthcheck():
