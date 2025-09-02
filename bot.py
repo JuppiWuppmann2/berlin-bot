@@ -1,5 +1,6 @@
 import os
 import time
+import requests
 import threading
 from flask import Flask
 from viz import get_viz_updates
@@ -8,6 +9,8 @@ from post_x import post_on_x
 from beautify import beautify_text
 import json
 
+GIST_ID = os.getenv("GIST_ID")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 # Lokale Speicherung im Projektverzeichnis
 STATE_FILE = "data.json"
 
@@ -25,17 +28,30 @@ threading.Thread(target=run_webserver).start()
 
 
 def load_state():
-    """Lädt bekannten Zustand (alle Meldungen)."""
+    """Lädt state lokal oder von GitHub Gist."""
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             return set(json.load(f))
+    if GIST_ID and GITHUB_TOKEN:
+        headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+        url = f"https://api.github.com/gists/{GIST_ID}"
+        res = requests.get(url, headers=headers)
+        if res.ok:
+            files = res.json().get("files", {})
+            if "data.json" in files:
+                content = files["data.json"]["content"]
+                return set(json.loads(content))
     return set()
 
 def save_state(state):
-    """Speichert aktuellen Zustand."""
+    """Speichert state lokal und auf GitHub Gist."""
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(state), f, ensure_ascii=False, indent=2)
-
+    if GIST_ID and GITHUB_TOKEN:
+        headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+        url = f"https://api.github.com/gists/{GIST_ID}"
+        data = {"files": {"data.json": {"content": json.dumps(list(state), ensure_ascii=False, indent=2)}}}
+        requests.patch(url, headers=headers, json=data)
 
 def main_loop():
     prev_state = load_state()
