@@ -56,7 +56,7 @@ def save_state(state):
         requests.patch(url, headers=headers, json=data)
 
 # -----------------------------
-# Main Loop
+# Main Loop mit Thread-Logik
 # -----------------------------
 def main_loop():
     prev_state = load_state()
@@ -73,16 +73,29 @@ def main_loop():
         # Neue Meldungen
         new_items = current_updates - prev_state
         for item in new_items:
-            message = beautify_text(item)
-            print(f"Neue Meldung: {message}")
-            try:
-                post_on_x(message)
-            except Exception as e:
-                print(f"Fehler beim Posten auf X: {e}")
-            try:
-                post_on_bluesky_thread(message)
-            except Exception as e:
-                print(f"Fehler beim Posten auf Bluesky: {e}")
+            messages = beautify_text(item)  # Liste von Post-Teilen
+            last_x_post_id = None
+            last_bs_post_id = None
+
+            for i, part in enumerate(messages):
+                print(f"Neue Meldung Teil {i+1}: {part}")
+                # X Post
+                try:
+                    if i == 0:
+                        last_x_post_id = post_on_x(part)
+                    else:
+                        last_x_post_id = post_on_x(part, reply_to=last_x_post_id)
+                except Exception as e:
+                    print(f"Fehler beim Posten auf X: {e}")
+
+                # Bluesky Post
+                try:
+                    if i == 0:
+                        last_bs_post_id = post_on_bluesky_thread(part)
+                    else:
+                        last_bs_post_id = post_on_bluesky_thread(part, reply_to=last_bs_post_id)
+                except Exception as e:
+                    print(f"Fehler beim Posten auf Bluesky: {e}")
 
         # Verschwundene Meldungen -> "Behoben"
         resolved_items = prev_state - current_updates
