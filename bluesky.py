@@ -1,6 +1,5 @@
 import requests
 import os
-import base64
 import datetime
 
 BSKY_API = "https://bsky.social/xrpc"
