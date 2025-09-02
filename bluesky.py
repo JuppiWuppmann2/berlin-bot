@@ -6,7 +6,6 @@ import textwrap
 BSKY_API = "https://bsky.social/xrpc"
 
 def get_session():
-    """Erstellt eine Session mit Bluesky (JWT holen)."""
     handle = os.getenv("BSKY_HANDLE")
     app_password = os.getenv("BSKY_APP_PASSWORD")
 
@@ -17,9 +16,7 @@ def get_session():
     res.raise_for_status()
     return res.json()["accessJwt"]
 
-
 def post_on_bluesky(text):
-    """Einzelnen Post auf Bluesky erstellen."""
     jwt = get_session()
     headers = {"Authorization": f"Bearer {jwt}"}
 
@@ -37,9 +34,7 @@ def post_on_bluesky(text):
     res.raise_for_status()
     return res.json()
 
-
 def split_into_posts(text, max_length=300):
-    """Splittet lange Texte in mehrere Bluesky-Posts."""
     parts = textwrap.wrap(text, width=max_length-10, break_long_words=False)
     posts = []
     for i, part in enumerate(parts, start=1):
@@ -49,11 +44,10 @@ def split_into_posts(text, max_length=300):
             posts.append(part)
     return posts
 
-
 def post_on_bluesky_thread(text):
-    """Falls nötig mehrere Posts als Thread auf Bluesky posten."""
     posts = split_into_posts(text)
     results = []
     for post in posts:
         results.append(post_on_bluesky(post))
     return results
+
