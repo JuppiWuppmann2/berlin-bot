@@ -4,7 +4,7 @@ import threading
 from flask import Flask
 from playwright.sync_api import sync_playwright
 from viz import get_viz_updates
-from bluesky import get_bluesky_posts
+from bluesky import post_on_bluesky
 
 # Flask Webserver für UptimeRobot
 app = Flask(__name__)
@@ -50,22 +50,23 @@ def post_on_x(text):
 
 def main_loop():
     seen_viz = set()
-    seen_bluesky = set()
 
     while True:
         # VIZ prüfen
         for update in get_viz_updates():
             if update not in seen_viz:
                 print(f"Poste VIZ: {update}")
-                post_on_x(update)
-                seen_viz.add(update)
+                try:
+                    post_on_x(update)          # auf X posten
+                except Exception as e:
+                    print(f"Fehler beim Posten auf X: {e}")
 
-        # Bluesky prüfen
-        for post in get_bluesky_posts():
-            if post not in seen_bluesky:
-                print(f"Poste Bluesky: {post}")
-                post_on_x(post)
-                seen_bluesky.add(post)
+                try:
+                    post_on_bluesky(update)   # auf Bluesky posten
+                except Exception as e:
+                    print(f"Fehler beim Posten auf Bluesky: {e}")
+
+                seen_viz.add(update)
 
         time.sleep(300)  # alle 5 Minuten
 
