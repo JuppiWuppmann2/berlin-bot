@@ -1,15 +1,15 @@
 def beautify_text(text):
-    """Veredelt die Meldungen mit Emojis + Hashtags."""
     base_tags = "#Berlin #Verkehr #Baustelle #Störung"
 
     emojis = ""
-    if "gesperrt" in text.lower() or "sperrung" in text.lower():
+    text_lower = text.lower()
+    if "gesperrt" in text_lower or "sperrung" in text_lower:
         emojis += "⛔🚧 "
-    elif "bau" in text.lower():
+    elif "bau" in text_lower:
         emojis += "🚧 "
-    elif "störung" in text.lower():
+    elif "störung" in text_lower:
         emojis += "⚠️ "
-    elif "verspätung" in text.lower():
+    elif "verspätung" in text_lower:
         emojis += "⏰ "
 
     hashtags = [base_tags]
