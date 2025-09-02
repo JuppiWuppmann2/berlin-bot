@@ -1,3 +1,4 @@
-fastapi
-uvicorn[standard]
-twikit
+playwright
+beautifulsoup4
+requests
+flask
