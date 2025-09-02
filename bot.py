@@ -103,6 +103,8 @@ def post_on_x(text):
         browser.close()
 
 
+# ... Rest wie gehabt ...
+
 def main_loop():
     seen_viz = set()
 
@@ -118,14 +120,15 @@ def main_loop():
                     print(f"Fehler beim Posten auf X: {e}")
 
                 try:
-                    post_on_bluesky(message)    # auf Bluesky posten
+                    # Bluesky nutzt dieselbe Beautify-Logik und Threads
+                    from bluesky import post_on_bluesky_thread
+                    post_on_bluesky_thread(message)
                 except Exception as e:
                     print(f"Fehler beim Posten auf Bluesky: {e}")
 
                 seen_viz.add(update)
 
         time.sleep(300)  # alle 5 Minuten
-
 
 if __name__ == "__main__":
     main_loop()
