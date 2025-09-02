@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
+import requests
 
 from bluesky import post_on_bluesky_thread
 from beautify import beautify_text
@@ -15,6 +16,10 @@ from beautify import beautify_text
 URL = "https://viz.berlin.de/verkehr-in-berlin/baustellen-sperrungen-und-sonstige-storungen/"
 STATE_FILE = "data.json"
 POST_MAX_LEN = 280
+
+# Optional: GitHub Gist für persistenten State
+GIST_ID = os.getenv("GIST_ID")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 # ----------------------------- Flask Webserver -----------------------------
 app = Flask(__name__)
@@ -60,14 +65,32 @@ def get_viz_updates():
 
 # ----------------------------- State Management -----------------------------
 def load_state():
+    # zuerst lokal laden
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
             return set(json.load(f))
+    # dann Gist laden falls gesetzt
+    if GIST_ID and GITHUB_TOKEN:
+        headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+        url = f"https://api.github.com/gists/{GIST_ID}"
+        res = requests.get(url, headers=headers)
+        if res.ok:
+            files = res.json().get("files", {})
+            if "data.json" in files:
+                content = files["data.json"]["content"]
+                return set(json.loads(content))
     return set()
 
 def save_state(state):
+    # lokal speichern
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(state), f, ensure_ascii=False, indent=2)
+    # optional Gist speichern
+    if GIST_ID and GITHUB_TOKEN:
+        headers = {"Authorization": f"token {GITHUB_TOKEN}"}
+        url = f"https://api.github.com/gists/{GIST_ID}"
+        data = {"files": {"data.json": {"content": json.dumps(list(state), ensure_ascii=False, indent=2)}}}
+        requests.patch(url, headers=headers, json=data)
 
 # ----------------------------- Main Loop -----------------------------
 def main_loop():
@@ -101,3 +124,4 @@ def main_loop():
 
 if __name__ == "__main__":
     main_loop()
+
