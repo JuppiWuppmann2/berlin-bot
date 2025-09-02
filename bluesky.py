@@ -1,4 +1,4 @@
-from bskypy import Client
+from atproto import Client
 import os
 
 BLUESKY_HANDLE = os.getenv("BLUESKY_HANDLE")
@@ -9,7 +9,7 @@ if not BLUESKY_HANDLE or not BLUESKY_PASSWORD:
 
 client = Client()
 try:
-    client.login(identifier=BLUESKY_HANDLE, password=BLUESKY_PASSWORD)
+    client.login(BLUESKY_HANDLE, BLUESKY_PASSWORD)
     print(f"[Bluesky] Eingeloggt als {BLUESKY_HANDLE}")
 except Exception as e:
     raise Exception(f"Fehler beim Einloggen auf Bluesky: {e}")
@@ -17,7 +17,7 @@ except Exception as e:
 def post_on_bluesky_thread(message_parts):
     for part in message_parts:
         try:
-            client.post_create(text=part)
+            client.app.bsky.feed.create_post(text=part)
             print(f"[Bluesky] gepostet: {part}")
         except Exception as e:
             print(f"Fehler beim Posten auf Bluesky: {e}")
