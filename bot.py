@@ -8,7 +8,8 @@ from post_x import post_on_x
 from beautify import beautify_text
 import json
 
-STATE_FILE = "/data/data.json"  # Persistente Speicherung auf Render Disk
+# Lokale Speicherung im Projektverzeichnis
+STATE_FILE = "data.json"
 
 # Flask für Render + UptimeRobot
 app = Flask(__name__)
@@ -32,7 +33,6 @@ def load_state():
 
 def save_state(state):
     """Speichert aktuellen Zustand."""
-    os.makedirs(os.path.dirname(STATE_FILE), exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(state), f, ensure_ascii=False, indent=2)
 
