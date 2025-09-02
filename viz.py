@@ -10,30 +10,43 @@ def get_viz_updates():
 
     updates = []
 
-    items = soup.select("li.construction-sites-item")
+    # Selektiere alle relevanten Meldungen
+    items = soup.select(
+        "li.construction-sites-item.filter-baustelle, "
+        "li.construction-sites-item.filter-sperrung, "
+        "li.construction-sites-item.filter-sonstige"
+    )
+    print(f"Gefundene Meldungen: {len(items)}")  # Debug
+
     for li in items:
         text_div = li.select_one("div.text")
         if not text_div:
+            print("Kein Text-Div gefunden, überspringe Element")  # Debug
             continue
 
+        # Titel
         strong_tag = text_div.select_one("strong")
         title = strong_tag.get_text(strip=True) if strong_tag else "Keine Überschrift"
 
         # Zeitraum
         span_tags = text_div.select("span")
         zeitraum = ""
-        if span_tags:
-            zeitraum_texts = [span.get_text(strip=True) for span in span_tags if "Zeitraum" not in span.get_text()]
-            zeitraum = " ".join(zeitraum_texts)
-
-        # Beschreibung
-        description = ""
         for span in span_tags:
-            if "Straße" in span.get_text() or "Zeitraum" in span.get_text():
-                continue
-            description += span.get_text(strip=True) + " "
+            if "Zeitraum" in span.get_text():
+                zeitraum = span.get_text(strip=True).replace("Zeitraum:", "").strip()
+                break
 
-        message = f"{title}\n{zeitraum}\n{description.strip()}"
+        # Straße / Beschreibung
+        description_lines = []
+        for span in span_tags:
+            text = span.get_text(strip=True)
+            if "Straße:" in text or "Leitungsbauarbeiten" in text or "Bau" in text or "Vollsperrung" in text or "Gefahr" in text:
+                description_lines.append(text)
+
+        description = " ".join(description_lines).strip()
+
+        # Fertige Meldung
+        message = f"{title}\n{zeitraum}\n{description}"
         updates.append(message)
 
     return updates
