@@ -9,7 +9,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-from post_x import post_on_x_thread
 from bluesky import post_on_bluesky_thread
 from beautify import beautify_text
 
@@ -21,10 +20,11 @@ POST_MAX_LEN = 280
 app = Flask(__name__)
 @app.route("/")
 def home():
-    return "Bot läuft!"
+    return "Bluesky Bot läuft!"
 
 def run_webserver():
     app.run(host="0.0.0.0", port=8080)
+
 threading.Thread(target=run_webserver).start()
 
 # ----------------------------- Selenium Scraper -----------------------------
@@ -81,18 +81,18 @@ def main_loop():
             time.sleep(300)
             continue
 
+        # Neue Meldungen
         new_items = current_updates - prev_state
         for item in new_items:
             parts = beautify_text(item)
             print(f"Neue Meldung: {parts}")
-            post_on_x_thread(parts)
             post_on_bluesky_thread(parts)
 
+        # Behobene Meldungen
         resolved_items = prev_state - current_updates
         for item in resolved_items:
             parts = beautify_text(f"✅ Behoben: {item}")
             print(f"Behoben: {parts}")
-            post_on_x_thread(parts)
             post_on_bluesky_thread(parts)
 
         prev_state = current_updates
