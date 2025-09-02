@@ -14,7 +14,3 @@ services:
         sync: false
       - key: BSKY_APP_PASSWORD
         sync: false
-    disk:
-      name: berlin-bot-disk
-      mountPath: /data
-      sizeGB: 1
