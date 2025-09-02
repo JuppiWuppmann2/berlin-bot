@@ -1,6 +1,7 @@
 import requests
 import os
 import datetime
+import textwrap
 
 BSKY_API = "https://bsky.social/xrpc"
 
@@ -16,8 +17,9 @@ def get_session():
     res.raise_for_status()
     return res.json()["accessJwt"]
 
+
 def post_on_bluesky(text):
-    """Postet einen Text auf Bluesky."""
+    """Einzelnen Post auf Bluesky erstellen."""
     jwt = get_session()
     headers = {"Authorization": f"Bearer {jwt}"}
 
@@ -34,3 +36,24 @@ def post_on_bluesky(text):
     res = requests.post(f"{BSKY_API}/com.atproto.repo.createRecord", json=data, headers=headers)
     res.raise_for_status()
     return res.json()
+
+
+def split_into_posts(text, max_length=300):
+    """Splittet lange Texte in mehrere Bluesky-Posts."""
+    parts = textwrap.wrap(text, width=max_length-10, break_long_words=False)
+    posts = []
+    for i, part in enumerate(parts, start=1):
+        if len(parts) > 1:
+            posts.append(f"{part} ({i}/{len(parts)})")
+        else:
+            posts.append(part)
+    return posts
+
+
+def post_on_bluesky_thread(text):
+    """Falls nötig mehrere Posts als Thread auf Bluesky posten."""
+    posts = split_into_posts(text)
+    results = []
+    for post in posts:
+        results.append(post_on_bluesky(post))
+    return results
