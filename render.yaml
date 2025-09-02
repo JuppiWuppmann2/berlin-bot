@@ -1,11 +1,10 @@
 services:
-  - type: worker
-    name: viz-bot
+  - type: web
+    name: berlin-bot
     env: python
-    buildCommand: |
-      pip install -r requirements.txt
-      playwright install chromium
-    startCommand: python bot.py
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python bot.py"
     envVars:
       - key: X_USERNAME
         sync: false
@@ -15,3 +14,7 @@ services:
         sync: false
       - key: BSKY_APP_PASSWORD
         sync: false
+    disk:
+      name: berlin-bot-disk
+      mountPath: /data
+      sizeGB: 1
