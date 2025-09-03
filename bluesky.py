@@ -1,11 +1,21 @@
-from atproto import Client
 import os
+from atproto import Client
 
-BSKY_HANDLE = os.getenv("BSKY_HANDLE")
-BSKY_PASSWORD = os.getenv("BSKY_PASSWORD")
+USERNAME = os.getenv("BLUESKY_USERNAME")
+PASSWORD = os.getenv("BLUESKY_PASSWORD")
 
-client = Client()
-client.login(BSKY_HANDLE, BSKY_PASSWORD)
+def post_on_bluesky_thread(messages):
+    """messages = Liste von Textteilen (wegen 280 Zeichen Split)"""
+    if not USERNAME or not PASSWORD:
+        print("⚠️ Bluesky Zugangsdaten fehlen! Bitte Environment Variables setzen.")
+        return
 
-def post_on_bluesky_thread(text: str):
-    client.send_post(text)
+    client = Client()
+    try:
+        client.login(USERNAME, PASSWORD)
+        root = None
+        for msg in messages:
+            root = client.send_post(msg, reply_to=root)
+        print("✅ Auf Bluesky gepostet:", messages)
+    except Exception as e:
+        print("❌ Fehler beim Posten auf Bluesky:", e)
