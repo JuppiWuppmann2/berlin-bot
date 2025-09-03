@@ -1,24 +1,39 @@
-name: Update VIZ state
+name: Berlin Verkehr Bluesky Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # alle 5 Minuten
-  workflow_dispatch:
+    - cron: "*/10 * * * *"   # alle 10 Minuten
+  workflow_dispatch:          # manuelles Starten möglich
 
 jobs:
-  update:
+  run-bot:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.11
-      - run: pip install selenium webdriver-manager beautifulsoup4
-      - run: python botscraper.py
-      - run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add state.json
-          git diff --quiet && exit 0
-          git commit -m "Update state.json"
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install selenium webdriver-manager atproto
+
+      - name: Run bot
+        env:
+          BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+        run: python bot.py
+
+      - name: Commit and push updated state file
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "GitHub Action"
+          git add data.json
+          git commit -m "Update state file" || echo "No changes to commit"
           git push
