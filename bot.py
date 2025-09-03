@@ -1,6 +1,5 @@
 import os
 import json
-import time
 import requests
 from bs4 import BeautifulSoup
 from beautify import beautify_text
@@ -12,12 +11,14 @@ STATE_FILE = "data.json"
 
 def get_viz_updates():
     """Scrapt die aktuelle Baustellenliste von viz.berlin."""
+    print("🔍 Scraper gestartet...")
     res = requests.get(URL, timeout=15)
     res.raise_for_status()
     soup = BeautifulSoup(res.text, "html.parser")
 
     updates = []
     items = soup.select("li.construction-sites-item")
+    print(f"Gefundene Meldungen insgesamt: {len(items)}")
 
     for li in items:
         try:
@@ -39,7 +40,7 @@ def get_viz_updates():
             message = f"{title}\n{description.strip()}\n{zeitraum}\n{location}"
             updates.append(message)
         except Exception as e:
-            print("Fehler beim Parsen:", e)
+            print("Fehler beim Parsen eines Eintrags:", e)
             continue
 
     return updates
@@ -58,24 +59,36 @@ def save_state(state):
 
 
 def main():
+    print("🚀 Bot gestartet...")
     prev_state = load_state()
     current_updates = set(get_viz_updates())
 
     # Neue Meldungen
     new_items = current_updates - prev_state
+    print(f"Neue Meldungen: {len(new_items)}")
     for item in new_items:
         parts = beautify_text(item)
-        print("Neue Meldung:", parts)
-        post_on_bluesky_thread(parts)
+        print("➡ Neue Meldung:", parts)
+        try:
+            post_on_bluesky_thread(parts)
+            print("✅ Erfolgreich auf Bluesky gepostet!")
+        except Exception as e:
+            print("❌ Fehler beim Posten auf Bluesky:", e)
 
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
+    print(f"Behobene Meldungen: {len(resolved_items)}")
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
-        print("Behoben:", parts)
-        post_on_bluesky_thread(parts)
+        print("⬅ Behoben:", parts)
+        try:
+            post_on_bluesky_thread(parts)
+            print("✅ Behoben auf Bluesky gepostet!")
+        except Exception as e:
+            print("❌ Fehler beim Posten Behoben:", e)
 
     save_state(current_updates)
+    print("💾 State gespeichert.")
 
 
 if __name__ == "__main__":
