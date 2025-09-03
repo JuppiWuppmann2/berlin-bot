@@ -4,10 +4,10 @@ def beautify_text(message):
     message = message.replace("Baustelle", "🚧 Baustelle")
     message = message.replace("Sperrung", "⛔ Sperrung")
     message = message.replace("Gefahr", "⚠️ Gefahr")
+
     hashtags = " #Berlin #Verkehr #Baustelle #Sperrung #Störung"
     message += "\n" + hashtags
 
-    # Thread-Split
     parts = []
     while len(message) > POST_MAX_LEN:
         split_idx = message.rfind("\n", 0, POST_MAX_LEN)
