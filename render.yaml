@@ -3,18 +3,10 @@ services:
     name: berlin-bot
     env: python
     plan: free
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python bot.py"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
     envVars:
-      - key: X_USERNAME
-        sync: false
-      - key: X_PASSWORD
-        sync: false
       - key: BSKY_HANDLE
-        sync: false
-      - key: BSKY_APP_PASSWORD
-        sync: false
-      - key: GIST_ID
-        sync: false
-      - key: GITHUB_TOKEN
-        sync: false
+        sync: false   # trägst du im Render Dashboard ein
+      - key: BSKY_PASSWORD
+        sync: false   # auch im Dashboard eintragen
