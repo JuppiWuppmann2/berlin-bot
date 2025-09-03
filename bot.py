@@ -17,7 +17,6 @@ STATE_FILE = "data.json"
 
 # ----------------------------- Flask Webserver -----------------------------
 app = Flask(__name__)
-
 @app.route("/")
 def home():
     return "Bluesky Bot läuft!"
@@ -46,11 +45,9 @@ def get_viz_updates():
         try:
             title = li.find_element(By.TAG_NAME, "strong").text
             span_texts = [span.text for span in li.find_elements(By.TAG_NAME, "span")]
-
             description = " ".join([t for t in span_texts if "Zeitraum" not in t and "Straße" not in t])
             period = next((t.replace("Zeitraum:", "").strip() for t in span_texts if "Zeitraum" in t), "")
             location = next((t.replace("Straße:", "").strip() for t in span_texts if "Straße" in t), "")
-
             message = f"{title}\n{description}\n{period}\n{location}"
             updates.append(message)
         except Exception as e:
@@ -99,7 +96,7 @@ def main_loop():
 
         prev_state = current_updates
         save_state(prev_state)
-        time.sleep(300)  # alle 5 Minuten prüfen
+        time.sleep(300)
 
 if __name__ == "__main__":
     main_loop()
