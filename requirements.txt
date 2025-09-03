@@ -1,6 +1,4 @@
-flask
 selenium
 webdriver-manager
-bskypy
-requests
+beautifulsoup4
 atproto
