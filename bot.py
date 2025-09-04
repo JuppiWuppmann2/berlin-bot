@@ -44,10 +44,6 @@ def get_viz_updates():
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
 
-            # Hashtags am Ende hinzufügen, doppelte entfernen und klickbar machen
-            hashtags_text = " ".join(sorted(set(HASHTAGS), key=HASHTAGS.index))
-            message += " " + hashtags_text
-
             updates.append(message)
         except Exception as e:
             print("Fehler beim Verarbeiten eines Eintrags:", e)
@@ -89,13 +85,12 @@ def main():
             except Exception as e:
                 print("❌ Fehler beim Posten auf Bluesky:", e)
 
-
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
     print(f"Behobene Meldungen: {len(resolved_items)}")
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
-        parts = [part.replace("# ", "#") for part in parts]
+        parts = [part.replace("\n", " ").replace("# ", "#") for part in parts]
         print("⬅ Behoben:", parts)
         for part in parts:
             try:
