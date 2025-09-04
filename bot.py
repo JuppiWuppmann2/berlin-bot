@@ -42,8 +42,7 @@ def get_viz_updates():
 
             # Neu: keine \n, sondern Leerzeichen
             parts = [title, description, zeitraum, location]
-            message = " ".join([p.strip() for p in parts if p])
-            message = " ".join(message.split())
+            message = " | ".join([p for p in parts if p])
 
             updates.append(message)
         except Exception as e:
