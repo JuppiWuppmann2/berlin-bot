@@ -103,7 +103,7 @@ def main():
         try:
             post_on_bluesky_thread(parts)
             print("✅ Erfolgreich auf Bluesky gepostet!")
-            time.sleep(2)  # etwas längere Pause gegen Rate-Limits
+            time.sleep(5)  # etwas längere Pause gegen Rate-Limits
         except Exception as e:
             print("❌ Fehler beim Posten auf Bluesky:", e)
 
@@ -116,7 +116,7 @@ def main():
         try:
             post_on_bluesky_thread(parts)
             print("✅ Behoben auf Bluesky gepostet!")
-            time.sleep(2)
+            time.sleep(5)
         except Exception as e:
             print("❌ Fehler beim Posten Behoben:", e)
 
