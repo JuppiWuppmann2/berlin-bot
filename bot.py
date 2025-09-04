@@ -65,11 +65,17 @@ def get_viz_updates():
 # ----------------------------- State Management -----------------------------
 def load_state():
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            # direkt normalisieren
-            return set(normalize_message(item) for item in data)
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                data = f.read().strip()
+                if not data:  # Datei leer
+                    return set()
+                return set(json.loads(data))
+        except (json.JSONDecodeError, ValueError):
+            print("⚠️ Warnung: Konnte data.json nicht lesen – Datei wird zurückgesetzt.")
+            return set()
     return set()
+
 
 
 def save_state(state):
