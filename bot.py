@@ -44,9 +44,17 @@ def get_viz_updates():
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
 
-            # Hashtags automatisch erstellen, klickbar
-            hashtags = "#Berlin #Verkehr #Baustelle #Sperrung #Störung #Ampel #Straße"
-            message += " " + hashtags
+            # ----------------- Dynamische Hashtags -----------------
+            hashtags = ["#Berlin", "#Verkehr", "#Straße"]
+
+            if "Baustelle" in li.get_attribute("class"):
+                hashtags.append("#Baustelle")
+            elif "Sperrung" in li.get_attribute("class"):
+                hashtags.append("#Sperrung")
+            else:
+                hashtags.append("#Störung")
+
+            message += " " + " ".join(hashtags)
 
             updates.append(message)
         except Exception as e:
@@ -55,7 +63,6 @@ def get_viz_updates():
 
     driver.quit()
     return updates
-
 # ----------------------------- State Management -----------------------------
 def load_state():
     if os.path.exists(STATE_FILE):
