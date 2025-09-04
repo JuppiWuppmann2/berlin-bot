@@ -1,7 +1,7 @@
 POST_MAX_LEN = 280
 
 # Standard-Hashtags, die immer angehängt werden
-HASHTAGS = ["#Berlin", "#Verkehr", "#Baustelle", "#Sperrung", "#Störung", "#Ampel", "#Straße"]
+HASHTAGS = ["#Berlin", "#Verkehr", "#Baustelle", "#Sperrung", "#Störung", "#Straße"]
 
 def beautify_text(message):
     # Emojis für Schlüsselbegriffe ersetzen
