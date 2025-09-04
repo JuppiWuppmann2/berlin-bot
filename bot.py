@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-from beautify import beautify_text
+from beautify import beautify_text, HASHTAGS, POST_MAX_LEN
 from bluesky import post_on_bluesky_thread
 
 URL = "https://viz.berlin.de/verkehr-in-berlin/baustellen-sperrungen-und-sonstige-storungen/"
@@ -44,6 +44,10 @@ def get_viz_updates():
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
 
+            # Hashtags am Ende hinzufügen, doppelte entfernen und klickbar machen
+            hashtags_text = " ".join(sorted(set(HASHTAGS), key=HASHTAGS.index))
+            message += " " + hashtags_text
+
             updates.append(message)
         except Exception as e:
             print("Fehler beim Verarbeiten eines Eintrags:", e)
@@ -51,6 +55,7 @@ def get_viz_updates():
 
     driver.quit()
     return updates
+
 # ----------------------------- State Management -----------------------------
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -73,10 +78,12 @@ def main():
     print(f"Neue Meldungen: {len(new_items)}")
     for item in new_items:
         parts = beautify_text(item)
+        # Doppelte Hashtags entfernen nochmal für Sicherheit
+        parts = [part.replace("# ", "#") for part in parts]
         print("➡ Neue Meldung:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(part)  # <--- einfach so, ohne text=
+                post_on_bluesky_thread(part)
                 print("✅ Erfolgreich auf Bluesky gepostet!")
                 time.sleep(1)
             except Exception as e:
@@ -87,10 +94,11 @@ def main():
     print(f"Behobene Meldungen: {len(resolved_items)}")
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
+        parts = [part.replace("# ", "#") for part in parts]
         print("⬅ Behoben:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(part)  # <--- hier auch
+                post_on_bluesky_thread(part)
                 print("✅ Behoben auf Bluesky gepostet!")
                 time.sleep(1)
             except Exception as e:
