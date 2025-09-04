@@ -15,36 +15,42 @@ STATE_FILE = "data.json"
 
 # ----------------------------- Selenium Scraper -----------------------------
 def get_viz_updates():
+    """Scrapt die aktuelle Baustellenliste von viz.berlin."""
     print("🔍 Scraper gestartet...")
-    options = Options()
-    options.add_argument("--headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    driver.get(URL)
-    time.sleep(5)  # JS laden lassen
+    res = requests.get(URL, timeout=15)
+    res.raise_for_status()
+    soup = BeautifulSoup(res.text, "html.parser")
 
     updates = []
-    items = driver.find_elements(By.CSS_SELECTOR, "li.construction-sites-item")
+    items = soup.select("li.construction-sites-item")
     print(f"Gefundene Meldungen insgesamt: {len(items)}")
 
     for li in items:
         try:
-            title = li.find_element(By.TAG_NAME, "strong").text
+            title = li.select_one("strong").get_text(strip=True)
+            span_tags = li.select("span")
+            zeitraum = ""
+            location = ""
+            description = ""
 
-            span_texts = [span.text for span in li.find_elements(By.TAG_NAME, "span")]
-            zeitraum = next((t.replace("Zeitraum:", "").strip() for t in span_texts if "Zeitraum" in t), "")
-            location = next((t.replace("Straße:", "").strip() for t in span_texts if "Straße" in t), "")
-            description = " ".join([t for t in span_texts if "Zeitraum" not in t and "Straße" not in t])
+            for span in span_tags:
+                text = span.get_text(strip=True)
+                if text.startswith("Zeitraum:"):
+                    zeitraum = text.replace("Zeitraum:", "").strip()
+                elif text.startswith("Straße:"):
+                    location = text.replace("Straße:", "").strip()
+                else:
+                    description += text + " "
 
-            message = f"{title}\n{description}\n{zeitraum}\n{location}"
+            # nur nicht-leere Teile behalten → keine \n\n mehr
+            parts = [title, description.strip(), zeitraum, location]
+            message = "\n".join([p for p in parts if p])
+
             updates.append(message)
         except Exception as e:
-            print("Fehler beim Verarbeiten eines Eintrags:", e)
+            print("Fehler beim Parsen eines Eintrags:", e)
             continue
 
-    driver.quit()
     return updates
 
 # ----------------------------- State Management -----------------------------
