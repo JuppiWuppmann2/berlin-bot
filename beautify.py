@@ -11,21 +11,22 @@ def beautify_text(message):
     message = message.replace("Fahrbahn", "🛣️ Fahrbahn")
     message = message.replace("Ampel", "🚦 Ampel")
 
-    # Am Ende standardisierte Hashtags hinzufügen
+    # Hashtags anhängen (immer am Ende, in derselben Message)
     hashtags_text = " ".join(HASHTAGS)
-    message += "\n" + hashtags_text
+    message = f"{message}\n{hashtags_text}"
 
-    # Thread-Split (für Posts > 280 Zeichen)
+    # Thread-Split (falls > 280 Zeichen)
     parts = []
     while len(message) > POST_MAX_LEN:
-        split_idx = message.rfind("\n", 0, POST_MAX_LEN)
+        split_idx = message.rfind(" ", 0, POST_MAX_LEN)
         if split_idx == -1:
             split_idx = POST_MAX_LEN
         parts.append(message[:split_idx].strip())
         message = message[split_idx:].strip()
+
     parts.append(message.strip())
 
-    # Hashtags im Text korrigieren (z.B. "# Berlin" → "#Berlin")
+    # Hashtags im Text korrigieren (z. B. "# Berlin" → "#Berlin")
     parts = [part.replace("# ", "#") for part in parts]
 
     return parts
