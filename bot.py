@@ -72,9 +72,9 @@ def safe_post_on_bluesky(parts, max_retries=5):
         retries = 0
         while retries < max_retries:
             try:
-                post = post_on_bluesky_thread([part])  # Thread-Post
-                reply_to = post.uri
-                time.sleep(1)  # kleine Pause
+                # Die Funktion post_on_bluesky_thread postet bereits einen Thread
+                post_on_bluesky_thread([part])
+                time.sleep(1)  # kleine Pause für Rate-Limit
                 break
             except Exception as e:
                 if "RateLimitExceeded" in str(e):
