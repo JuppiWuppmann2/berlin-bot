@@ -1,32 +1,39 @@
 POST_MAX_LEN = 280
 
-# Standard-Hashtags, die immer angehängt werden
 HASHTAGS = ["#Berlin", "#Verkehr", "#Baustelle", "#Sperrung", "#Störung", "#Straße"]
 
 def beautify_text(message):
     # Emojis für Schlüsselbegriffe ersetzen
-    message = message.replace("Baustelle", "🚧 Baustelle")
-    message = message.replace("Sperrung", "⛔ Sperrung")
-    message = message.replace("Gefahr", "⚠️ Gefahr")
-    message = message.replace("Fahrbahn", "🛣️ Fahrbahn")
-    message = message.replace("Ampel", "🚦 Ampel")
+    replacements = {
+        "Baustelle": "🚧 Baustelle",
+        "Sperrung": "⛔ Sperrung",
+        "Gefahr": "⚠️ Gefahr",
+        "Fahrbahn": "🛣️ Fahrbahn",
+        "Ampel": "🚦 Ampel",
+    }
+    for word, emoji in replacements.items():
+        message = message.replace(word, emoji)
 
-    # Hashtags anhängen (immer am Ende, in derselben Message)
+    # Hashtags anhängen
     hashtags_text = " ".join(HASHTAGS)
     message = f"{message}\n{hashtags_text}"
 
-    # Thread-Split (falls > 280 Zeichen)
     parts = []
     while len(message) > POST_MAX_LEN:
+        # Sicherstellen, dass wir nicht mitten in einem Hashtag splitten
         split_idx = message.rfind(" ", 0, POST_MAX_LEN)
+        while split_idx > 0 and message[split_idx - 1] == "#":
+            split_idx = message.rfind(" ", 0, split_idx - 1)
+
         if split_idx == -1:
             split_idx = POST_MAX_LEN
+
         parts.append(message[:split_idx].strip())
         message = message[split_idx:].strip()
 
     parts.append(message.strip())
 
-    # Hashtags im Text korrigieren (z. B. "# Berlin" → "#Berlin")
+    # Hashtags im Text korrigieren
     parts = [part.replace("# ", "#") for part in parts]
 
     return parts
