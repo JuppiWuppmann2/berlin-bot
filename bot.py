@@ -38,11 +38,15 @@ def get_viz_updates():
             span_texts = [span.text for span in li.find_elements(By.TAG_NAME, "span")]
             zeitraum = next((t.replace("Zeitraum:", "").strip() for t in span_texts if "Zeitraum" in t), "")
             location = next((t.replace("Straße:", "").strip() for t in span_texts if "Straße" in t), "")
-            description = " ".join([t for t in span_texts if "Zeitraum" not in t and "Straße" not in t])
+            description = " | ".join([t for t in span_texts if "Zeitraum" not in t and "Straße" not in t])
 
-            # Neu: keine \n, sondern Leerzeichen
+            # Nachricht ohne Zeilenumbrüche, | als Trenner
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
+
+            # Hashtags automatisch erstellen, klickbar
+            hashtags = "#Berlin #Verkehr #Baustelle #Sperrung #Störung #Ampel #Straße"
+            message += " " + hashtags
 
             updates.append(message)
         except Exception as e:
@@ -75,11 +79,13 @@ def main():
     for item in new_items:
         parts = beautify_text(item)
         print("➡ Neue Meldung:", parts)
-        try:
-            post_on_bluesky_thread(parts)
-            print("✅ Erfolgreich auf Bluesky gepostet!")
-        except Exception as e:
-            print("❌ Fehler beim Posten auf Bluesky:", e)
+        for part in parts:
+            try:
+                post_on_bluesky_thread(part)
+                print("✅ Erfolgreich auf Bluesky gepostet!")
+                time.sleep(1)  # kleine Pause für Rate-Limit
+            except Exception as e:
+                print("❌ Fehler beim Posten auf Bluesky:", e)
 
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
@@ -87,11 +93,13 @@ def main():
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
         print("⬅ Behoben:", parts)
-        try:
-            post_on_bluesky_thread(parts)
-            print("✅ Behoben auf Bluesky gepostet!")
-        except Exception as e:
-            print("❌ Fehler beim Posten Behoben:", e)
+        for part in parts:
+            try:
+                post_on_bluesky_thread(part)
+                print("✅ Behoben auf Bluesky gepostet!")
+                time.sleep(1)
+            except Exception as e:
+                print("❌ Fehler beim Posten Behoben:", e)
 
     save_state(current_updates)
     print("💾 State gespeichert.")
