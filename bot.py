@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
-from beautify import beautify_text, HASHTAGS, POST_MAX_LEN
+from beautify import beautify_text
 from bluesky import post_on_bluesky_thread
 
 URL = "https://viz.berlin.de/verkehr-in-berlin/baustellen-sperrungen-und-sonstige-storungen/"
@@ -66,13 +66,16 @@ def get_viz_updates():
 def load_state():
     if os.path.exists(STATE_FILE):
         with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return set(json.load(f))
+            data = json.load(f)
+            # direkt normalisieren
+            return set(normalize_message(item) for item in data)
     return set()
 
 
 def save_state(state):
+    """Speichert bereits normalisierte Meldungen"""
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(state), f, ensure_ascii=False, indent=2)
+        json.dump(sorted(list(state)), f, ensure_ascii=False, indent=2)
 
 
 # ----------------------------- Main -----------------------------
@@ -87,6 +90,7 @@ def main():
     new_items = current_updates - prev_state
     print(f"Neue Meldungen: {len(new_items)}")
     for norm_item in new_items:
+        # Ursprünglichen Text finden (für Beautify)
         orig_item = next(u for u in raw_updates if normalize_message(u) == norm_item)
         parts = beautify_text(orig_item)
         print("➡ Neue Meldung:", parts)
