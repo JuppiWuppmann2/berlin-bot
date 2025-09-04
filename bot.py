@@ -68,6 +68,8 @@ def save_state(state):
         json.dump(list(state), f, ensure_ascii=False, indent=2)
 
 # ----------------------------- Main -----------------------------
+
+# ----------------------------- Main -----------------------------
 def main():
     print("🚀 Bot gestartet...")
     prev_state = load_state()
@@ -81,7 +83,7 @@ def main():
         print("➡ Neue Meldung:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(part)
+                post_on_bluesky_thread(text=part)  # korrektes Argument
                 print("✅ Erfolgreich auf Bluesky gepostet!")
                 time.sleep(1)  # kleine Pause für Rate-Limit
             except Exception as e:
@@ -95,7 +97,7 @@ def main():
         print("⬅ Behoben:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(part)
+                post_on_bluesky_thread(text=part)
                 print("✅ Behoben auf Bluesky gepostet!")
                 time.sleep(1)
             except Exception as e:
