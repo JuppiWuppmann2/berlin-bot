@@ -63,6 +63,31 @@ def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(list(state), f, ensure_ascii=False, indent=2)
 
+# ----------------------------- Safe Posting -----------------------------
+def safe_post_on_bluesky(parts, max_retries=5):
+    """Postet sicher auf Bluesky, wartet bei Rate-Limit."""
+    from time import sleep
+    reply_to = None
+    for part in parts:
+        retries = 0
+        while retries < max_retries:
+            try:
+                post = post_on_bluesky_thread([part])  # Thread-Post
+                reply_to = post.uri
+                time.sleep(1)  # kleine Pause
+                break
+            except Exception as e:
+                if "RateLimitExceeded" in str(e):
+                    wait_time = 60  # 1 Minute warten
+                    print(f"⚠️ Rate Limit erreicht, warte {wait_time} Sekunden...")
+                    sleep(wait_time)
+                    retries += 1
+                else:
+                    print("❌ Fehler beim Posten:", e)
+                    break
+        if retries == max_retries:
+            print("❌ Post konnte nach mehreren Versuchen nicht gesendet werden.")
+
 # ----------------------------- Main -----------------------------
 def main():
     print("🚀 Bot gestartet...")
@@ -75,12 +100,7 @@ def main():
     for item in new_items:
         parts = beautify_text(item)
         print("➡ Neue Meldung:", parts)
-        try:
-            post_on_bluesky_thread(parts)  # postet als Thread
-            print("✅ Erfolgreich auf Bluesky gepostet!")
-            time.sleep(1)  # kleine Pause für Rate-Limit
-        except Exception as e:
-            print("❌ Fehler beim Posten auf Bluesky:", e)
+        safe_post_on_bluesky(parts)
 
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
@@ -88,12 +108,7 @@ def main():
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
         print("⬅ Behoben:", parts)
-        try:
-            post_on_bluesky_thread(parts)
-            print("✅ Behoben auf Bluesky gepostet!")
-            time.sleep(1)
-        except Exception as e:
-            print("❌ Fehler beim Posten Behoben:", e)
+        safe_post_on_bluesky(parts)
 
     save_state(current_updates)
     print("💾 State gespeichert.")
