@@ -44,18 +44,6 @@ def get_viz_updates():
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
 
-            # ----------------- Dynamische Hashtags -----------------
-            hashtags = ["#Berlin", "#Verkehr", "#Straße"]
-
-            if "Baustelle" in li.get_attribute("class"):
-                hashtags.append("#Baustelle")
-            elif "Sperrung" in li.get_attribute("class"):
-                hashtags.append("#Sperrung")
-            else:
-                hashtags.append("#Störung")
-
-            message += " " + " ".join(hashtags)
-
             updates.append(message)
         except Exception as e:
             print("Fehler beim Verarbeiten eines Eintrags:", e)
@@ -75,8 +63,6 @@ def save_state(state):
         json.dump(list(state), f, ensure_ascii=False, indent=2)
 
 # ----------------------------- Main -----------------------------
-
-# ----------------------------- Main -----------------------------
 def main():
     print("🚀 Bot gestartet...")
     prev_state = load_state()
@@ -90,9 +76,9 @@ def main():
         print("➡ Neue Meldung:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(text=part)  # korrektes Argument
+                post_on_bluesky_thread(part)  # <--- einfach so, ohne text=
                 print("✅ Erfolgreich auf Bluesky gepostet!")
-                time.sleep(1)  # kleine Pause für Rate-Limit
+                time.sleep(1)
             except Exception as e:
                 print("❌ Fehler beim Posten auf Bluesky:", e)
 
@@ -104,7 +90,7 @@ def main():
         print("⬅ Behoben:", parts)
         for part in parts:
             try:
-                post_on_bluesky_thread(text=part)
+                post_on_bluesky_thread(part)  # <--- hier auch
                 print("✅ Behoben auf Bluesky gepostet!")
                 time.sleep(1)
             except Exception as e:
