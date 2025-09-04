@@ -74,31 +74,26 @@ def main():
     print(f"Neue Meldungen: {len(new_items)}")
     for item in new_items:
         parts = beautify_text(item)
-        # Zeilenumbrüche entfernen, doppelte Hashtags bereinigen
-        parts = [part.replace("\n", " ").replace("# ", "#") for part in parts]
         print("➡ Neue Meldung:", parts)
-        for part in parts:
-            try:
-                post_on_bluesky_thread(part)
-                print("✅ Erfolgreich auf Bluesky gepostet!")
-                time.sleep(1)
-            except Exception as e:
-                print("❌ Fehler beim Posten auf Bluesky:", e)
+        try:
+            post_on_bluesky_thread(parts)  # postet als Thread
+            print("✅ Erfolgreich auf Bluesky gepostet!")
+            time.sleep(1)  # kleine Pause für Rate-Limit
+        except Exception as e:
+            print("❌ Fehler beim Posten auf Bluesky:", e)
 
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
     print(f"Behobene Meldungen: {len(resolved_items)}")
     for item in resolved_items:
         parts = beautify_text(f"✅ Behoben: {item}")
-        parts = [part.replace("\n", " ").replace("# ", "#") for part in parts]
         print("⬅ Behoben:", parts)
-        for part in parts:
-            try:
-                post_on_bluesky_thread(part)
-                print("✅ Behoben auf Bluesky gepostet!")
-                time.sleep(1)
-            except Exception as e:
-                print("❌ Fehler beim Posten Behoben:", e)
+        try:
+            post_on_bluesky_thread(parts)
+            print("✅ Behoben auf Bluesky gepostet!")
+            time.sleep(1)
+        except Exception as e:
+            print("❌ Fehler beim Posten Behoben:", e)
 
     save_state(current_updates)
     print("💾 State gespeichert.")
