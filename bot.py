@@ -78,8 +78,8 @@ def main():
     print(f"Neue Meldungen: {len(new_items)}")
     for item in new_items:
         parts = beautify_text(item)
-        # Doppelte Hashtags entfernen nochmal für Sicherheit
-        parts = [part.replace("# ", "#") for part in parts]
+        # Zeilenumbrüche entfernen, doppelte Hashtags bereinigen
+        parts = [part.replace("\n", " ").replace("# ", "#") for part in parts]
         print("➡ Neue Meldung:", parts)
         for part in parts:
             try:
@@ -88,6 +88,7 @@ def main():
                 time.sleep(1)
             except Exception as e:
                 print("❌ Fehler beim Posten auf Bluesky:", e)
+
 
     # Behobene Meldungen
     resolved_items = prev_state - current_updates
