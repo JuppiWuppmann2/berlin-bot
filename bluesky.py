@@ -11,5 +11,5 @@ def post_on_bluesky_thread(parts):
     """Postet eine Nachricht oder Thread auf Bluesky."""
     reply_to = None
     for part in parts:
-        post = client.post(content=part, reply_to=reply_to)
+        post = client.post(text=part, reply_to=reply_to)
         reply_to = post.uri
