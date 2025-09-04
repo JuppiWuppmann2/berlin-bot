@@ -44,9 +44,10 @@ def get_viz_updates():
                 else:
                     description += text + " "
 
-            # nur nicht-leere Teile behalten → keine \n\n mehr
+            # nur nicht-leere Teile behalten → keine \n mehr
             parts = [title, description.strip(), zeitraum, location]
-            message = "\n".join([p for p in parts if p])
+            message = " ".join([p for p in parts if p])  # Leerzeichen statt \n
+            message = " ".join(message.split())  # Mehrfache Leerzeichen entfernen
 
             updates.append(message)
         except Exception as e:
