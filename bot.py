@@ -9,6 +9,9 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.support.ui import WebDriverWait
+from selenium.webdriver.common.support import expected_conditions as EC
+from selenium.webdriver.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 
 from beautify import beautify_text
@@ -41,13 +44,26 @@ def normalize_message(message: str) -> str:
 def get_viz_updates():
     print("🔍 Scraper gestartet...")
     options = Options()
-    options.add_argument("--headless")
+    # Stabilere Headless-Einstellungen für CI-Umgebungen
+    options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--remote-debugging-port=9222")
 
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    driver.get(URL)
-    time.sleep(5)  # JS laden lassen
+    
+    try:
+        driver.get(URL)
+        # Warten, bis mindestens ein Eintrag geladen ist (max. 30 Sekunden)
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.construction-sites-item"))
+        )
+    except TimeoutException:
+        print("⚠️ Timeout beim Laden der Meldungen – Seite konnte nicht vollständig geladen werden")
+        driver.quit()
+        return []
 
     updates = []
     items = driver.find_elements(By.CSS_SELECTOR, "li.construction-sites-item")
@@ -62,10 +78,8 @@ def get_viz_updates():
             location = next((t.replace("Straße:", "").strip() for t in span_texts if "Straße" in t), "")
             description = " | ".join([t for t in span_texts if "Zeitraum" not in t and "Straße" not in t])
 
-            # Nachricht zusammenbauen
             parts = [title, description, zeitraum, location]
             message = " | ".join([p for p in parts if p])
-
             updates.append(message)
         except Exception as e:
             print("Fehler beim Verarbeiten eines Eintrags:", e)
@@ -73,7 +87,6 @@ def get_viz_updates():
 
     driver.quit()
     return updates
-
 
 # ----------------------------- State Management -----------------------------
 def load_state():
