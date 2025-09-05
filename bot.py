@@ -1,9 +1,10 @@
 import os
 import json
 import time
-import re
 import requests
+import re
 import unicodedata
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -21,13 +22,16 @@ def normalize_message(message: str) -> str:
     """Normiert Meldungen für stabilen Vergleich im State-File."""
     msg = message.lower().strip()
 
+    # Unsichtbare Unicode-Zeichen entfernen
+    msg = msg.replace("\u200b", "").replace("\xa0", " ")
+
     # Emojis und Symbole entfernen
     msg = "".join(ch for ch in msg if not unicodedata.category(ch).startswith("So"))
 
-    # Nur Buchstaben, Zahlen, Umlaute, ß, Trenner und Leerzeichen behalten
-    msg = re.sub(r"[^a-z0-9äöüß| ]+", " ", msg)
+    # Erlaubte Zeichen (Buchstaben, Zahlen, Umlaute, Satzzeichen, Trenner)
+    msg = re.sub(r"[^a-z0-9äöüß|,.:;\/\- ]+", " ", msg)
 
-    # Mehrfach-Leerzeichen und -Trenner vereinheitlichen
+    # Mehrfach-Leerzeichen und Trenner vereinheitlichen
     msg = re.sub(r"\s+", " ", msg).strip()
     msg = msg.replace(" | ", "|")
 
@@ -70,6 +74,7 @@ def get_viz_updates():
     driver.quit()
     return updates
 
+
 # ----------------------------- State Management -----------------------------
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -84,10 +89,12 @@ def load_state():
             return set()
     return set()
 
+
 def save_state(state):
     """Speichert bereits normalisierte Meldungen"""
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(state)), f, ensure_ascii=False, indent=2)
+
 
 # ----------------------------- Main -----------------------------
 def main():
@@ -98,18 +105,23 @@ def main():
     raw_updates = get_viz_updates()
     current_updates = set(normalize_message(u) for u in raw_updates)
 
+    # Debug: zeige Beispiel Normalisierung
+    print("🔎 Beispiel Normalisierung (erste 3 Meldungen):")
+    for u in raw_updates[:3]:
+        print("RAW :", u)
+        print("NORM:", normalize_message(u))
+
     # Neue Meldungen
     new_items = current_updates - prev_state
     print(f"Neue Meldungen: {len(new_items)}")
     for norm_item in new_items:
-        # Ursprünglichen Text finden (für Beautify)
         orig_item = next(u for u in raw_updates if normalize_message(u) == norm_item)
         parts = beautify_text(orig_item)
         print("➡ Neue Meldung:", parts)
         try:
             post_on_bluesky_thread(parts)
             print("✅ Erfolgreich auf Bluesky gepostet!")
-            time.sleep(5)  # etwas längere Pause gegen Rate-Limits
+            time.sleep(5)  # längere Pause gegen Rate-Limits
         except Exception as e:
             print("❌ Fehler beim Posten auf Bluesky:", e)
 
@@ -129,6 +141,7 @@ def main():
     # Nur normalisierte Meldungen speichern
     save_state(current_updates)
     print("💾 State gespeichert.")
+
 
 if __name__ == "__main__":
     main()
