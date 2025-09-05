@@ -10,27 +10,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Repo auschecken mit Schreibrechten durch GH_PAT
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
 
+      # Python einrichten
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
+      # Dependencies installieren
       - name: Install dependencies
         run: |
           pip install selenium webdriver-manager atproto beautifulsoup4
 
+      # Bot ausführen
       - name: Run bot
         run: python bot.py
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
 
+      # Aktualisierte data.json committen und pushen
       - name: Commit and push updated state
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
           git commit -m "Update state file [skip ci]" || echo "No changes to commit"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/JuppiWuppmann2/berlin-bot.git HEAD:main
+          git push origin HEAD:main
