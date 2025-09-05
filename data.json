@@ -1,5 +1,6 @@
 [
   "a13 schönefelder kreuz richtung dresden zwischen duben und lübbenau|gefahr besteht nicht mehr",
+  "b2, b198 schmargendorf richtung rosow zwischen abzweig nach angermünde und schmargendorf|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111|baustelle, linker fahrstreifen je richtung gesperrt",
@@ -170,6 +171,7 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen ortrand und rastplatz ruhlander heide|unfallstelle geräumt",
   "gefahr a2 magdeburg richtung berliner ring zwischen ziesar und wollin|gefahr durch reifenteile auf der fahrbahn, liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a9 halle/leipzig richtung berlin zwischen köselitz und klein marzehns|liegengebliebenes fahrzeug",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -191,6 +193,7 @@
   "gefahr b96 berlin, roedernallee zwischen alt-reinickendorf und flottenstraße|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96 birkenwerder, hauptstraße zwischen ortseingang und a10, birkenwerder|unfallstelle geräumt",
+  "gefahr b96 reinickendorf richtung fürstenberg zwischen abzweig nach grüneberg und löwenberg|gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt",
   "gefahr b96 reinickendorf richtung fürstenberg zwischen hohen neuendorf und birkenwerder|gefahr durch ungesicherte unfallstelle, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park zwischen elsenstraße und moosdorfstraße|fahrbahnverengung, baustelle",
