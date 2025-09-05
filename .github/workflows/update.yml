@@ -27,10 +27,10 @@ jobs:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
 
-      - name: Commit updated state file
+      - name: Commit state file
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "actions@github.com"
           git add data.json
           git commit -m "Update state file [skip ci]" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/JuppiWuppmann2/berlin-bot.git
