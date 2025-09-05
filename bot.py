@@ -1,9 +1,9 @@
 import os
 import json
 import time
-import requests
 import re
-from bs4 import BeautifulSoup
+import requests
+import unicodedata
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -20,8 +20,17 @@ STATE_FILE = "data.json"
 def normalize_message(message: str) -> str:
     """Normiert Meldungen für stabilen Vergleich im State-File."""
     msg = message.lower().strip()
-    msg = re.sub(r"\s+", " ", msg)  # Mehrfach-Leerzeichen → einfaches Leerzeichen
-    msg = msg.replace(" | ", "|")   # Trenner vereinheitlichen
+
+    # Emojis und Symbole entfernen
+    msg = "".join(ch for ch in msg if not unicodedata.category(ch).startswith("So"))
+
+    # Nur Buchstaben, Zahlen, Umlaute, ß, Trenner und Leerzeichen behalten
+    msg = re.sub(r"[^a-z0-9äöüß| ]+", " ", msg)
+
+    # Mehrfach-Leerzeichen und -Trenner vereinheitlichen
+    msg = re.sub(r"\s+", " ", msg).strip()
+    msg = msg.replace(" | ", "|")
+
     return msg
 
 # ----------------------------- Selenium Scraper -----------------------------
@@ -61,7 +70,6 @@ def get_viz_updates():
     driver.quit()
     return updates
 
-
 # ----------------------------- State Management -----------------------------
 def load_state():
     if os.path.exists(STATE_FILE):
@@ -76,18 +84,16 @@ def load_state():
             return set()
     return set()
 
-
-
 def save_state(state):
     """Speichert bereits normalisierte Meldungen"""
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(state)), f, ensure_ascii=False, indent=2)
 
-
 # ----------------------------- Main -----------------------------
 def main():
     print("🚀 Bot gestartet...")
     prev_state = load_state()
+    print(f"📂 Bisher gespeicherte Meldungen: {len(prev_state)}")
 
     raw_updates = get_viz_updates()
     current_updates = set(normalize_message(u) for u in raw_updates)
@@ -123,7 +129,6 @@ def main():
     # Nur normalisierte Meldungen speichern
     save_state(current_updates)
     print("💾 State gespeichert.")
-
 
 if __name__ == "__main__":
     main()
