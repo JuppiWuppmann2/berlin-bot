@@ -1,5 +1,4 @@
 [
-  "b1 groß kreutz havel , potsdamer straße bis brandenburger straße zwischen alte schulstraße und kreisverkehr groß kreutz-west",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111|baustelle, linker fahrstreifen je richtung gesperrt",
@@ -175,6 +174,7 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen calau und kittlitz|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen mittenwalde und ragow|gefahr durch schwäne auf der fahrbahn, fahren sie bitte besonders vorsichtig",
+  "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig, gefahr durch ölspur",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
