@@ -175,7 +175,6 @@
   "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen briesen und müllrose|gefahr durch liegengebliebenes fahrzeug",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen kittlitz und dreieck spreewald|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|2 unfälle auf dem linken fahrstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
-  "gefahr a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|unfallstelle geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -373,7 +372,7 @@
   "sperrung b5, wusterhausen",
   "sperrung b5, wusterhausen, berliner straße",
   "sperrung b87, zwischen kolochau und herzberg",
-  "sperrung b96 fürstenberg richtung reinickendorf zwischen teschendorf und nassenheide|unfall, richtungsfahrbahn gesperrt",
+  "sperrung b96 fürstenberg richtung reinickendorf zwischen teschendorf und nassenheide|unfall, richtungsfahrbahn gesperrt, vollsperrung",
   "sperrung b96, brücke über die havelschleuse in der od fürstenberg/havel",
   "sperrung b96, neuhof bis od baruth",
   "sperrung b97 und b168, ou cottbus",
@@ -585,5 +584,6 @@
   "sperrung siemensdamm charlottenburg-nord|arbeiten am stromnetz, fahrbahn auf zwei fahrstreifen verengt",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung weißenhöher straße biesdorf|brückenarbeiten, vollsperrung für den kfz-, rad und fußverkehr. umleitungen sind ausgeschildert",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a9 halle/leipzig richtung berlin zwischen brück und dreieck potsdam|stau, polizei ist vor ort"
 ]
