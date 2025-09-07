@@ -1,4 +1,5 @@
 [
+  "a2 magdeburg richtung berliner ring zwischen wollin und brandenburg|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111|baustelle, linker fahrstreifen je richtung gesperrt",
@@ -174,7 +175,6 @@
   "gefahr a111 charlottenburg richtung dreieck oranienburg tunnel forstamt tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a2 berliner ring richtung magdeburg zwischen netzen und brandenburg|unfall, rechter fahrstreifen gesperrt, bitte vorsichtig fahren",
-  "gefahr a2 magdeburg richtung berliner ring zwischen wollin und brandenburg|gefahr durch ein pkw-rad auf dem standstreifen",
   "gefahr a24 berliner ring richtung pritzwalk zwischen raststätte walsleben-ost und rastplatz rossower heide ost|unfall, polizei und rettungswagen sind unterwegs, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -333,7 +333,7 @@
   "gefahr kladow, kladower damm zwischen hans-grade-ring und parkviertelallee|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr kreis barnim, l220, l23 zwischen joachimsthal und a11, chorin|unfall, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr kreis havelland und kreis stendal, l96, l18 zwischen abzweig nach rathenow und neu-schollene|wildunfall, gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt",
-  "gefahr kreis potsdam-mittelmark und berlin, l761 zwischen teltow und schwelmer straße in berlin|unfall, fahrbahn auf einen fahrstreifen verengt",
+  "gefahr kreis potsdam-mittelmark und berlin, l761 zwischen teltow und schwelmer straße in berlin|unfallstelle geräumt",
   "gefahr messe berlin|staugefahr, nutzen sie die öffentlichen verkehrsmittel",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
