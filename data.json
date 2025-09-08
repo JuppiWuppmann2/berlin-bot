@@ -178,14 +178,12 @@
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
-  "gefahr a11 berliner ring richtung kreuz uckermark zwischen finowfurt und werbellin|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen seidelstraße und raststätte stolper heide|rechter fahrstreifen gesperrt, reinigungsarbeiten, grünpflege",
-  "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen dreieck flughafen berlin brandenburg und waltersdorfer dreieck|gefahr durch ungesicherte unfallstelle auf dem rechten fahrstreifen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen dreieck flughafen berlin brandenburg und waltersdorfer dreieck|unfallstelle geräumt",
   "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen späthstraße und tunnel rudower höhe|rechter fahrstreifen gesperrt, reinigungsarbeiten",
   "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefelder kreuz und waltersdorfer dreieck|linker fahrstreifen gesperrt, feuerwehreinsatz",
   "gefahr a115 dreieck funkturm richtung dreieck nuthetal zwischen dreieck funkturm und spanische allee|linker fahrstreifen gesperrt, reinigungsarbeiten, grünpflege",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen storkow und fürstenwalde-west|gefahr durch mehrere gegenstände auf allen fahrstreifen, gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -343,6 +341,7 @@
   "gefahr kreis havelland und kreis stendal, l96, l18 zwischen abzweig nach rathenow und neu-schollene|unfallstelle geräumt",
   "gefahr messe berlin|staugefahr, nutzen sie die öffentlichen verkehrsmittel",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
+  "kreis barnim, chausseestraße zwischen abzweig nach willmersdorf und börnicke|reparaturarbeiten, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -595,5 +594,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung weißenhöher straße biesdorf|brückenarbeiten, vollsperrung für den kfz-, rad und fußverkehr. umleitungen sind ausgeschildert",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rüdersdorf|stau, fahren sie bitte besonders vorsichtig"
+  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rüdersdorf|stau, fahren sie bitte besonders vorsichtig",
+  "stau b179 zeesen, karl-liebknecht-straße zwischen weidendamm und ortsausgang|stau, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
