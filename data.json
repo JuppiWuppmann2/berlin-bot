@@ -1,5 +1,4 @@
 [
-  "b1, b5 berlin, alt-friedrichsfelde bis frankfurter allee zwischen rhinstraße und atzpodienstraße|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -173,6 +172,7 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, paulstraße in höhe lüneburger straße|ampelanlage wieder in betrieb",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen berlin-spandau und potsdam-nord|gefahr durch ungesicherte unfallstelle, gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt tempelhofer damm|bauarbeiten, fahrstreifen gesperrt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
@@ -312,7 +312,6 @@
   "gefahr berlin, ollenhauerstraße, richtung kurt-schumacher-platz in höhe reinickes hof|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, ostpreußendamm in höhe giesensdorfer straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, paulsborner straße in höhe caspar-theyß-straße|fahrbahn auf einen fahrstreifen verengt, vorübergehende regelung durch provisorische ampelanlagen",
-  "gefahr berlin, paulstraße in höhe lüneburger straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, pestalozzistraße zwischen schlüterstraße und leibnizstraße|einbahnstraßenregelung, bauarbeiten",
   "gefahr berlin, pfalzburger straße zwischen ludwigkirchstraße und lietzenburger straße|einbahnstraßenregelung",
   "gefahr berlin, pichelsdorfer straße zwischen wilhelmstraße und b2, b5, heerstraße|fahrbahnverengung, wanderbaustelle",
