@@ -1,5 +1,4 @@
 [
-  "a100 stadtring berlin, wedding richtung wilmersdorf ausfahrt hohenzollerndamm|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -174,21 +173,19 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, blaschkoallee in höhe buschkrugallee|ampelanlage wieder in betrieb",
-  "berlin, michelangelostraße nr.73-81 zwischen hanns-eisler-straße und greifswalder straße|ampelanlage wieder in betrieb",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck spreeau zwischen rangsdorf und schönefelder kreuz|defekter lkw, standstreifen gesperrt",
   "gefahr a10 südlicher berliner ring, dreieck werder richtung schönefelder kreuz zwischen glindow und dreieck potsdam|gefahr durch liegengebliebenes fahrzeug",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
-  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf in höhe hohenzollerndamm|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen späthstraße und tunnel rudower höhe|spurwechselanlagen defekt",
+  "gefahr a113, a13 neukölln richtung dresden in höhe schönefelder kreuz|unfall, gefahr durch liegengebliebenes fahrzeug auf dem mittleren fahrstreifen",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12, a10 richtung dreieck barnim zwischen dreieck spreeau und freienbrink|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
+  "gefahr a12, a10 richtung dreieck barnim zwischen dreieck spreeau und freienbrink|alle fahrbahnen geräumt",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|defekter lkw, standstreifen blockiert, polizei ist benachrichtigt",
   "gefahr a24 richtung berliner ring zwischen einfahrt kremmen und dreieck havelland|gefahr durch defektes fahrzeug in anschlussstellen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr a9 halle/leipzig richtung berlin zwischen niemegk und brück|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
@@ -609,5 +606,6 @@
   "sperrung senheimer straße frohnau",
   "sperrung siemensdamm charlottenburg-nord|arbeiten am stromnetz, fahrbahn auf zwei fahrstreifen verengt",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "sperrung wittenberge, bürgerstraße zwischen rathausstraße und zimmerstraße|unfall, vollsperrung"
 ]
