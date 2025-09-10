@@ -1,5 +1,4 @@
 [
-  "b1, b5 berlin, frankfurter allee in höhe gürtelstraße|ampelanlage wieder in betrieb",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -173,8 +172,6 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, neudecker weg in höhe selgenauer weg|ampelanlage wieder in betrieb",
-  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen birkenwerder und mühlenbeck|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -353,7 +350,6 @@
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
-  "sperrung a111 dreieck oranienburg richtung charlottenburg tunnel flughafen tegel|vollsperrung, unfall",
   "sperrung a111 ehem. a105|baustelle, fahrtrichtung gesperrt",
   "sperrung a113 autobahnzubringer dresden, schönefeld richtung neukölln einfahrt schönefeld-nord|gesperrt, technische probleme",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
