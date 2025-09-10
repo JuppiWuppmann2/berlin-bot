@@ -1,5 +1,5 @@
 [
-  "a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck nuthetal und ludwigsfelde-west|hindernisse beseitigt",
+  "b1, b5 biesdorf richtung küstrin-kietz zwischen dahlwitz-hoppegarten und abzweig schöneiche|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -174,7 +174,6 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -190,7 +189,6 @@
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, unter den eichen zwischen dahlemer weg und adolf-martens-straße|fahrbahn auf einen fahrstreifen verengt, markierungsarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b1, b5 biesdorf richtung küstrin-kietz zwischen dahlwitz-hoppegarten und abzweig schöneiche|gefahr durch gegenstände auf der fahrbahn",
   "gefahr b1, b5 küstrin-kietz richtung biesdorf zwischen abzweig nach fredersdorf und dahlwitz|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
