@@ -1,5 +1,4 @@
 [
-  "a15 cottbus richtung breslau zwischen cottbus-west und cottbus-süd",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -169,7 +168,6 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen birkenwerder und mühlenbeck|alle fahrbahnen geräumt",
   "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen dreieck havelland und oberkrämer|gefahr durch ungesicherte unfallstelle, querstehender anhänger auf dem mittleren fahrstreifen, defekter pkw auf dem standstreifen, gefahr durch fahrzeugteile auf allen fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -336,6 +334,7 @@
   "gefahr berlin, zillestraße zwischen gierkezeile und wilmersdorfer straße|einbahnstraßenregelung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
+  "gefahr kreis oder-spree, k6741 zwischen gölsdorf und schönfelde|gefahr durch ein totes tier dachs auf der fahrbahn",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
