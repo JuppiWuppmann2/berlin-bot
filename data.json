@@ -1,4 +1,5 @@
 [
+  "b5 berlin, ebertstraße in höhe behrenstraße|störung beseitigt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -168,8 +169,6 @@
   "baustelle weißenseer weg lichtenberg|beseitigung von fahrbahnschäden, ein fahrstreifen gesperrt, das abbiegen zum sportforum ist nicht möglich",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, mühlenstraße in höhe stralauer platz|ampelanlage wieder in betrieb",
-  "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hohenschönhausen und berlin-marzahn|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -194,7 +193,6 @@
   "gefahr b2, b5 berlin, kaiserdamm in höhe königin-elisabeth-straße / messedamm|fahrbahn auf zwei fahrstreifen verengt, staugefahr, geänderte verkehrsführung im baustellenbereich, baustelle, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
-  "gefahr b5 berlin, ebertstraße in höhe behrenstraße|ampelanlage arbeitet fehlerhaft, vorsicht an der kreuzung",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -580,6 +578,5 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wuhletalstraße marzahn noch nicht aktiv|baustelle, gesperrt",
-  "zehdenick, berliner straße in höhe b109, am berliner tor|gefahr besteht nicht mehr"
+  "sperrung wuhletalstraße marzahn noch nicht aktiv|baustelle, gesperrt"
 ]
