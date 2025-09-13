@@ -1,5 +1,4 @@
 [
-  "b183 bad düben richtung bad liebenwerda zwischen marxdorf und lausitz",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -178,7 +177,7 @@
   "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln einfahrt späthstraße|gefährliche situation in der einfahrt, liegengebliebenes fahrzeug",
   "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen johannisthaler chaussee und späthstraße|rechter fahrstreifen gesperrt, liegengebliebenes fahrzeug, polizei ist vor ort",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch 1 verlorene ladung ein reifen auf dem linken fahrstreifen",
+  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -195,6 +194,8 @@
   "gefahr b2, b5 berlin, kaiserdamm in höhe königin-elisabeth-straße / messedamm|fahrbahn auf zwei fahrstreifen verengt, staugefahr, geänderte verkehrsführung im baustellenbereich, baustelle, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
+  "gefahr b246 wiesenburg richtung mittenwalde zwischen trebbin und überleitung b101, trebbin-ost|gefahr durch ein totes tier auf der fahrbahn, polizei ist benachrichtigt, bitte vorsichtig fahren",
+  "gefahr b5 charlottenburg richtung nauen zwischen dallgow-döberitz und a10, berlin-spandau|gefahr durch 10 wildschweine auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
