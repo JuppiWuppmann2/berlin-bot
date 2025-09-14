@@ -1,5 +1,4 @@
 [
-  "a20 stettin richtung rostock zwischen prenzlau-süd und prenzlau-ost",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -341,6 +340,7 @@
   "gefahr kreis ostprignitz-ruppin, l18 zwischen herzsprung und a24, herzsprung|unfallstelle geräumt",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
+  "sperrung a11 kreuz uckermark richtung berliner ring zwischen pfingstberg und joachimsthal|unfall, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt, richtungsfahrbahn gesperrt, 4 km stau",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt schulzendorfer straße|gesperrt, ölspur",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -417,7 +417,6 @@
   "sperrung berlin, goltzstraße bis bahnhofstraße zwischen b96, lichtenrader damm und mellener straße|gesperrt, baustelle",
   "sperrung berlin, goltzstraße, stadtauswärts zwischen bahnhofstraße und briesingstraße|gesperrt, baustelle",
   "sperrung berlin, grünauer straße zwischen köpenicker straße und am falkenberg|gesperrt, baustelle",
-  "sperrung berlin, herbert-von-karajan-straße bis matthäikirchplatz zwischen tiergartenstraße und sigismundstraße",
   "sperrung berlin, hildegardstraße zwischen livländische straße und bundesallee|gesperrt, baustelle",
   "sperrung berlin, hohenzollernring in höhe tangermünder weg|gesperrt, baustelle",
   "sperrung berlin, homburger straße zwischen laubacher straße und ahrweilerstraße|gesperrt, bauarbeiten",
@@ -469,7 +468,6 @@
   "sperrung berlin, samariterstraße zwischen eldenaer straße und bänschstraße|gesperrt",
   "sperrung berlin, samariterstraße zwischen frankfurter allee und bänschstraße|gesperrt",
   "sperrung berlin, schaperstraße in höhe nürnberger straße|gesperrt, bauarbeiten",
-  "sperrung berlin, scharounplatz zwischen b1, potsdamer straße und herbert-von-karajan-straße",
   "sperrung berlin, schiffbauerdamm zwischen luisenstraße und albrechtstraße|gesperrt, bauarbeiten",
   "sperrung berlin, schildower straße zwischen elsestraße und ortsausgang|gesperrt, bauarbeiten",
   "sperrung berlin, schillerstraße zwischen giesensdorfer straße und ostpreußendamm|gesperrt, tiefbauarbeiten",
@@ -479,7 +477,6 @@
   "sperrung berlin, scottweg zwischen passenheimer straße und swiftweg|gesperrt, tiefbauarbeiten",
   "sperrung berlin, seidelbastweg zwischen straße 3a und stubenrauchstraße|gesperrt, wasserrohrbruch",
   "sperrung berlin, senheimer straße zwischen ariadnestraße und huttenstraße|gesperrt, fahrbahnausbesserung",
-  "sperrung berlin, sigismundstraße zwischen hitzigallee und b1, potsdamer straße",
   "sperrung berlin, smetanastraße zwischen chopinstraße und gounodstraße|gesperrt, bauarbeiten",
   "sperrung berlin, soorstraße zwischen gottfried-keller-straße und spandauer damm|gesperrt",
   "sperrung berlin, spichernstraße zwischen schapertstraße und bundesallee|gesperrt, baustelle",
@@ -581,6 +578,7 @@
   "sperrung siemensdamm charlottenburg-nord|arbeiten am stromnetz, fahrbahn auf zwei fahrstreifen verengt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
+  "sperrung velten, mühlenstraße zwischen mühlenweg und breite straße|unfall, polizei ist benachrichtigt, bitte vorsichtig fahren, staugefahr, vollsperrung",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wuhletalstraße marzahn noch nicht aktiv|baustelle, gesperrt"
 ]
