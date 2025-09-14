@@ -1,4 +1,5 @@
 [
+  "a20 rostock richtung schwedt/oder zwischen prenzlau-süd und kreuz uckermark|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -180,6 +181,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|gefahr durch 2 gegenstände auf dem rechten fahrstreifen und dem standstreifen fahrräder , gefahr durch personen auf dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen mauerstraße und friedrichstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -341,7 +343,6 @@
   "gefahr kreis ostprignitz-ruppin, l18 zwischen herzsprung und a24, herzsprung|unfall mit verletzten, polizei und rettungswagen sind unterwegs",
   "gefahr marwitz, berliner straße zwischen breite straße und ortsausgang|gefahr durch personen auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
-  "kreis spree-neiße, seestraße zwischen b320 in pinnow und bärenklau|gefahr besteht nicht mehr",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -589,6 +590,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wuhletalstraße marzahn noch nicht aktiv|baustelle, gesperrt",
-  "stau a13 schönefelder kreuz richtung dresden zwischen klettwitz und ausfahrt ruhland|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "stau a20 rostock richtung schwedt/oder zwischen prenzlau-süd und kreuz uckermark|stau, fahren sie bitte besonders vorsichtig"
+  "stau a11 kreuz uckermark richtung berliner ring zwischen finowfurt und lanke|stau, fahren sie bitte besonders vorsichtig",
+  "stau a13 schönefelder kreuz richtung dresden zwischen klettwitz und ausfahrt ruhland|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
