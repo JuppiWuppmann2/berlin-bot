@@ -1,5 +1,4 @@
 [
-  "b246 wiesenburg richtung mittenwalde zwischen schünow und nächst neuendorf|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -264,6 +263,7 @@
   "gefahr berlin, kiefholzstraße zwischen elsenstraße und treptower straße|staugefahr, für beide richtungen nur ein fahrstreifen abwechselnd frei, rohrbruch",
   "gefahr berlin, klaustaler straße bis wernigeroder straße zwischen nordhauser straße und harlingeroder weg über quedlinburger straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, kollatzstraße zwischen crusiusstraße und lerschpfad|fahrbahnverengung, baustelle",
+  "gefahr berlin, kronprinzessinnenweg zwischen am sandwerder und b1, königstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, kurfürstenstraße zwischen karl-heinrich-ulrichs-straße und an der urania|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, landsberger allee in höhe am wasserwerk|linker fahrstreifen gesperrt, tiefbauarbeiten",
   "gefahr berlin, landsberger allee in höhe marzahner brücke|fahrbahn auf einen fahrstreifen verengt, brückenarbeiten",
@@ -335,6 +335,7 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis ostprignitz-ruppin, l18 zwischen herzsprung und a24, herzsprung|unfallstelle geräumt",
+  "gefahr kreis spree-neiße, b97 zwischen heinersbrück und abzweig nach jänschwalde ost|gefahr durch ein totes tier reh auf der fahrbahn",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
