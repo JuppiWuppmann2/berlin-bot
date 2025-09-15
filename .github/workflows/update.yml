@@ -29,13 +29,25 @@ jobs:
           pip install --upgrade pip
           pip install selenium==4.15.0 webdriver-manager==4.0.1 atproto==0.0.46 beautifulsoup4==4.12.2
       
-      # Chrome für bessere Stabilität vorbereiten
-      - name: Setup Chrome
+      # Chrome und ChromeDriver für bessere Stabilität vorbereiten
+      - name: Setup Chrome and ChromeDriver
         run: |
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable xvfb
+          
           # Chrome-Version überprüfen
-          google-chrome --version
+          CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3 | cut -d '.' -f1-3)
+          echo "Chrome Version: $CHROME_VERSION"
+          
+          # ChromeDriver direkt installieren (robuster als WebDriverManager)
+          CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          wget -O /tmp/chromedriver.zip "https://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/chromedriver_linux64.zip"
+          sudo unzip /tmp/chromedriver.zip -d /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+          
+          # Überprüfen
+          chromedriver --version
+          which chromedriver
       
       # Bot mit erweiterten Umgebungsvariablen ausführen
       - name: Run bot
