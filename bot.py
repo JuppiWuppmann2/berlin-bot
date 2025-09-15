@@ -78,7 +78,7 @@ def restore_from_backup():
 
 # ----------------------------- Selenium Scraper mit Retry-Logic -----------------------------
 def get_viz_updates_with_retry():
-    """Scraping mit mehreren Versuchen."""
+    """Scraping mit mehreren Versuchen und Fallback."""
     for attempt in range(MAX_RETRIES):
         try:
             logger.info(f"🔍 Scraping-Versuch {attempt + 1}/{MAX_RETRIES}")
@@ -95,7 +95,17 @@ def get_viz_updates_with_retry():
             if attempt < MAX_RETRIES - 1:
                 time.sleep(RETRY_DELAY)
     
-    logger.error("❌ Alle Scraping-Versuche fehlgeschlagen")
+    # Fallback-Scraper versuchen
+    logger.info("🔄 Alle Selenium-Versuche fehlgeschlagen, versuche Fallback-Scraper...")
+    try:
+        fallback_updates = get_viz_updates_fallback()
+        if fallback_updates:
+            logger.info(f"✅ Fallback-Scraper erfolgreich: {len(fallback_updates)} Meldungen")
+            return fallback_updates
+    except Exception as e:
+        logger.error(f"❌ Auch Fallback-Scraper fehlgeschlagen: {e}")
+    
+    logger.error("❌ Alle Scraping-Versuche (Selenium + Fallback) fehlgeschlagen")
     return []
 
 def get_viz_updates():
