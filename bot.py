@@ -17,6 +17,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from beautify import beautify_text
 from bluesky import post_on_bluesky_thread, BlueskyError
+from fallback import get_viz_updates_fallback
 
 # Logging konfigurieren
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -127,8 +128,71 @@ def get_viz_updates():
     
     driver = None
     try:
-        # Driver-Installation mit Timeout
-        service = Service(ChromeDriverManager().install())
+        # Robuste Driver-Installation mit System-ChromeDriver Präferenz
+        driver_path = None
+        
+        # Zuerst System-ChromeDriver versuchen (von GitHub Actions installiert)
+        system_chromedriver = "/usr/local/bin/chromedriver"
+        if os.path.exists(system_chromedriver) and os.access(system_chromedriver, os.X_OK):
+            driver_path = system_chromedriver
+            logger.info(f"✅ Verwende System-ChromeDriver: {driver_path}")
+        else:
+            # Fallback: WebDriver Manager
+            try:
+                driver_path = ChromeDriverManager().install()
+                logger.info(f"📁 ChromeDriver-Pfad von WebDriverManager: {driver_path}")
+                
+                # WebDriverManager-Pfad validieren und korrigieren
+                if driver_path and os.path.exists(driver_path):
+                    # Wenn es ein Verzeichnis ist, nach der chromedriver-Datei suchen
+                    if os.path.isdir(driver_path):
+                        for root, dirs, files in os.walk(driver_path):
+                            for file in files:
+                                if file == 'chromedriver' and not file.endswith('.chromedriver'):
+                                    potential_driver = os.path.join(root, file)
+                                    if os.access(potential_driver, os.X_OK):
+                                        driver_path = potential_driver
+                                        logger.info(f"🔧 Gefundener ausführbarer ChromeDriver: {driver_path}")
+                                        break
+                            if driver_path and not os.path.isdir(driver_path):
+                                break
+                    
+                    # Ausführungsrechte setzen falls nötig
+                    if not os.access(driver_path, os.X_OK):
+                        import stat
+                        os.chmod(driver_path, stat.S_IRWXU | stat.S_IRGRP | stat.S_IROTH)
+                        logger.info(f"🔧 Ausführungsrechte für ChromeDriver gesetzt")
+                        
+            except Exception as e:
+                logger.warning(f"⚠️ WebDriverManager fehlgeschlagen: {e}")
+                driver_path = None
+        
+        # Service erstellen - mit Fallback-Strategien
+        service = None
+        if driver_path and os.path.exists(driver_path) and os.access(driver_path, os.X_OK):
+            service = Service(executable_path=driver_path)
+            logger.info(f"📍 Service mit explizitem Pfad: {driver_path}")
+        else:
+            # Letzter Versuch: System-PATH durchsuchen
+            for path_dir in os.environ.get('PATH', '').split(os.pathsep):
+                chromedriver_path = os.path.join(path_dir, 'chromedriver')
+                if os.path.exists(chromedriver_path) and os.access(chromedriver_path, os.X_OK):
+                    service = Service(executable_path=chromedriver_path)
+                    logger.info(f"📍 Service mit PATH-ChromeDriver: {chromedriver_path}")
+                    break
+            
+            if not service:
+                # Allerletzter Versuch ohne expliziten Pfad
+                try:
+                    service = Service()
+                    logger.info("📍 Service ohne expliziten Pfad (System-Standard)")
+                except Exception as e:
+                    logger.error(f"❌ Kann keinen ChromeDriver-Service erstellen: {e}")
+                    raise Exception("ChromeDriver-Service konnte nicht initialisiert werden")
+        
+        if not service:
+            raise Exception("Kein funktionierender ChromeDriver gefunden")
+            
         driver = webdriver.Chrome(service=service, options=options)
         driver.set_page_load_timeout(60)
         
