@@ -19,76 +19,182 @@ def get_viz_updates_fallback():
         'Accept-Encoding': 'gzip, deflate, br',
         'Connection': 'keep-alive',
         'Upgrade-Insecure-Requests': '1',
+        'Cache-Control': 'no-cache',
     }
     
     url = "https://viz.berlin.de/verkehr-in-berlin/baustellen-sperrungen-und-sonstige-storungen/"
     
     try:
-        response = requests.get(url, headers=headers, timeout=30)
+        session = requests.Session()
+        session.headers.update(headers)
+        
+        logger.info(f"📡 Lade Seite: {url}")
+        response = session.get(url, timeout=30)
         response.raise_for_status()
+        
+        logger.info(f"📄 Antwort erhalten: {len(response.content)} Bytes, Status: {response.status_code}")
         
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Verschiedene Selektoren ausprobieren
-        selectors = [
+        # Debug: HTML-Struktur analysieren
+        logger.info("🔍 Analysiere HTML-Struktur...")
+        
+        # Zuerst schauen, ob überhaupt Content da ist
+        body_text = soup.get_text(strip=True)[:500]
+        logger.info(f"🔍 Body-Text (erste 500 Zeichen): {body_text}")
+        
+        # Nach verschiedenen möglichen Container-Strukturen suchen
+        selectors_to_try = [
             'li.construction-sites-item',
             '.construction-sites-item',
             'li[class*="construction"]',
-            '.item-container li'
+            '.item-container li',
+            '.construction-item',
+            '.traffic-item',
+            '.disruption-item',
+            'article',
+            '.entry',
+            '.post',
+            '[class*="baustelle"]',
+            '[class*="sperrung"]',
+            '[class*="störung"]',
+            '[class*="traffic"]',
+            '[class*="item"]'
         ]
         
         items = []
-        for selector in selectors:
+        found_selector = None
+        
+        for selector in selectors_to_try:
             items = soup.select(selector)
             if items:
-                logger.info(f"✅ {len(items)} Meldungen mit Selector '{selector}' gefunden")
+                found_selector = selector
+                logger.info(f"✅ {len(items)} Elemente mit Selector '{selector}' gefunden")
                 break
+            else:
+                logger.debug(f"❌ Kein Element mit Selector '{selector}' gefunden")
         
         if not items:
-            # Fallback: alle li-Elemente mit ausreichend Text
+            logger.info("🔍 Keine spezifischen Selektoren erfolgreich, versuche generische Suche...")
+            
+            # Fallback: Alle Elemente mit genug Text und relevanten Keywords
+            all_elements = soup.find_all(['div', 'li', 'article', 'section'])
+            keywords = ['baustelle', 'sperrung', 'störung', 'verkehr', 'straße', 'autobahn', 'umleit']
+            
+            for elem in all_elements:
+                text = elem.get_text(strip=True).lower()
+                if (len(text) > 30 and 
+                    any(keyword in text for keyword in keywords) and
+                    not elem.find_parent(['script', 'style', 'nav', 'header', 'footer'])):
+                    items.append(elem)
+            
+            logger.info(f"🔄 Keyword-basierte Suche: {len(items)} relevante Elemente gefunden")
+        
+        if not items:
+            # Letzte Fallback-Strategie: Alle li-Elemente mit substantiellem Inhalt
             all_lis = soup.find_all('li')
-            items = [li for li in all_lis if li.get_text(strip=True) and len(li.get_text(strip=True)) > 20]
-            logger.info(f"🔄 Fallback: {len(items)} li-Elemente mit Text gefunden")
+            items = []
+            for li in all_lis:
+                text = li.get_text(strip=True)
+                # Mindestens 20 Zeichen, aber nicht nur Navigation/Footer-Content
+                if (len(text) > 20 and 
+                    not text.lower().startswith(('home', 'kontakt', 'impressum', 'datenschutz')) and
+                    not li.find_parent(['nav', 'footer', 'header'])):
+                    items.append(li)
+            
+            logger.info(f"🔄 Generische li-Suche: {len(items)} Elemente gefunden")
         
         updates = []
-        for li in items:
+        processed = 0
+        
+        for item in items:
             try:
-                text_content = li.get_text(strip=True)
-                if not text_content or len(text_content) < 10:
+                text_content = item.get_text(separator=' ', strip=True)
+                
+                # Filter für zu kurze oder irrelevante Inhalte
+                if (not text_content or 
+                    len(text_content) < 15 or
+                    text_content.lower().startswith(('cookie', 'datenschutz', 'impressum', 'kontakt'))):
                     continue
                 
                 # Strukturierte Extraktion versuchen
-                strong_tag = li.find('strong')
-                title = strong_tag.get_text(strip=True) if strong_tag else ""
-                
-                spans = li.find_all('span')
-                span_texts = [span.get_text(strip=True) for span in spans if span.get_text(strip=True)]
-                
+                title = ""
+                description = ""
                 zeitraum = ""
                 location = ""
-                description_parts = []
                 
-                for text in span_texts:
-                    if "Zeitraum:" in text:
-                        zeitraum = text.replace("Zeitraum:", "").strip()
-                    elif "Straße:" in text:
-                        location = text.replace("Straße:", "").strip()
-                    else:
-                        description_parts.append(text)
+                # Title aus strong, h1-h6, oder erstem Satz extrahieren
+                title_candidates = (item.find_all(['strong', 'b', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']) or
+                                  [item])
+                if title_candidates:
+                    title = title_candidates[0].get_text(strip=True)
+                    if len(title) > 100:  # Zu lang für Titel
+                        title = title[:97] + "..."
                 
-                description = " | ".join(description_parts)
+                # Spans für strukturierte Daten durchsuchen
+                spans = item.find_all(['span', 'div', 'p'])
+                for span in spans:
+                    span_text = span.get_text(strip=True)
+                    if not span_text:
+                        continue
+                        
+                    if any(word in span_text.lower() for word in ['zeitraum:', 'datum:', 'zeit:']):
+                        zeitraum = span_text.replace('Zeitraum:', '').replace('Datum:', '').strip()
+                    elif any(word in span_text.lower() for word in ['straße:', 'ort:', 'bereich:']):
+                        location = span_text.replace('Straße:', '').replace('Ort:', '').replace('Bereich:', '').strip()
+                    elif len(span_text) > 10 and span_text != title:
+                        if not description:
+                            description = span_text
+                        elif len(description) < 200:  # Beschreibung erweitern
+                            description += " | " + span_text
                 
-                # Nachricht zusammenbauen
-                parts = [p for p in [title, description, zeitraum, location] if p]
+                # Fallback: gesamten Text als Description verwenden
+                if not description:
+                    description = text_content
+                    # Title aus erstem Teil extrahieren
+                    if not title and len(description) > 30:
+                        sentences = description.split('.')
+                        if sentences:
+                            title = sentences[0].strip()[:100]
+                            description = '. '.join(sentences[1:]).strip()
+                
+                # Message zusammenbauen
+                parts = []
+                if title and title != description[:len(title)]:
+                    parts.append(title)
+                if description:
+                    parts.append(description)
+                if zeitraum:
+                    parts.append(f"Zeitraum: {zeitraum}")
+                if location:
+                    parts.append(f"Ort: {location}")
+                
                 if parts:
                     message = " | ".join(parts)
+                    # Nachricht begrenzen
+                    if len(message) > 500:
+                        message = message[:497] + "..."
+                    
                     updates.append(message)
+                    processed += 1
+                    
+                    # Debug für erste paar Nachrichten
+                    if processed <= 3:
+                        logger.info(f"📋 Extrahierte Nachricht {processed}: {message[:100]}...")
                 
             except Exception as e:
                 logger.debug(f"Fehler beim Verarbeiten eines Fallback-Eintrags: {e}")
                 continue
         
-        logger.info(f"✅ Fallback-Scraper erfolgreich: {len(updates)} Meldungen")
+        logger.info(f"✅ Fallback-Scraper: {processed} von {len(items)} Elementen verarbeitet")
+        
+        # Debug: Wenn keine Updates gefunden wurden
+        if not updates and items:
+            logger.warning("⚠️ Elemente gefunden, aber keine Updates extrahiert")
+            for i, item in enumerate(items[:3]):
+                sample_text = item.get_text(strip=True)[:100]
+                logger.info(f"📋 Beispiel-Element {i+1}: {sample_text}...")
+        
         return updates
         
     except requests.RequestException as e:
