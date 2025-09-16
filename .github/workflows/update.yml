@@ -23,26 +23,71 @@ jobs:
           python-version: "3.11"
           cache: 'pip'  # Pip-Cache für schnellere Builds
       
-      # Dependencies installieren mit Version-Pinning
+      # Dependencies installieren aus requirements.txt
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install selenium==4.15.0 webdriver-manager==4.0.1 atproto==0.0.46 beautifulsoup4==4.12.2
+          pip install -r requirements.txt
       
       # Chrome und ChromeDriver für bessere Stabilität vorbereiten
       - name: Setup Chrome and ChromeDriver
         run: |
           sudo apt-get update
-          sudo apt-get install -y google-chrome-stable xvfb
+          sudo apt-get install -y google-chrome-stable xvfb jq
           
           # Chrome-Version überprüfen
-          CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3 | cut -d '.' -f1-3)
+          CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3)
           echo "Chrome Version: $CHROME_VERSION"
           
-          # ChromeDriver direkt installieren (robuster als WebDriverManager)
-          CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget -O /tmp/chromedriver.zip "https://chromedriver.storage.googleapis.com/${CHROMEDRIVER_VERSION}/chromedriver_linux64.zip"
-          sudo unzip /tmp/chromedriver.zip -d /usr/local/bin/
+          # ChromeDriver über neue Chrome for Testing API installieren
+          # Bekannte stabile Versionen als Fallback
+          declare -a STABLE_VERSIONS=(
+            "129.0.6668.70"
+            "128.0.6613.137"
+            "127.0.6533.119"
+            "126.0.6478.182"
+          )
+          
+          CHROMEDRIVER_URL=""
+          
+          # Versuche passende Version zu finden
+          for VERSION in "${STABLE_VERSIONS[@]}"; do
+            TEST_URL="https://storage.googleapis.com/chrome-for-testing-public/$VERSION/linux64/chromedriver-linux64.zip"
+            echo "Teste Version: $VERSION"
+            
+            if curl --output /dev/null --silent --head --fail "$TEST_URL"; then
+              CHROMEDRIVER_URL="$TEST_URL"
+              echo "✅ Gefundene ChromeDriver-Version: $VERSION"
+              break
+            fi
+          done
+          
+          # Fallback auf neueste bekannte Version
+          if [ -z "$CHROMEDRIVER_URL" ]; then
+            CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/linux64/chromedriver-linux64.zip"
+            echo "⚠️ Verwende Fallback-Version"
+          fi
+          
+          echo "ChromeDriver URL: $CHROMEDRIVER_URL"
+          
+          # ChromeDriver herunterladen und installieren
+          wget -O /tmp/chromedriver.zip "$CHROMEDRIVER_URL"
+          cd /tmp
+          unzip chromedriver.zip
+          
+          # Den tatsächlichen chromedriver finden (kann in Unterordner sein)
+          CHROMEDRIVER_BINARY=$(find /tmp -name "chromedriver" -type f -executable | head -1)
+          
+          if [ -z "$CHROMEDRIVER_BINARY" ]; then
+            echo "❌ ChromeDriver binary nicht gefunden, zeige Inhalt:"
+            find /tmp -name "*chrome*" -type f
+            exit 1
+          fi
+          
+          echo "Gefundener ChromeDriver: $CHROMEDRIVER_BINARY"
+          
+          # Installieren
+          sudo cp "$CHROMEDRIVER_BINARY" /usr/local/bin/chromedriver
           sudo chmod +x /usr/local/bin/chromedriver
           
           # Überprüfen
