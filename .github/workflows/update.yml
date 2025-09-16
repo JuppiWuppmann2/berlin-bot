@@ -35,64 +35,85 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable xvfb jq
           
-          # Chrome-Version überprüfen
+          # Chrome-Version abrufen
           CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3)
-          echo "Chrome Version: $CHROME_VERSION"
+          CHROME_MAJOR=$(echo "$CHROME_VERSION" | cut -d '.' -f1)
+          echo "Chrome Version: $CHROME_VERSION (Major: $CHROME_MAJOR)"
           
-          # ChromeDriver über neue Chrome for Testing API installieren
-          # Bekannte stabile Versionen als Fallback
-          declare -a STABLE_VERSIONS=(
-            "129.0.6668.70"
-            "128.0.6613.137"
-            "127.0.6533.119"
-            "126.0.6478.182"
-          )
+          # ChromeDriver für die entsprechende Chrome-Version finden
+          echo "Suche ChromeDriver für Chrome $CHROME_MAJOR..."
           
-          CHROMEDRIVER_URL=""
+          # Neue Chrome for Testing API verwenden
+          API_URL="https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json"
           
-          # Versuche passende Version zu finden
-          for VERSION in "${STABLE_VERSIONS[@]}"; do
-            TEST_URL="https://storage.googleapis.com/chrome-for-testing-public/$VERSION/linux64/chromedriver-linux64.zip"
-            echo "Teste Version: $VERSION"
+          # Passende ChromeDriver-Version finden (latest für diese Chrome-Version)
+          CHROMEDRIVER_VERSION=$(curl -s "$API_URL" | jq -r --arg major "$CHROME_MAJOR" '
+            .versions[] | 
+            select(.version | startswith($major + ".")) | 
+            select(.downloads.chromedriver != null) |
+            select(.downloads.chromedriver[] | select(.platform == "linux64")) |
+            .version
+          ' | tail -1)
+          
+          if [ -z "$CHROMEDRIVER_VERSION" ] || [ "$CHROMEDRIVER_VERSION" == "null" ]; then
+            echo "⚠️ Keine passende ChromeDriver-Version gefunden, verwende direkte Suche..."
             
-            if curl --output /dev/null --silent --head --fail "$TEST_URL"; then
-              CHROMEDRIVER_URL="$TEST_URL"
-              echo "✅ Gefundene ChromeDriver-Version: $VERSION"
-              break
-            fi
-          done
-          
-          # Fallback auf neueste bekannte Version
-          if [ -z "$CHROMEDRIVER_URL" ]; then
-            CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.70/linux64/chromedriver-linux64.zip"
-            echo "⚠️ Verwende Fallback-Version"
+            # Fallback: Direkte Versionsprüfung für Chrome 140
+            case "$CHROME_MAJOR" in
+              "140")
+                CHROMEDRIVER_VERSION="140.0.6834.82"
+                ;;
+              "139")
+                CHROMEDRIVER_VERSION="139.0.6778.87"
+                ;;
+              "138")
+                CHROMEDRIVER_VERSION="138.0.6901.78"
+                ;;
+              *)
+                CHROMEDRIVER_VERSION="140.0.6834.82"  # Latest known
+                ;;
+            esac
           fi
+          
+          echo "Verwende ChromeDriver Version: $CHROMEDRIVER_VERSION"
+          
+          # ChromeDriver URL zusammenbauen
+          CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/$CHROMEDRIVER_VERSION/linux64/chromedriver-linux64.zip"
           
           echo "ChromeDriver URL: $CHROMEDRIVER_URL"
           
-          # ChromeDriver herunterladen und installieren
-          wget -O /tmp/chromedriver.zip "$CHROMEDRIVER_URL"
-          cd /tmp
-          unzip chromedriver.zip
-          
-          # Den tatsächlichen chromedriver finden (kann in Unterordner sein)
-          CHROMEDRIVER_BINARY=$(find /tmp -name "chromedriver" -type f -executable | head -1)
-          
-          if [ -z "$CHROMEDRIVER_BINARY" ]; then
-            echo "❌ ChromeDriver binary nicht gefunden, zeige Inhalt:"
-            find /tmp -name "*chrome*" -type f
+          # Download und Installation
+          if curl --output /dev/null --silent --head --fail "$CHROMEDRIVER_URL"; then
+            echo "✅ URL ist erreichbar, lade herunter..."
+            wget -O /tmp/chromedriver.zip "$CHROMEDRIVER_URL"
+            cd /tmp
+            unzip chromedriver.zip
+            
+            # ChromeDriver Binary finden
+            CHROMEDRIVER_BINARY=$(find /tmp -name "chromedriver" -type f -executable | head -1)
+            
+            if [ -z "$CHROMEDRIVER_BINARY" ]; then
+              echo "❌ ChromeDriver binary nicht gefunden, zeige Inhalt:"
+              find /tmp -name "*chrome*" -type f -ls
+              exit 1
+            fi
+            
+            echo "Gefundener ChromeDriver: $CHROMEDRIVER_BINARY"
+            
+            # Installation
+            sudo cp "$CHROMEDRIVER_BINARY" /usr/local/bin/chromedriver
+            sudo chmod +x /usr/local/bin/chromedriver
+            
+            # Verifikation
+            echo "ChromeDriver installiert:"
+            chromedriver --version
+            which chromedriver
+          else
+            echo "❌ ChromeDriver URL nicht erreichbar: $CHROMEDRIVER_URL"
+            echo "Verfügbare Versionen prüfen..."
+            curl -s "$API_URL" | jq -r '.versions[-5:][].version' | head -10
             exit 1
           fi
-          
-          echo "Gefundener ChromeDriver: $CHROMEDRIVER_BINARY"
-          
-          # Installieren
-          sudo cp "$CHROMEDRIVER_BINARY" /usr/local/bin/chromedriver
-          sudo chmod +x /usr/local/bin/chromedriver
-          
-          # Überprüfen
-          chromedriver --version
-          which chromedriver
       
       # Bot mit erweiterten Umgebungsvariablen ausführen
       - name: Run bot
