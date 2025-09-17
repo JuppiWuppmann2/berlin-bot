@@ -1,5 +1,4 @@
 [
-  "b96a schönefeld zwischen abzweig nach schönefeld und waßmannsdorf",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle albrechtstraße steglitz|leitungsarbeiten, rechter fahrstreifen gesperrt, zufahrt düppelstraße gesperrt. im anschluss folgen weitere arbeiten",
@@ -187,6 +186,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a11 kreuz uckermark richtung berliner ring zwischen rastplatz suckower forst und joachimsthal|defektes fahrzeug auf dem standstreifen",
+  "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen schönefeld-süd und dreieck flughafen berlin brandenburg|gefahr durch 1 spanngurt auf dem mittleren fahrstreifen",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen storkow und friedersdorf|unfall, 2 fahrstreifen gesperrt, staugefahr",
   "gefahr a15 breslau richtung cottbus zwischen roggosen und cottbus-süd|alle fahrbahnen geräumt",
