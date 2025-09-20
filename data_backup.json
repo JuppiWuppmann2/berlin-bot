@@ -1,5 +1,6 @@
 [
-  "b96a berlin, adlergestell zwischen neltestraße und michael-brückner-straße|wieder offen",
+  "a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rüdersdorf|verkehrsstörung besteht nicht mehr",
+  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rüdersdorf und berlin-hellersdorf|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -177,7 +178,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a11 berliner ring richtung kreuz uckermark zwischen bernau-süd und bernau-nord|liegengebliebenes fahrzeug, polizei ist benachrichtigt",
+  "gefahr a11 berliner ring richtung kreuz uckermark zwischen bernau-süd und bernau-nord|alle fahrbahnen geräumt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a20 rostock richtung stettin zwischen pasewalk-süd und prenzlau-ost|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -602,7 +603,5 @@
   "sperrung tempelhofer weg britz|wasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rüdersdorf|stau, staulänge zunehmend, bitte vorsichtig fahren",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rüdersdorf und berlin-hellersdorf|stau, staulänge zunehmend, bitte vorsichtig fahren"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
