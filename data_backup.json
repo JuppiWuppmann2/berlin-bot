@@ -1,4 +1,5 @@
 [
+  "a9 berlin richtung halle/leipzig in höhe brück|alle unfallstellen geräumt, keine verkehrsbehinderung mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -171,7 +172,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a9 berlin richtung halle/leipzig in höhe brück|gefahr durch ungesicherte unfallstelle",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -333,7 +333,6 @@
   "gefahr kreis uckermark, l26 zwischen a20, prenzlau-ost und kleptow|gefahr durch ungesicherte unfallstelle",
   "gefahr olympiastadion noch nicht aktiv|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
-  "gefahr tiergartentunnel, b96 berlin zwischen einfahrt invalidenstraße und ausfahrt kemperplatz|alle fahrbahnen wieder frei",
   "sperrung a10 berliner ring, schönefelder kreuz richtung dreieck potsdam ausfahrt ludwigsfelde-ost|unfall, richtungsfahrbahn blockiert",
   "sperrung a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen dreieck werder und groß kreutz|vollsperrung, brückenarbeiten",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
