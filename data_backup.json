@@ -1,4 +1,5 @@
 [
+  "a24 pritzwalk richtung berliner ring zwischen neuruppin-süd und fehrbellin|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -169,14 +170,15 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck nuthetal und ludwigsfelde-west|gefahr durch 1 gegenstand auf dem linken fahrstreifen teppich , polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
+  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a115 dreieck funkturm richtung dreieck nuthetal zwischen kleinmachnow und potsdam-babelsberg|gefahr durch 1 gegenstand auf dem mittleren fahrstreifen plastikteil",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -231,6 +233,7 @@
   "gefahr berlin, clayallee zwischen oskar-helene-park und sundgauer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, dahlemer weg zwischen robert-w.-kempner-straße und curtiusstraße|staugefahr, für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr berlin, dahlwitzer straße in höhe landsberger straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, tiefbauarbeiten",
+  "gefahr berlin, dörpfeldstraße bis straße zum fez zwischen anna-seghers-straße und an der wuhlheide über ottomar-geschke-straße, oberspreestraße, spindlersfelder straße, köllnische brücke, wilhelm-spindler-brücke, an der wuhlheide und straße zum fez|fahrradkorso, verkehrsbehinderung zu erwarten",
   "gefahr berlin, falkenberger chaussee in höhe egon-erwin-kisch-straße, richtung weißensee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, friedenstraße zwischen straße der pariser kommune und koppenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, frohnauer straße in höhe karmeliterweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
@@ -343,6 +346,7 @@
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt innsbrucker platz|ausfahrt gesperrt, marathonlauf",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt schmargendorf|ausfahrt gesperrt, marathonlauf",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf ausfahrt hohenzollerndamm|ausfahrt gesperrt, marathonlauf",
+  "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung neukölln ausfahrt innsbrucker platz|ausfahrt gesperrt, marathonlauf",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding ausfahrt hohenzollerndamm|ausfahrt gesperrt, marathonlauf",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -603,5 +607,6 @@
   "sperrung tempelhofer weg britz|wasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen ortrand und ruhland|8 km stau, vorsichtig an das stauende heranfahren"
 ]
