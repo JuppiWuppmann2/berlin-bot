@@ -1,6 +1,4 @@
 [
-  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen freienbrink und erkner|verkehrsstörung besteht nicht mehr",
-  "a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg in höhe am festplatz|polizei ist nicht mehr vor ort",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -172,7 +170,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen phöben und potsdam-nord|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen freienbrink und dreieck spreeau|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -181,9 +178,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a9 halle/leipzig richtung berlin zwischen klein marzehns und niemegk|gefahr durch ungesicherte unfallstelle, gasse für rettungs- und einsatzfahrzeuge bilden, fahren sie bitte besonders vorsichtig",
-  "gefahr a9 halle/leipzig richtung berlin zwischen niemegk und brück|personen auf der fahrbahn, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
-  "gefahr a9 halle/leipzig richtung berlin zwischen rastplatz rabenstein und niemegk|defekter pkw auf dem standstreifen",
+  "gefahr a9 halle/leipzig richtung berlin zwischen klein marzehns und niemegk|gefahr durch ungesicherte unfallstelle, gasse für rettungs- und einsatzfahrzeuge bilden, fahren sie bitte besonders vorsichtig, abfahrten gestoppt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -228,6 +223,7 @@
   "gefahr berlin, boxhagener straße in höhe holteistraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, boyenstraße in höhe chausseestraße|geänderte verkehrsführung, bauarbeiten",
   "gefahr berlin, breite straße zwischen b96a und berliner straße|fahrbahn auf einen fahrstreifen verengt, verkehrsbehinderung, havarie",
+  "gefahr berlin, britzer damm in höhe fulhamer allee|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, brückenstraße bis jannowitzbrücke zwischen rungestraße und jannowitzbrücke|fahrbahnverengung, baustelle",
   "gefahr berlin, buckower damm zwischen rohrlegerweg und bauhüttenweg|staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, bundesallee in höhe hohenzollerndamm|ampelanlage außer betrieb, bitte vorsichtig fahren",
@@ -596,6 +592,5 @@
   "sperrung tempelhofer weg britz|wasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rüdersdorf|stau"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
