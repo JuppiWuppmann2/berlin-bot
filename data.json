@@ -1,5 +1,4 @@
 [
-  "a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen leest und phöben",
   "b96a berlin, michael-brückner-straße in höhe sterndamm|ampelanlage wieder in betrieb",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -179,7 +178,7 @@
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
-  "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen kurfürstendamm schwarzbacher straße und tunnel rathenauplatz|standstreifen blockiert, gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen kurfürstendamm schwarzbacher straße und tunnel rathenauplatz|alle fahrbahnen geräumt",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -258,6 +257,7 @@
   "gefahr berlin, hindenburgdamm zwischen bäkestraße und krahmerstraße|linker fahrstreifen gesperrt",
   "gefahr berlin, hindenburgdamm zwischen königsberger straße und bäkestraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, hohenstaufenstraße in höhe eisenacher straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
+  "gefahr berlin, hohenzollerndamm in höhe a100, hohenzollerndamm|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr berlin, hohenzollerndamm zwischen sächsische straße und fehrbelliner platz|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
   "gefahr berlin, händelplatz bis wolfensteindamm zwischen gardeschützenweg und wolfensteindamm|fahrbahn auf einen fahrstreifen verengt",
   "gefahr berlin, invalidenstraße in höhe friedrich-list-ufer|fahrbahn auf einen fahrstreifen verengt, arbeiten an erdkabeln",
