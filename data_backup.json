@@ -1,8 +1,8 @@
 [
   "a11 berliner ring richtung kreuz uckermark zwischen bernau-nord und wandlitz|störung beseitigt",
   "a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|verkehrsstörung besteht nicht mehr",
-  "a13 schönefelder kreuz richtung dresden zwischen kittlitz und calau|hindernisse beseitigt",
   "b87 herzberg elster , karl-liebknecht-straße bis leipziger straße zwischen nixweg und wilhelm-pieck-ring|polizeieinsatz beendet",
+  "b96 fürstenberg richtung reinickendorf zwischen altlüdersdorf und gransee|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -209,7 +209,6 @@
   "gefahr b96 berlin, minna-cauer-straße zwischen ausfahrt vom tunnel-tiegarten-spreebogen und heidestraße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
   "gefahr b96 berlin, tempelhofer damm, stadteinwärts zwischen albrechtstraße und theodor-francke-straße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 fürstenberg richtung reinickendorf zwischen altlüdersdorf und gransee|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park in höhe bulgarische straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
