@@ -1,5 +1,4 @@
 [
-  "b5 nauen richtung kyritz zwischen selbelang und an der b5",
   "b87 herzberg elster , karl-liebknecht-straße bis leipziger straße zwischen nixweg und wilhelm-pieck-ring|polizeieinsatz beendet",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -189,7 +188,6 @@
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b112 guben süd richtung as frankfurt oder -süd zwischen an der b112 und brieskow-finkenheerd|gefahr, polizeieinsatz, fahren sie bitte besonders vorsichtig",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, berliner allee in höhe liebermannstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -347,8 +345,8 @@
   "gefahr berlin, zillestraße zwischen gierkezeile und wilmersdorfer straße|einbahnstraßenregelung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "gefahr neuruppin, gildenhaller allee zwischen hermsdorfer weg und wuthenower landstraße|1 person auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
+  "neuruppin, gildenhaller allee zwischen hermsdorfer weg und wuthenower landstraße|gefahr besteht nicht mehr",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
