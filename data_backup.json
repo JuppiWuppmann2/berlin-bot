@@ -1,5 +1,6 @@
 [
   "b87 herzberg elster , karl-liebknecht-straße bis leipziger straße zwischen nixweg und wilhelm-pieck-ring|polizeieinsatz beendet",
+  "b96a berlin, am treptower park zwischen elsenstraße und moosdorfstraße|baustelle beseitigt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -176,6 +177,8 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, quarzweg in höhe asbestweg|ampelanlage wieder in betrieb",
+  "berlin, wuhletalstraße zwischen b158, märkische allee und überleitung b158, wuhletalstraße",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen groß kreutz und dreieck werder|gefahr durch gegenstände auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -185,8 +188,9 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111, a10 charlottenburg richtung dreieck havelland zwischen hennigsdorf und oberkrämer|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
-  "gefahr a115 avus, dreieck nuthetal richtung dreieck funkturm zwischen spanische allee und hüttenweg|linker fahrstreifen gesperrt, grünpflege",
+  "gefahr a115 avus, dreieck nuthetal richtung dreieck funkturm zwischen spanische allee und hüttenweg|alle fahrbahnen wieder frei",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a2 magdeburg richtung berliner ring zwischen wollin und brandenburg|gefahr durch gegenstände auf dem mittleren fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -314,7 +318,6 @@
   "gefahr berlin, ollenhauerstraße, richtung kurt-schumacher-platz in höhe reinickes hof|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, paulsborner straße in höhe caspar-theyß-straße|fahrbahn auf einen fahrstreifen verengt, vorübergehende regelung durch provisorische ampelanlagen",
   "gefahr berlin, pichelsdorfer straße zwischen wilhelmstraße und b2, b5, heerstraße|fahrbahnverengung, wanderbaustelle",
-  "gefahr berlin, quarzweg in höhe asbestweg|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, rheinstraße zwischen walther-schreiber-platz und dickhardtstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, kanalbauarbeiten",
   "gefahr berlin, rhinstraße in höhe alt-friedrichsfelde|verkehrsbehinderung, fahrbahnausbesserung",
   "gefahr berlin, rhinstraße zwischen allee der kosmonauten und paul-singer-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -608,6 +611,7 @@
   "sperrung tempelhofer weg britz|wasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
+  "sperrung togostraße wedding noch nicht aktiv",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wusterhausen/dosse, bahnhofstraße zwischen am markt und fischerstraße|gefahr durch defekte gasleitung, feuerwehreinsatz, gesperrt"
 ]
