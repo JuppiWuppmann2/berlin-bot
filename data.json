@@ -1,5 +1,4 @@
 [
-  "a115 avus, dreieck nuthetal richtung dreieck funkturm zwischen zollamt dreilinden und spanische allee|polizeieinsatz beendet",
   "b87 herzberg elster , karl-liebknecht-straße bis leipziger straße zwischen nixweg und wilhelm-pieck-ring|polizeieinsatz beendet",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -184,8 +183,9 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a11 berliner ring richtung kreuz uckermark zwischen bernau-nord und wandlitz|bitte vorsichtig fahren, langsames fahrzeug, polizei ist benachrichtigt",
-  "gefahr a11 berliner ring richtung kreuz uckermark zwischen joachimsthal und pfingstberg|gefahr durch 1 brennendes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, gefahr durch personen auf dem rechten fahrstreifen und dem standstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a11 berliner ring richtung kreuz uckermark zwischen lanke und finowfurt|1 unfall auf dem standstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a13 schönefelder kreuz richtung dresden zwischen kittlitz und calau|gefahr durch ein totes tier auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -353,6 +353,7 @@
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
   "sperrung a111 ehem. a105|baustelle, fahrtrichtung gesperrt",
+  "sperrung a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen späthstraße und schönefeld-nord noch nicht aktiv|gesperrt, tunnelwartungsarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
@@ -596,12 +597,13 @@
   "sperrung senheimer straße frohnau",
   "sperrung siemensdamm charlottenburg-nord|arbeiten am stromnetz, fahrbahn auf zwei fahrstreifen verengt",
   "sperrung strausberg, berliner straße zwischen käthe-kollwitz-straße und gerhart-hauptmann-straße|unfall, polizei und rettungswagen sind vor ort, fahren sie bitte besonders vorsichtig, vollsperrung",
-  "sperrung straße der pariser kommune friedrichshain noch nicht aktiv|brückenprüfungen, vollsperrung für kfz-verkehr",
+  "sperrung straße der pariser kommune friedrichshain|brückenprüfungen, vollsperrung für kfz-verkehr",
   "sperrung straße des 17. juni tiergarten|veranstaltung, vollsperrung für den kfz-verkehr marathon- auf- und abbau",
   "sperrung tegeler straße wedding|leitungsarbeiten, vollsperrung für den kfz- und radverkehr",
   "sperrung tempelhofer weg britz|wasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding noch nicht aktiv",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, bitte vorsichtig fahren"
 ]
