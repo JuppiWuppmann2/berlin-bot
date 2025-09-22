@@ -184,7 +184,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a24 pritzwalk richtung schwerin zwischen meyenburg und putlitz|gefahr durch ein totes tier auf dem linken fahrstreifen",
+  "gefahr a24 pritzwalk richtung schwerin zwischen meyenburg und putlitz|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -597,7 +597,6 @@
   "sperrung schlichtallee rummelsburg|leitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
   "sperrung senheimer straße frohnau",
   "sperrung siemensdamm charlottenburg-nord|arbeiten am stromnetz, fahrbahn auf zwei fahrstreifen verengt",
-  "sperrung strausberg, berliner straße zwischen käthe-kollwitz-straße und gerhart-hauptmann-straße|unfall, polizei und rettungswagen sind vor ort, fahren sie bitte besonders vorsichtig, vollsperrung",
   "sperrung straße der pariser kommune friedrichshain|brückenprüfungen, vollsperrung für kfz-verkehr",
   "sperrung straße des 17. juni tiergarten|veranstaltung, vollsperrung für den kfz-verkehr marathon- auf- und abbau",
   "sperrung tegeler straße wedding|leitungsarbeiten, vollsperrung für den kfz- und radverkehr",
@@ -605,5 +604,6 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding noch nicht aktiv",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "strausberg, berliner straße zwischen käthe-kollwitz-straße und gerhart-hauptmann-straße"
 ]
