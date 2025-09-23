@@ -1,5 +1,4 @@
 [
-  "b5 berliner straße, biesdorf richtung frankfurt oder zwischen bergstraße und lebuser weg|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-friedrichsfelde friedrichsfelde noch nicht aktiv|wartungsarbeiten, ein fahrstreifen je richtung gesperrt täglich 10-14 uhr",
@@ -203,7 +202,7 @@
   "gefahr b102 treuenbrietzen richtung luckau zwischen abzweig nach reinsdorf und nonnendorf|gefahr durch 1 person auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b169 ortsdurchfahrt plessa, hauptstraße|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren, polizei ist benachrichtigt, vollsperrung",
+  "gefahr b169 ortsdurchfahrt plessa, hauptstraße|unfallstelle geräumt",
   "gefahr b2 berlin, berliner allee in höhe liebermannstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -391,7 +390,7 @@
   "sperrung b169, ou drebkau",
   "sperrung b188, rw kreisverkehr stechow bis rhinsmühlen",
   "sperrung b189, ou wittenberge",
-  "sperrung b2 schmargendorf richtung rosow zwischen abzweig nach gatow und gartz oder|vollsperrung, unfallaufnahme, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
+  "sperrung b2 schmargendorf richtung rosow zwischen hafenstraße und abzweig nach friedrichsthal|vollsperrung, unfallaufnahme, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "sperrung b2, b5 berlin, straße des 17. juni zwischen yitzhak-rabin-straße und kreisverkehr großer stern|gesperrt",
   "sperrung b2, b5 berlin, straße des 17. juni zwischen yitzhak-rabin-straße und scheidemannstraße|gesperrt, marathonlauf",
   "sperrung b246, oe bad belzig",
