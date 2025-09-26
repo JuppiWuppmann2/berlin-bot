@@ -1,5 +1,4 @@
 [
-  "a113 neukölln richtung schönefeld zwischen schönefeld-süd und schönefelder kreuz",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -198,6 +197,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 charlottenburg richtung dreieck oranienburg zwischen schulzendorfer straße und ausfahrt stolpe|gefahr durch verschmutzte fahrbahn",
+  "gefahr a114 autobahnzubringer prenzlau, pankow richtung dreieck pankow dreieck pankow überleitung zur a10 richtung dreieck barnim|gefahr durch reifenteile auf der fahrbahn, fahren sie bitte besonders vorsichtig, liegengebliebenes fahrzeug, polizei ist benachrichtigt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen mittenwalde und bestensee|unfall auf dem standstreifen, polizei ist benachrichtigt",
   "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|gefahr durch 1 liegengebliebenes fahrzeug auf dem rechten fahrstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
@@ -361,7 +361,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis prignitz, wahrenberger straße|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
-  "kreis oder-spree, straße zwischen b246 in groß schauen und philadelphia",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
