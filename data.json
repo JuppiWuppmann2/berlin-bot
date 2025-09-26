@@ -1,5 +1,4 @@
 [
-  "b5 nauen richtung charlottenburg zwischen berlin-spandau und zur döberitzer heide",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -186,7 +185,6 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, lützowstraße in höhe genthiner straße|ampelanlage wieder in betrieb",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen dreieck havelland und falkensee|gefahr durch ölspur, fahren sie bitte besonders vorsichtig",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen groß kreutz und dreieck werder|unfall auf dem beschleunigungsstreifen im baustellenbereich",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
@@ -197,6 +195,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a113 neukölln richtung schönefeld zwischen schönefeld-süd und schönefelder kreuz|gefahr durch gegenstände auf der fahrbahn",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen mittenwalde und bestensee|unfall auf dem standstreifen, polizei ist benachrichtigt",
   "gefahr a24 pritzwalk richtung berliner ring zwischen fehrbellin und kremmen|unfall, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
