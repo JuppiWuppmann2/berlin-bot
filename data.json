@@ -1,5 +1,4 @@
 [
-  "b101 mariendorf richtung trebbin zwischen berlin und marienfelder allee|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf noch nicht aktiv|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -207,6 +206,7 @@
   "gefahr b1, b5 biesdorf richtung küstrin-kietz zwischen tasdorf und herzfelde|gefahr durch 1 totes tier reh auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b102 luckau richtung treuenbrietzen zwischen zöllmersdorf und uckro|wildunfall, fahren sie bitte besonders vorsichtig",
+  "gefahr b102 treuenbrietzen richtung luckau zwischen zöllmersdorf und luckau|gefahr durch personen auf der fahrbahn",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
