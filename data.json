@@ -1,4 +1,5 @@
 [
+  "a13 dresden richtung schönefelder kreuz zwischen großräschen und bronkow",
   "a13 schönefelder kreuz richtung dresden zwischen großräschen und klettwitz|gefahr besteht nicht mehr",
   "bahnhof schönow angerm|störung am bahnübergang beseitigt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -200,7 +201,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a113 neukölln richtung schönefeld zwischen waltersdorfer dreieck und schönefelder kreuz|gefahr durch ungesicherte unfallstelle, langsam fahren, bitte vorsichtig fahren",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a13 dresden richtung schönefelder kreuz zwischen großräschen und bronkow|gefahr durch personen auf dem standstreifen, langsam fahren, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -311,6 +311,7 @@
   "gefahr berlin, marktstraße, stadtauswärts, richtung karlshorster straße zwischen krummhübler straße und schreiberhauer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, martin-luther-straße in höhe fuggerstraße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, martin-luther-straße zwischen barbarossastraße und traunsteiner straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr berlin, müggelheimer straße in höhe wendenschloßstraße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr berlin, mühlenstraße in höhe mariane-von-rantzau-straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, mühlenstraße zwischen am postbahnhof und rummelsburger platz|fahrbahn auf zwei fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, neue bahnhofstraße zwischen boxhagener straße und gürtelstraße|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten, überholen verboten",
