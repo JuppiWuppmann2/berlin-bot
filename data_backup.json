@@ -1,6 +1,7 @@
 [
   "a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen hennigsdorf und stolpe|gefahr besteht nicht mehr",
   "a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen friedersdorf und storkow",
+  "a13 schönefelder kreuz richtung dresden zwischen klettwitz und schwarzheide",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf noch nicht aktiv|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -194,6 +195,7 @@
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, gefahr durch personen auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen dreieck havelland und falkensee|polizei ist benachrichtigt, gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen falkensee und brieselang|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen",
+  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen falkensee und dreieck havelland|gefahr durch reifenteile auf der fahrbahn",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -374,7 +376,6 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
-  "sperrung a13 schönefelder kreuz richtung dresden zwischen klettwitz und schwarzheide|gefahr durch defektes fahrzeug, gefahr durch personen auf der fahrbahn, vollsperrung",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung alte jakobstraße mitte|stromleitungsarbeiten, vollsperrung für kfz-verkehr",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
