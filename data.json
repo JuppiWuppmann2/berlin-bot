@@ -1,5 +1,4 @@
 [
-  "a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf noch nicht aktiv|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -191,7 +190,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen brieselang und falkensee|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen falkensee und dreieck havelland|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -366,8 +364,8 @@
   "gefahr kreis havelland, zachower straße zwischen tremmen und abzweig nach ketzin/havel|gefahr durch ein totes tier reh auf der fahrbahn",
   "gefahr kreis potsdam-mittelmark, l911 zwischen mötzow und abzweig nach grabow|wildunfall, fahren sie bitte besonders vorsichtig",
   "gefahr kreis spree-neiße, b168 zwischen peitz und abzweig nach döbbrick|hindernis auf der fahrbahn ein ast , fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
-  "gefahr potsdam, eduard-von-winterstein-straße bis robert-baberske-straße zwischen konrad-wolf-allee und sternstraße|gefahr durch ölspur, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
+  "potsdam, eduard-von-winterstein-straße bis robert-baberske-straße zwischen konrad-wolf-allee und sternstraße|gefahr besteht nicht mehr",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
