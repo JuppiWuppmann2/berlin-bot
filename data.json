@@ -1,4 +1,6 @@
 [
+  "a100n einfahrt sonnenallee|wieder offen",
+  "a100n in höhe sonnenallee|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf noch nicht aktiv|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -189,6 +191,7 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen potsdam-nord und berlin-spandau|polizei ist vor ort, bergungsarbeiten, rechter fahrstreifen gesperrt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -199,13 +202,14 @@
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen stolpe und raststätte stolper heide|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a15 breslau richtung cottbus zwischen forst und roggosen|gefahr durch fahrradfahrer auf dem standstreifen, langsam fahren, bitte vorsichtig fahren",
-  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch ungesicherte unfallstelle auf dem linken fahrstreifen",
+  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch ungesicherte unfallstelle auf dem linken fahrstreifen, linker fahrstreifen gesperrt, langsam fahren, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, karl-marx-allee in höhe koppenstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b101 mariendorf richtung trebbin zwischen thyrow und trebbin-nord|angefahrenes tier auf dem linken fahrstreifen",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
@@ -363,8 +367,6 @@
   "gefahr kreis havelland, l204 zwischen b5, wustermark und wustermark|unfall, polizei ist vor ort",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
-  "sperrung a100n einfahrt sonnenallee|gesperrt, höhenkontrolle wurde ausgelöst",
-  "sperrung a100n in höhe sonnenallee|gesperrt, höhenkontrolle wurde ausgelöst",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
@@ -615,5 +617,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau"
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau",
+  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau"
 ]
