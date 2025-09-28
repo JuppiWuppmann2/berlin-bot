@@ -1,5 +1,4 @@
 [
-  "a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen rüdersdorf und erkner|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf noch nicht aktiv|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -344,6 +343,7 @@
   "gefahr berlin, tegeler weg zwischen osnabrücker straße und mindener straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, teltower damm zwischen laehrstraße und beeskowdamm|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, tiefwerderweg bis schulenburgbrücke zwischen schulenburgstraße und schulenburgbrücke|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
+  "gefahr berlin, tiergartenstraße bis pariser platz zwischen einfahrt hildebrandstraße und unter den linden|demonstration, sportveranstaltung, verkehrsbehinderung zu erwarten",
   "gefahr berlin, torstraße zwischen novalisstraße und chausseestraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
   "gefahr berlin, triftstraße zwischen holzhauser straße und thiloweg, zu/von den straßen bei den wöhrden und fetschowzeile ist nur das rechtsabbiegen möglich|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, tucholskystraße zwischen johannisstraße und oranienburger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -357,8 +357,11 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
+  "gefahr kreis havelland, l204 zwischen b5, wustermark und wustermark|unfall, polizei ist vor ort",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
+  "sperrung a100n einfahrt sonnenallee|gesperrt, höhenkontrolle wurde ausgelöst",
+  "sperrung a100n in höhe sonnenallee|gesperrt, höhenkontrolle wurde ausgelöst",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
@@ -555,7 +558,6 @@
   "sperrung karl-heinrich-ulrichs-straße tiergarten|leitungsarbeiten, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung knotenpunkt b1/l233, rüdersdorf, berliner straße",
   "sperrung konrad-wolf-straße alt-hohenschönhausen noch nicht aktiv|gleisbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt, umleitung ausgewiesen",
-  "sperrung kreis havelland, l204 zwischen b5, wustermark und wustermark|unfall, polizei und rettungswagen sind vor ort, vollsperrung",
   "sperrung kreis prignitz, straße zwischen langnow und bölzke|vollsperrung, geplante bauarbeiten, der umleitungsbeschilderung folgen",
   "sperrung l101, rosenhagen, dorfstraße",
   "sperrung l144, heiligengrabe, königsberg, königsberger dorfstraße",
@@ -609,5 +611,6 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau"
 ]
