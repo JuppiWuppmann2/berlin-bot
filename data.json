@@ -185,6 +185,9 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, am juliusturm in höhe hausnummer 14-38 / bmw|ampelanlage wieder in betrieb",
+  "berlin, am juliusturm zwischen ferdinand-friedensburg-platz und zitadellenweg|ampelanlage wieder in betrieb",
+  "berlin, uhlandstraße bis grolmanstraße zwischen kurfürstendamm und savignyplatz|wieder offen",
   "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen kreuz oranienburg und oberkrämer|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, defekter lkw",
@@ -197,7 +200,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen grenzübergang frankfurt oder und frankfurt oder -mitte|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei und rettungswagen sind unterwegs",
-  "gefahr a2 berliner ring richtung magdeburg zwischen rastplatz rietzer see und ausfahrt brandenburg|alle fahrbahnen geräumt",
   "gefahr a20 rostock richtung stettin zwischen pasewalk-süd und rastplatz klockow-west|unfall, polizei ist vor ort, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr, linker fahrstreifen wieder befahrbar",
   "gefahr a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk|gefahr durch unbeleuchtetes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|alle fahrbahnen geräumt",
@@ -235,8 +237,6 @@
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
   "gefahr berlin, alt-moabit zwischen calvinstraße und wilsnacker straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, alt-moabit zwischen lüneburger straße und rahel-hirsch-straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
-  "gefahr berlin, am juliusturm in höhe hausnummer 14-38 / bmw|ampelanlage außer betrieb, bitte vorsichtig fahren",
-  "gefahr berlin, am juliusturm zwischen ferdinand-friedensburg-platz und zitadellenweg|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, am niederfeld zwischen rosenhagener straße und steffenshagener straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nach rechts nicht möglich, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, am tierpark bis treskowallee zwischen sewanstraße und gregoroviusweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
   "gefahr berlin, an der wuhlheide, stadteinwärts zwischen rudolf-rühl-allee und spindlersfelder straße|fahrbahn auf zwei fahrstreifen verengt, wartungsarbeiten",
@@ -360,7 +360,6 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
-  "gefahr tornow, karlswerker weg in höhe b167, tornower dorfstraße|gefahr durch ölspur, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -617,5 +616,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 schönefelder kreuz richtung dresden zwischen baruth/mark und lübbenau|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "stau a13 schönefelder kreuz richtung dresden zwischen baruth/mark und lübbenau|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
+  "tornow, karlswerker weg in höhe b167, tornower dorfstraße|gefahr besteht nicht mehr"
 ]
