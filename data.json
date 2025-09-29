@@ -1,5 +1,7 @@
 [
+  "a100 stadtring berlin, wedding richtung wilmersdorf ausfahrt kaiserdamm süd|wieder offen",
   "a12 richtung berliner ring zwischen einfahrt friedersdorf und dreieck spreeau|gefahr besteht nicht mehr",
+  "a24 pritzwalk richtung berliner ring zwischen neuruppin und neuruppin-süd|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -205,7 +207,6 @@
   "gefahr a113, a100 schönefeld richtung wilmersdorf zwischen dreieck neukölln und buschkrugallee|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
   "gefahr a115 avus, dreieck nuthetal richtung dreieck funkturm zwischen spanische allee und hüttenweg|standstreifen gesperrt, wartungsarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a24 pritzwalk richtung berliner ring zwischen neuruppin und neuruppin-süd|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren",
   "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|alle fahrbahnen geräumt",
   "gefahr b1 berlin, dircksenstraße bis grunerstraße zwischen ravelinplatz und alexanderstraße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -382,7 +383,6 @@
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|gesperrt, zu hohe verkehrsbelastung",
-  "sperrung a100 stadtring berlin, wedding richtung wilmersdorf ausfahrt kaiserdamm süd|gesperrt, brückenarbeiten",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
