@@ -1,7 +1,4 @@
 [
-  "a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen kreuz oranienburg und oberkrämer|gefahr besteht nicht mehr",
-  "a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen grenzübergang frankfurt oder und frankfurt oder -mitte|wieder offen",
-  "a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -193,7 +190,7 @@
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
-  "gefahr a100 stadtring berlin, wilmersdorf richtung neukölln zwischen kreuz schöneberg und alboinstraße|linker fahrstreifen gesperrt, wartungsarbeiten",
+  "gefahr a100 stadtring berlin, wilmersdorf richtung neukölln zwischen kreuz schöneberg und alboinstraße|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
@@ -612,6 +609,5 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 schönefelder kreuz richtung dresden zwischen baruth/mark und lübbenau|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
