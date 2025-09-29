@@ -185,9 +185,6 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, am juliusturm in höhe hausnummer 14-38 / bmw|ampelanlage wieder in betrieb",
-  "berlin, am juliusturm zwischen ferdinand-friedensburg-platz und zitadellenweg|ampelanlage wieder in betrieb",
-  "berlin, uhlandstraße bis grolmanstraße zwischen kurfürstendamm und savignyplatz|wieder offen",
   "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen kreuz oranienburg und oberkrämer|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, defekter lkw",
@@ -199,7 +196,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen grenzübergang frankfurt oder und frankfurt oder -mitte|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei und rettungswagen sind unterwegs",
   "gefahr a20 rostock richtung stettin zwischen pasewalk-süd und rastplatz klockow-west|unfall, polizei ist vor ort, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr, linker fahrstreifen wieder befahrbar",
   "gefahr a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk|gefahr durch unbeleuchtetes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|alle fahrbahnen geräumt",
@@ -250,6 +246,7 @@
   "gefahr berlin, blaschkoallee, richtung a113 in höhe buschkrugallee|fahrbahn auf einen fahrstreifen verengt, staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, boyenstraße in höhe chausseestraße|geänderte verkehrsführung, bauarbeiten",
   "gefahr berlin, breite straße zwischen b96a und berliner straße|fahrbahn auf einen fahrstreifen verengt, verkehrsbehinderung, havarie",
+  "gefahr berlin, britzer damm in höhe blaschkoallee|ampelanlage außer betrieb, gefahr, bitte vorsichtig fahren",
   "gefahr berlin, brückenstraße bis jannowitzbrücke zwischen rungestraße und jannowitzbrücke|fahrbahnverengung, baustelle",
   "gefahr berlin, buckower damm zwischen rohrlegerweg und bauhüttenweg|staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, buschkrugallee zwischen parchimer allee und grüner weg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
@@ -368,6 +365,7 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
+  "sperrung a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen grenzübergang frankfurt oder und frankfurt oder -mitte|vollsperrung, unfall, polizei und rettungswagen sind unterwegs",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung alte jakobstraße mitte|stromleitungsarbeiten, vollsperrung für kfz-verkehr",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
@@ -616,6 +614,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 schönefelder kreuz richtung dresden zwischen baruth/mark und lübbenau|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "tornow, karlswerker weg in höhe b167, tornower dorfstraße|gefahr besteht nicht mehr"
+  "stau a13 schönefelder kreuz richtung dresden zwischen baruth/mark und lübbenau|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
