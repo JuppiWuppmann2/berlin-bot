@@ -1,5 +1,4 @@
 [
-  "b2 berlin, greifswalder straße in höhe otto-braun-straße|ampelanlage wieder in betrieb",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -276,6 +275,7 @@
   "gefahr berlin, hohenschönhauser straße in höhe weißenseer weg|abbiegen nach links nicht möglich, bauarbeiten",
   "gefahr berlin, hohenzollerndamm zwischen sächsische straße und fehrbelliner platz|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
   "gefahr berlin, invalidenstraße in höhe friedrich-list-ufer|fahrbahn auf einen fahrstreifen verengt, arbeiten an erdkabeln",
+  "gefahr berlin, joachimsthaler straße in höhe kantstraße|ampelanlage arbeitet fehlerhaft, vorsicht an der kreuzung",
   "gefahr berlin, kaiser-wilhelm-straße zwischen zietenstraße und amalienstraße|fahrbahn auf einen fahrstreifen verengt",
   "gefahr berlin, kantstraße in höhe kaiser-friedrich-straße|fahrbahn auf zwei fahrstreifen verengt, abbiegen nach rechts nicht möglich, bauarbeiten",
   "gefahr berlin, kantstraße vor der kreuzung kaiser-friedrich-straße|fahrstreifen gesperrt, arbeiten an gasleitungen",
@@ -349,7 +349,6 @@
   "gefahr berlin, weißenseer weg zwischen konrad-wolf-straße und fritz-lesch-straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, bauarbeiten",
   "gefahr berlin, weißenseer weg zwischen landsberger allee und bernhard-bästlein-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wexstraße zwischen bernhardstraße und prinzregentenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr berlin, wisbyer straße in höhe neumannstraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, wollankstraße zwischen brehmestraße und nordbahnstraße|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, brückenarbeiten, eine umleitung ist eingerichtet",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
