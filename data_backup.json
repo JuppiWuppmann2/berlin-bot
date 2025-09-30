@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen niederlehme und dreieck spreeau|gefahr besteht nicht mehr",
   "a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|wieder offen",
   "a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -180,7 +181,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "berlin, landsberger chaussee in höhe stendaler straße|ampelanlage wieder in betrieb",
-  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen niederlehme und dreieck spreeau|gefahr durch gegenstände auf der fahrbahn",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck spreeau zwischen rangsdorf und schönefelder kreuz|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, gefahr durch personen auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -213,7 +214,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, minna-cauer-straße zwischen ausfahrt vom tunnel-tiegarten-spreebogen und heidestraße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 reinickendorf richtung fürstenberg zwischen abzweig nach buberow und gransee|unfallstelle geräumt",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park in höhe bulgarische straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
