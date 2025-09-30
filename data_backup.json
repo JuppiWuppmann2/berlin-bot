@@ -1,4 +1,6 @@
 [
+  "a100 stadtring berlin, wilmersdorf richtung neukölln ausfahrt detmolder straße|wieder offen",
+  "a2 berliner ring richtung magdeburg in höhe raststätte buckautal nord|tank- und rastanlage kann wieder angefahren werden",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -350,7 +352,6 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr schönerlinder straße, wandlitz richtung berlin zwischen schönerlinder chaussee und am vorwerk|fahrbahn auf einen fahrstreifen verengt",
-  "sperrung a100 stadtring berlin, wilmersdorf richtung neukölln ausfahrt detmolder straße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -359,7 +360,6 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
-  "sperrung a2 berliner ring richtung magdeburg in höhe raststätte buckautal nord|tank- und rastanlage überfüllt, fahren sie eine andere tank- oder rastanlage an, staugefahr auf dem verzögerungsstreifen, polizei ist benachrichtigt",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung alte jakobstraße mitte|stromleitungsarbeiten, vollsperrung für kfz-verkehr",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
