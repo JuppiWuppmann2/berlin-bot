@@ -1,6 +1,4 @@
 [
-  "a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|wieder offen",
-  "a15 breslau richtung cottbus zwischen roggosen und cottbus-süd|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -175,7 +173,6 @@
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
-  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
@@ -218,6 +215,7 @@
   "gefahr berlin, argentinische allee in höhe fischerhüttenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, arnulfstraße zwischen wittekindstraße und alboinstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, berliner straße in höhe bundesallee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, auf geschwindigkeitsbeschränkung achten",
+  "gefahr berlin, berliner straße in höhe maximilianstraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, berliner straße zwischen bamberger straße und jenaer straße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, berliner straße zwischen wittestraße und ernststraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, blaschkoallee, richtung a113 in höhe buschkrugallee|fahrbahn auf einen fahrstreifen verengt, staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
