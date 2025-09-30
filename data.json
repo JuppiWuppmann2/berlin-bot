@@ -1,4 +1,6 @@
 [
+  "a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|wieder offen",
+  "a15 breslau richtung cottbus zwischen roggosen und cottbus-süd|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -169,11 +171,11 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 berliner ring, dreieck barnim richtung dreieck havelland kreuz oranienburg überleitung zur a111 richtung charlottenburg|gefahr durch 1 totes tier reh auf der fahrbahn, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ferch und dreieck potsdam|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
-  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
+  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
@@ -326,7 +328,6 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -335,6 +336,7 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
+  "sperrung a12 autobahn der freiheit, berliner ring richtung frankfurt oder ausfahrt frankfurt oder -mitte|polizeieinsatz, gesperrt",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung alte jakobstraße mitte|stromleitungsarbeiten, vollsperrung für kfz-verkehr",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
@@ -581,7 +583,5 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ferch und dreieck potsdam|unfall, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, stau, fahrbahn auf drei fahrstreifen verengt, 1 fahrstreifen gesperrt",
-  "stau a15 breslau richtung cottbus zwischen roggosen und cottbus-süd|stau, fahren sie bitte besonders vorsichtig, unfall"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
