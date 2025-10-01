@@ -1,4 +1,6 @@
 [
+  "a115 dreieck nuthetal richtung dreieck funkturm zwischen potsdam-babelsberg und rastplatz parforceheide|gefahr besteht nicht mehr",
+  "b169 cottbus richtung elsterwerda zwischen auffahrt senftenberg und hörlitz|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -177,7 +179,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck funkturm richtung dreieck nuthetal zwischen kleinmachnow und potsdam-drewitz|liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen potsdam-babelsberg und rastplatz parforceheide|gefahr durch gegenstände auf der fahrbahn, linker fahrstreifen blockiert, fahren sie bitte besonders vorsichtig",
+  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen friedersdorf und storkow|gefahr durch liegengebliebenes fahrzeug auf allen fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a24 schwerin richtung pritzwalk einfahrt meyenburg|1 defekter lkw in anschlussstellen",
   "gefahr a9 halle/leipzig richtung berlin zwischen klein marzehns und niemegk|fahren sie bitte besonders vorsichtig, bergungsarbeiten auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -189,7 +191,6 @@
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b169 cottbus richtung elsterwerda zwischen auffahrt senftenberg und hörlitz|gefahr durch mehrere spanngurte auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -332,7 +333,6 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "kreis barnim, zoostraße zwischen eberswalde und abzweig nach eberswalde",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -342,7 +342,6 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a117|bau der as hubertusstock, fahrtrichtung gesperrt",
-  "sperrung a2 magdeburg richtung berliner ring zwischen brandenburg und netzen|unfall, stau, trümmer auf 3 mittleren fahrstreifen, richtungsfahrbahn gesperrt",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung alte jakobstraße mitte|stromleitungsarbeiten, vollsperrung für kfz-verkehr",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
@@ -588,5 +587,6 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen rüdersdorf und rastplatz kranichberge|stau",
   "stau a13 cottbus richtung schönefelder kreuz zwischen dreieck spreewald und duben|stau",
-  "stau a13 schönefelder kreuz richtung dresden zwischen rastplatz bugkgraben und raststätte rüblingsheide|stau"
+  "stau a13 schönefelder kreuz richtung dresden zwischen rastplatz bugkgraben und raststätte rüblingsheide|stau",
+  "stau a2 magdeburg richtung berliner ring zwischen brandenburg und netzen|unfall, stau, 1 fahrstreifen gesperrt"
 ]
