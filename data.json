@@ -178,6 +178,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen stolpe und schulzendorfer straße|standstreifen blockiert, gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen johannisthaler chaussee und späthstraße|mittlerer fahrstreifen blockiert, gefahr durch liegengebliebenes fahrzeug, polizei ist benachrichtigt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a15 breslau richtung cottbus einfahrt roggosen|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -187,10 +188,8 @@
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b101 berlin, marienfelder allee zwischen diedersdorfer weg und ahrensdorfer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b101 trebbin richtung bad liebenwerda zwischen welsickendorf und stolzenhain|gefahr durch ein totes tier auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b188 gardelegen richtung briesen zwischen großwudicke und rathenow|gefahr durch 1 totes tier reh auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -333,8 +332,9 @@
   "gefahr eichwalde, friedenstraße zwischen heinrich-heine-platz und august-bebel-allee|störung am bahnübergang, bahnschranke schließt nicht mehr, fahren sie bitte besonders vorsichtig, kräfte zur störungsbeseitigung sind unterwegs",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald und kreis teltow-fläming, l40 zwischen abzweig nach boddinsfelde und abzweig nach groß kienitz|gefahr durch ein totes tier auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
+  "gefahr kreis havelland, k6330, l96 zwischen abzweig nach steckelsdorf und steckelsdorf|gefahr durch 1 totes tier reh auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr kreis oberhavel, k6520 zwischen burgwall und neuhof|wildunfall, gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
-  "gefahr kreis potsdam-mittelmark, l86 zwischen a2, lehnin und damsdorf|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
+  "gefahr kreis potsdam-mittelmark, l86 zwischen a2, lehnin und damsdorf|unfallstelle geräumt",
   "gefahr kreis spree-neiße, k7131 zwischen milkersdorf und babow|unfall, fahren sie bitte besonders vorsichtig",
   "kreis oberhavel, l191 zwischen hohenbruch und sommerfeld|gefahr besteht nicht mehr",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
@@ -591,5 +591,6 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen rüdersdorf und rastplatz kranichberge|stau"
 ]
