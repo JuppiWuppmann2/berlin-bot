@@ -1,5 +1,4 @@
 [
-  "b96 berlin, tiergartentunnel zwischen zufahrt reichpietschufer und ausfahrt heidestraße",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -181,6 +180,7 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
+  "gefahr b1 biesdorf richtung küstrin-kietz zwischen ortsumgehung müncheberg und jahnsfelde|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden",
   "gefahr b1, b5 berlin, alt-kaulsdorf zwischen mädewalder weg und adolfstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -387,6 +387,7 @@
   "sperrung berlin, blücherstraße zwischen baerwaldstraße und südstern|gesperrt, bauarbeiten",
   "sperrung berlin, bouch straße zwischen karl-kunger-straße und kiefholzstraße|gesperrt, baustelle",
   "sperrung berlin, caspar-theyß-straße zwischen humboldtstraße und wangenheimstraße|gesperrt, tiefbauarbeiten",
+  "sperrung berlin, dahlmannstraße zwischen sybelstraße und kurfürstendamm|gesperrt, kraneinsatz",
   "sperrung berlin, dernburgstraße zwischen herbartstraße und suarezstraße|gesperrt, baustelle",
   "sperrung berlin, dolomitenstraße zwischen brixener straße und b96a, mühlenstraße|gesperrt, baustelle",
   "sperrung berlin, eisenacher straße zwischen kyritzer straße und gothaer straße|gesperrt, bauarbeiten",
