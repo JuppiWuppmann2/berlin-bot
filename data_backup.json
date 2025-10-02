@@ -1,4 +1,5 @@
 [
+  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rastplatz kalkberge und rüdersdorf|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -161,6 +162,7 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen dreieck pankow und mühlenbeck|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
   "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen dreieck havelland und oberkrämer|gefahr durch reifenteile auf dem rechten fahrstreifen und dem standstreifen, langsam fahren, bitte vorsichtig fahren",
   "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen potsdam-nord und berlin-spandau|gefahr durch 1 langsames fahrzeug auf dem linken fahrstreifen",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -169,9 +171,10 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen holzhauser straße und waidmannsluster damm|rechter fahrstreifen gesperrt, defektes fahrzeug",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen staakow und freiwalde|gefahr durch 2 auf dem standstreifen abgestellte fahrzeuge",
-  "gefahr a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|gefahr durch ungesicherte unfallstelle, langsam fahren, bitte vorsichtig fahren",
+  "gefahr a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|unfallstelle geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-kaulsdorf zwischen mädewalder weg und adolfstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -318,7 +321,7 @@
   "gefahr cottbus, willy-brandt-straße zwischen franz-mehring-straße und am eliaspark|gefahr durch ungesicherte unfallstelle, langsam fahren, bitte vorsichtig fahren",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "gefahr kreis märkisch-oderland, b168 zwischen müncheberg und waldsieversdorf|gefahr durch pferde auf der fahrbahn, fahren sie bitte besonders vorsichtig",
+  "kreis märkisch-oderland, b168 zwischen müncheberg und waldsieversdorf|gefahr besteht nicht mehr",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -564,6 +567,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rastplatz kalkberge und rüdersdorf|stau, baustelle"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
