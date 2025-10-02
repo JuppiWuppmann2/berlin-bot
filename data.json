@@ -1,5 +1,4 @@
 [
-  "b101 trebbin richtung bad liebenwerda zwischen abzweig nach bochow und hohenahlsdorf|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -119,6 +118,7 @@
   "baustelle karl-liebknecht-straße mitte",
   "baustelle karl-marx-straße neukölln|leitungsbauarbeiten, fahrbahn eingeengt, abbiegebeschränkungen",
   "baustelle kladower damm gatow",
+  "baustelle kladower damm kladow|leitungsbauarbeiten, gegenverkehrsregelung mit ampel",
   "baustelle kolonnenstraße schöneberg|gasleitungsbauarbeiten, gegenverkehrsregelung mit baustellenampel, anbindung herbertstraße gesperrt",
   "baustelle lahnstraße neukölln|stromnetzarbeiten, gegenverkehrsregelung mit baustellenampel",
   "baustelle landsberger allee fennpfuhl",
@@ -196,6 +196,7 @@
   "gefahr b2, b5 berlin, kaiserdamm in höhe königin-elisabeth-straße / messedamm|fahrbahn auf zwei fahrstreifen verengt, staugefahr, geänderte verkehrsführung im baustellenbereich, baustelle, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
+  "gefahr b5 nauen richtung charlottenburg zwischen bredow und wustermark-ost|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
