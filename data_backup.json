@@ -1,4 +1,6 @@
 [
+  "a14 schwerin richtung wittenberge zwischen eldetalbrücke und groß warnow|gefahr besteht nicht mehr",
+  "b2, b5 berlin, kaiserdamm in höhe königin-elisabeth-straße / messedamm|baustelle beseitigt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -168,6 +170,7 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, halenseestraße in höhe werkstättenweg|baustelle beseitigt",
   "berlin, wollankstraße in höhe florastraße|ampelanlage wieder in betrieb",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt wexstraße|fahrbahnverengung, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen tempelhofer damm und alboinstraße|rechter fahrstreifen gesperrt, reinigungsarbeiten",
@@ -181,7 +184,6 @@
   "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen holzhauser straße und waidmannsluster damm|linker fahrstreifen gesperrt, reparaturarbeiten",
   "gefahr a113, a100 schönefeld richtung wilmersdorf zwischen dreieck neukölln und buschkrugallee|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a14 schwerin richtung wittenberge zwischen eldetalbrücke und groß warnow|gefahr durch verlorene ladung ein metallteil , polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-kaulsdorf zwischen mädewalder weg und adolfstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -196,7 +198,6 @@
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
-  "gefahr b2, b5 berlin, kaiserdamm in höhe königin-elisabeth-straße / messedamm|fahrbahn auf zwei fahrstreifen verengt, staugefahr, geänderte verkehrsführung im baustellenbereich, baustelle, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
@@ -335,6 +336,7 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis märkisch-oderland, b168 zwischen abzweig nach gielsdorf und prötzel|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr kreis märkisch-oderland, l233 zwischen hennickendorf und b1, b5, frankfurter chaussee|unfallstelle geräumt",
+  "gefahr kreis spree-neiße, l50 zwischen kreisverkehr briesen und gulben|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr ortsdurchfahrt gräningen, rathenower straße|rutschgefahr durch sand, polizei ist benachrichtigt",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|gesperrt, zu hohe verkehrsbelastung",
@@ -574,6 +576,7 @@
   "sperrung l90, werder havel , phöbener straße",
   "sperrung l91, od wachow",
   "sperrung l96, od milow",
+  "sperrung limberg, limberger hauptstraße zwischen berliner chaussee und wiesenweg|vollsperrung, unfall mit mehreren fahrzeugen",
   "sperrung neuruppin ot gnewikow, bahnübergang abzweig von der l167 noch nicht aktiv",
   "sperrung otternbuchtstraße siemensstadt|stromleitungsbauarbeiten, vollsperrung für kfz-verkehr",
   "sperrung raoul-wallenberg-straße marzahn|fahrbahnsanierungsarbeiten, vollsperrung für kfz-verkehr, bvg frei",
@@ -592,5 +595,6 @@
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rastplatz kalkberge und rüdersdorf|stau, baustelle",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, baustelle, fahren sie bitte besonders vorsichtig",
   "stau a13 schönefelder kreuz richtung dresden zwischen staakow und freiwalde|stau, fahren sie bitte besonders vorsichtig, baustelle"
 ]
