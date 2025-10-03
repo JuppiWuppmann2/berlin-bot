@@ -1,5 +1,4 @@
 [
-  "a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen berlin-spandau und potsdam-nord|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-moabit moabit|stromnetzarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -170,7 +169,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -199,6 +198,7 @@
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
   "gefahr berlin, alt-moabit zwischen calvinstraße und wilsnacker straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, alt-moabit zwischen lüneburger straße und rahel-hirsch-straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
+  "gefahr berlin, alt-stralau in höhe b96a, stralauer allee|ampelanlage außer betrieb, gefahr, fahren sie bitte besonders vorsichtig",
   "gefahr berlin, am niederfeld zwischen rosenhagener straße und steffenshagener straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nach rechts nicht möglich, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, am tierpark bis treskowallee zwischen sewanstraße und gregoroviusweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
   "gefahr berlin, an der wuhlheide, stadteinwärts zwischen rudolf-rühl-allee und spindlersfelder straße|fahrbahn auf zwei fahrstreifen verengt, wartungsarbeiten",
