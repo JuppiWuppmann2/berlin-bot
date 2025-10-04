@@ -1,4 +1,5 @@
 [
+  "a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rastplatz kranichberge|verkehr hat sich normalisiert",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-friedrichsfelde marzahn noch nicht aktiv|fahrbahnsanierung, fahrbahn auf einen fahrstreifen verengt",
@@ -163,8 +164,9 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, weißenhöher straße in höhe minsker straße|ampelanlage wieder in betrieb",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen dreieck potsdam und glindow|gefahr durch ungesicherte unfallstelle, stau, fahren sie bitte besonders vorsichtig",
-  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und michendorf|unfall, polizei und rettungswagen sind unterwegs, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und michendorf|unfallstelle geräumt",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen genshagen und ludwigsfelde-ost|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|gefahr durch ungesicherte unfallstelle auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -175,7 +177,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a2 magdeburg richtung berliner ring zwischen ziesar und wollin|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, reifenschaden, gefahr durch reifenteile auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr a24 berliner ring richtung pritzwalk zwischen fehrbellin und neuruppin|alle fahrbahnen geräumt",
   "gefahr a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk|wasser auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -193,6 +194,7 @@
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b246 wiesenburg richtung mittenwalde zwischen beelitz und abzweig nach schlunkendorf|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
+  "gefahr b5 nauen richtung charlottenburg zwischen zur döberitzer heide und mühlenstraße|gefahr durch metallteile auf dem linken fahrstreifen, polizei ist vor ort",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -317,7 +319,6 @@
   "gefahr berlin, tucholskystraße zwischen johannisstraße und oranienburger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, turmstraße zwischen bredowstraße und stromstraße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, warburgzeile zwischen alt-lietzow und otto-suhr-allee|einbahnstraßenregelung, baustelle",
-  "gefahr berlin, weißenhöher straße in höhe minsker straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, weißenseer weg zwischen konrad-wolf-straße und fritz-lesch-straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, bauarbeiten",
   "gefahr berlin, weißenseer weg zwischen landsberger allee und bernhard-bästlein-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wexstraße zwischen bernhardstraße und prinzregentenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -578,7 +579,6 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rastplatz kranichberge|stau",
   "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, staulänge zunehmend, bitte vorsichtig fahren",
   "stau berlin, landsberger chaussee zwischen ortseingang und teupitzer straße|stau, polizei regelt den verkehr, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
