@@ -1,4 +1,5 @@
 [
+  "b158 angermünde richtung berlin zwischen blumberg und blumberger chaussee|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-friedrichsfelde marzahn noch nicht aktiv|fahrbahnsanierung, fahrbahn auf einen fahrstreifen verengt",
@@ -164,6 +165,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen dreieck potsdam und glindow|gefahr durch ungesicherte unfallstelle, stau, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ludwigsfelde-west und dreieck nuthetal|polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig, gefahr durch gegenstände auf dem linken fahrstreifen ein reifen",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|gefahr durch ungesicherte unfallstelle auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -177,7 +179,6 @@
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b158 angermünde richtung berlin zwischen blumberg und blumberger chaussee|gefahr durch 2 hunde auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
@@ -187,6 +188,7 @@
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b246 wiesenburg richtung mittenwalde zwischen beelitz und abzweig nach schlunkendorf|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
+  "gefahr b87, b112 müllroser chaussee, frankfurt oder richtung luckau zwischen frankfurt oder und markendorf|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -194,7 +196,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, minna-cauer-straße zwischen ausfahrt vom tunnel-tiegarten-spreebogen und heidestraße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 kreuz oranienburg überleitung zur a10 richtung dreieck havelland|unfallstelle geräumt",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park in höhe bulgarische straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -570,5 +571,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, staulänge zunehmend, bitte vorsichtig fahren"
 ]
