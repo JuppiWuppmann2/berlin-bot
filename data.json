@@ -1,4 +1,5 @@
 [
+  "b5 charlottenburg richtung nauen zwischen zur döberitzer heide und ausfahrt berliner chaussee|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-friedrichsfelde marzahn noch nicht aktiv|fahrbahnsanierung, fahrbahn auf einen fahrstreifen verengt",
@@ -163,6 +164,7 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, torstraße in höhe brunnenstraße|ampelanlage wieder in betrieb",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen dreieck potsdam und glindow|gefahr durch ungesicherte unfallstelle, stau, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und michendorf|unfall, polizei und rettungswagen sind unterwegs, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen genshagen und ludwigsfelde-ost|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
@@ -311,7 +313,6 @@
   "gefahr berlin, tegeler weg zwischen osnabrücker straße und mindener straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, teltower damm zwischen laehrstraße und beeskowdamm|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, tiefwerderweg bis schulenburgbrücke zwischen schulenburgstraße und schulenburgbrücke|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
-  "gefahr berlin, torstraße in höhe brunnenstraße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr berlin, torstraße zwischen novalisstraße und chausseestraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
   "gefahr berlin, treskowallee zwischen ehrlichstraße und rummelsburger straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr berlin, triftstraße zwischen holzhauser straße und thiloweg, zu/von den straßen bei den wöhrden und fetschowzeile ist nur das rechtsabbiegen möglich|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -330,7 +331,7 @@
   "gefahr falkensee, rudolf-breitscheid-straße in höhe karl-marx-straße|gefahr durch wasserrohrbruch, bitte vorsichtig fahren",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "gefahr kreis havelland, l86 zwischen etzin und abzweig nach hoppenrade|unfall, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "kreis havelland, l86 zwischen etzin und abzweig nach hoppenrade|alle unfallstellen geräumt, keine verkehrsbehinderung mehr",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
@@ -582,6 +583,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "stau a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-hellersdorf und rastplatz kranichberge|stau",
   "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, staulänge zunehmend, bitte vorsichtig fahren",
-  "stau b5 charlottenburg richtung nauen zwischen zur döberitzer heide und ausfahrt berliner chaussee|stau",
   "stau berlin, landsberger chaussee zwischen ortseingang und teupitzer straße|stau, polizei regelt den verkehr, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
