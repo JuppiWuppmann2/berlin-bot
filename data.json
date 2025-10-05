@@ -1,5 +1,4 @@
 [
-  "b101 stahnsdorf richtung trebbin zwischen ruhlsdorf und brandenburgpark|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf noch nicht aktiv|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -174,7 +173,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|gefahr durch liegengebliebenes fahrzeug, rechter fahrstreifen blockiert",
-  "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|unfall auf dem standstreifen, gefahr durch gegenstände auf dem rechten fahrstreifen ein plastikteil , polizei ist benachrichtigt, bitte vorsichtig fahren",
+  "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|unfallstelle geräumt",
   "gefahr a24 pritzwalk richtung schwerin zwischen putlitz und suckow|gefahr durch gegenstände auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -251,7 +250,6 @@
   "gefahr berlin, karl-marx-straße in höhe reuterstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, karl-marx-straße zwischen jonasstraße und thomasstraße|fahrbahnverengung, baustelle",
   "gefahr berlin, klaustaler straße bis wernigeroder straße zwischen nordhauser straße und harlingeroder weg über quedlinburger straße|fahrbahnverengung, bauarbeiten",
-  "gefahr berlin, kollatzstraße zwischen crusiusstraße und lerschpfad|fahrbahnverengung, baustelle",
   "gefahr berlin, kolonnenstraße zwischen crellestraße und feurigstraße|abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, arbeiten an gasleitungen",
   "gefahr berlin, landsberger allee in höhe am wasserwerk|linker fahrstreifen gesperrt, tiefbauarbeiten",
   "gefahr berlin, landsberger allee in höhe berlin|fahrbahn auf einen fahrstreifen verengt, gleisbauarbeiten",
