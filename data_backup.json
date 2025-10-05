@@ -1,7 +1,4 @@
 [
-  "a10 südlicher berliner ring, dreieck werder richtung dreieck potsdam zwischen glindow und dreieck potsdam|gefahr besteht nicht mehr",
-  "a11 berliner ring richtung kreuz uckermark zwischen warnitz und gramzow",
-  "a13 dresden richtung schönefelder kreuz zwischen ortrand und ruhland|verkehrsstörung besteht nicht mehr",
   "a13 richtung schönefelder kreuz zwischen dreieck spreewald und lübbenau|gefahr besteht nicht mehr, gefahr durch liegengebliebenes fahrzeug",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -179,6 +176,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen dreieck spreewald und lübbenau|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren",
+  "gefahr a24 pritzwalk richtung schwerin zwischen putlitz und suckow|gefahr durch gegenstände auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
