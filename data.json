@@ -170,6 +170,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a11 kreuz uckermark richtung berliner ring zwischen chorin und werbellin|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden, bitte vorsichtig fahren, linker fahrstreifen wieder befahrbar, stau",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -320,7 +321,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
-  "sperrung a11 kreuz uckermark richtung berliner ring zwischen chorin und werbellin|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden, bitte vorsichtig fahren, richtungsfahrbahn gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
@@ -347,6 +347,7 @@
   "sperrung b169, ou drebkau",
   "sperrung b188, rw kreisverkehr stechow bis rhinsmühlen",
   "sperrung b189, ou wittenberge",
+  "sperrung b246 eisenhüttenstadt richtung beeskow zwischen dammendorf und grunow|vollsperrung, brennendes fahrzeug, feuerwehr und rettungskräfte sind vor ort, fahren sie bitte besonders vorsichtig, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "sperrung b246, oe bad belzig",
   "sperrung b246, zossen, bü nächst neuendorfer chaussee und oertelufer",
   "sperrung b5, wusterhausen",
@@ -569,5 +570,6 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, staulänge zunehmend, fahren sie bitte besonders vorsichtig"
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, staulänge zunehmend, fahren sie bitte besonders vorsichtig",
+  "stau a13 dresden richtung schönefelder kreuz zwischen ortrand und ruhland|stau, staulänge zunehmend, fahren sie bitte besonders vorsichtig"
 ]
