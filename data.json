@@ -1,5 +1,5 @@
 [
-  "b101, b2, b5 berlin, großbeerenstraße bis unter den linden zwischen wilhelm-von-siemens-straße und hinter dem gießhaus über rathausstraße, ringstraße, attilastraße, steglitzer damm, albrechtstraße, schloßstraße, rheinstraße, schmiljanstraße, bundesallee, berliner straße, brandenburgische straße, fehrbelliner platz, kurfürstendamm, tauentzienstraße, wittenbergplatz, kleiststraße, an der urania, kurfürstenstraße, schillstraße, klingelhöferstraße, hofjägerallee, b2 b5, ebertstraße, potsdamer platz, leipziger straße, mühlendamm, alexanderstraße, holzmarktstraße, stralauer platz, mühlenstraße, warschauer straße, frankfurter tor, karl-marx-allee, karl-liebknecht-straße und schloßplatz|verkehrsstörung besteht nicht mehr",
+  "a115 dreieck nuthetal richtung dreieck funkturm zwischen potsdam-babelsberg und kleinmachnow|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf noch nicht aktiv|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -173,7 +173,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen potsdam-babelsberg und kleinmachnow|reifenschaden, gefahr durch defektes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a2 magdeburg richtung berliner ring zwischen netzen und lehnin|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr a9 halle/leipzig richtung berlin einfahrt beelitz-heilstätten|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -480,6 +479,7 @@
   "sperrung berlin, wiltbergstraße zwischen alt-buch in berlin und abzweig nach zepernick|vollsperrung, brückenarbeiten",
   "sperrung berlin, winckelmannstraße zwischen köpenicker straße und vereinsstraße|gesperrt, havarie",
   "sperrung berlin, wollankstraße zwischen schulzestraße und nordbahnstraße|gesperrt, bauarbeiten",
+  "sperrung berlin, zabel-krüger-damm zwischen am vierrutenberg und alt-lübars|gesperrt, feuerwehreinsatz",
   "sperrung berlin-charlottenburg, gierkeplatz 1-11 zwischen gierkezeile und schustehrustraße|gesperrt, bauarbeiten",
   "sperrung berlin-moabit, berlin hauptbahnhof bahnpark-parkhaus zufahrt tiergartentunnel|gesperrt, unfallschadensbeseitigung",
   "sperrung blücherstraße kreuzberg",
