@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen raststätte michendorf nord und ferch|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-friedrichsfelde marzahn noch nicht aktiv|fahrbahnsanierung, fahrbahn auf einen fahrstreifen verengt",
@@ -164,7 +165,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ferch und dreieck potsdam|brennender pkw auf dem beschleunigungsstreifen",
-  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen raststätte michendorf nord und ferch|gefahr durch brennendes fahrzeug, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen schönefelder kreuz und genshagen|1 unfall auf dem rechten fahrstreifen und dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch defekten pkw auf dem standstreifen, gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -174,7 +174,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
