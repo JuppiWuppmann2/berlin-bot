@@ -1,4 +1,5 @@
 [
+  "a13 richtung schönefelder kreuz zwischen dreieck spreewald und lübbenau|gefahr besteht nicht mehr, gefahr durch liegengebliebenes fahrzeug",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf noch nicht aktiv|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -164,6 +165,7 @@
   "baustelle weißenseer weg fennpfuhl|gleisbauarbeiten, fahrbahn jeweils auf zwei fahrstreifen verengt",
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 südlicher berliner ring, dreieck werder richtung dreieck potsdam zwischen glindow und dreieck potsdam|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen rastplatz kalkberge und berlin-hellersdorf|achtung, personen werfen steine auf die fahrbahn, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -174,6 +176,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a11 berliner ring richtung kreuz uckermark zwischen warnitz und gramzow|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a13 dresden richtung schönefelder kreuz zwischen dreieck spreewald und lübbenau|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
