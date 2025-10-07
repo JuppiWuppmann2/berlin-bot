@@ -1,5 +1,4 @@
 [
-  "b198 gramzow, prenzlauer straße bis poststraße zwischen mühlenberg und am poetensteig|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -147,6 +146,7 @@
   "baustelle ottomar-geschke-straße köpenick|gleisbauarbeiten, fahrstreifenreduzierung und verschwenkungen",
   "baustelle pallasstraße schöneberg|glasfaserleitungsverlegung, fahrbahn jeweils auf einen fahrstreifen verengt und verschwenkt",
   "baustelle prinzenallee gesundbrunnen|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
+  "baustelle rudolf-rühl-allee köpenick noch nicht aktiv|brückenprüfung, für beide fahrtrichtungen steht nur ein gemeinsamer fahrstreifen zur verfügung",
   "baustelle sachsendamm schöneberg",
   "baustelle schnellerstraße niederschöneweide|instandsetzung regenwasserkanal, fahrbahn auf jeweils zwei fahrstreifen verengt",
   "baustelle schulenburgstraße wilhelmstadt|leitungsarbeiten, fahrbahn auf einen fahrstreifen je richtung verengt und verschwenkt",
@@ -197,6 +197,7 @@
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
+  "gefahr b5 charlottenburg richtung nauen zwischen berlin und dallgow-döberitz|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
