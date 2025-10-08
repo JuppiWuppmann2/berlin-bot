@@ -1,5 +1,4 @@
 [
-  "a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen potsdam-nord und berlin-spandau|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -343,6 +342,7 @@
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
+  "sperrung a100 stadtring berlin, wilmersdorf richtung neukölln zwischen gradestraße und buschkrugallee|gesperrt, höhenkontrolle wurde ausgelöst",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|wartungsarbeiten, fahrtrichtung gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -486,6 +486,7 @@
   "sperrung berlin, senheimer straße zwischen ariadnestraße und huttenstraße|gesperrt, fahrbahnausbesserung",
   "sperrung berlin, smetanastraße zwischen chopinstraße und gounodstraße|gesperrt, bauarbeiten",
   "sperrung berlin, soorstraße zwischen gottfried-keller-straße und spandauer damm|gesperrt",
+  "sperrung berlin, spandauer straße zwischen b1, gustav-böß-straße und rathausstraße|gesperrt, kraneinsatz",
   "sperrung berlin, spichernstraße zwischen schapertstraße und bundesallee|gesperrt, baustelle",
   "sperrung berlin, sredzkistraße zwischen husemannstraße und kollwitzstraße|gesperrt, bauarbeiten",
   "sperrung berlin, sredzkistraße zwischen knaackstraße und husemannstraße|gesperrt, bauarbeiten",
