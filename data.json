@@ -174,6 +174,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen mühlenbeck und dreieck pankow|unfall, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -186,9 +187,8 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz in höhe bestensee|ungesicherte unfallstelle, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|aufräumarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, linker fahrstreifen wieder befahrbar",
-  "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|gefahr durch liegengebliebenes fahrzeug, gefahr durch personen auf der fahrbahn",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen groß köris und teupitz|unfall auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen teupitz und baruth/mark|unfall, rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden",
   "gefahr a19 rostock richtung dreieck wittstock/dosse zwischen rastplatz eldetal west und wittstock|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -338,7 +338,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald, l42 zwischen neu lübbenau und hohenbrück|gefahr durch ungesicherte unfallstelle",
-  "kreis prignitz, k7048 zwischen sargleben und pinnow",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|fahrbahnsanierung, fahrtrichtung gesperrt",
@@ -519,7 +518,6 @@
   "sperrung frohnauer straße frohnau/hermsdorf|wasserrohrbruch, vollsperrung für kfz-verkehr",
   "sperrung frohnauer straße frohnau|wasserrohrbruch, vollsperrung für kfz-verkehr",
   "sperrung goltzstraße lichtenrade|umleitungsstrecke für gesperrte bahnhofstraße, fahrtrichtung gesperrt",
-  "sperrung gotthardstraße reinickendorf|fräsarbeiten, fahrbahn auf einen fahrstreifen verengt, mittelstreifenüberfahrt gesperrt",
   "sperrung heimatfest 2025",
   "sperrung joachim-tiburtius-brücke steglitz|brückeninstandsetzung, vollsperrung für den kfz-verkehr. die anschlussstelle zur a103 as filandastraße bleibt frei befahrbar. umleitungen sind ausgeschildert",
   "sperrung k6109, spreewaldheide, waldow, waldower dorfstraße",
@@ -601,5 +599,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 schönefelder kreuz richtung dresden zwischen teupitz und baruth/mark|unfall, rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden, stau, polizei ist vor ort"
 ]
