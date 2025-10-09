@@ -1,4 +1,5 @@
 [
+  "a113 neukölln richtung schönefeld zwischen waltersdorfer dreieck und schönefelder kreuz|die gefahr durch ein entgegenkommendes fahrzeug besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -184,11 +185,10 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen jakob-kaiser-platz und beusselstraße|linker fahrstreifen gesperrt, grünpflege",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a113 neukölln richtung schönefeld zwischen waltersdorfer dreieck und schönefelder kreuz|achtung, ihnen kommt ein falschfahrer entgegen, nicht überholen, vorsicht auf beiden richtungsfahrbahnen",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz in höhe bestensee|ungesicherte unfallstelle, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|aufräumarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, linker fahrstreifen wieder befahrbar",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|gefahr durch gegenstände auf der fahrbahn fahrzeugteile , bitte vorsichtig fahren, polizei ist benachrichtigt",
+  "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|alle fahrbahnen geräumt",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen groß köris und teupitz|unfall auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen teupitz und baruth/mark|unfall, rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig, gasse für rettungs- und einsatzfahrzeuge bilden",
   "gefahr a19 rostock richtung dreieck wittstock/dosse zwischen rastplatz eldetal west und wittstock|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
