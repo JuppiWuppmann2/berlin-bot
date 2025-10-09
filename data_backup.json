@@ -293,7 +293,6 @@
   "gefahr berlin, rheinstraße zwischen walther-schreiber-platz und dickhardtstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, kanalbauarbeiten",
   "gefahr berlin, rhinstraße zwischen allee der kosmonauten und paul-singer-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, rubensstraße in höhe rembrandtstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
-  "gefahr berlin, rudolf-rühl-allee zwischen köpenicker straße und am bahnhof wuhlheide|normale fahrstreifenregelung wieder in kraft",
   "gefahr berlin, rummelsburger landstraße in höhe minna-todenhagen-straße|geänderte verkehrsführung, bauarbeiten",
   "gefahr berlin, sachsendamm zwischen hedwig-dohm-straße und vorarlberger damm|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, scharnweberstraße bis seidelstraße zwischen antonienstraße und flohrstraße|fahrbahn auf einen fahrstreifen verengt, stau zu erwarten, geänderte verkehrsführung, brückenarbeiten",
@@ -331,7 +330,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "sperrung a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen kreuz oranienburg und birkenwerder|brennender lkw, fahren sie bitte besonders vorsichtig, feuerwehreinsatz, polizei ist vor ort, benutzen sie den linken fahrstreifen, richtungsfahrbahn blockiert",
-  "sperrung a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|unfall, mittlerer fahrstreifen blockiert, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig, vollsperrung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|fahrbahnsanierung, fahrtrichtung gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -588,5 +586,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|unfall, fahren sie bitte besonders vorsichtig, stau, polizei ist vor ort"
 ]
