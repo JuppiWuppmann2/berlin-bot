@@ -174,7 +174,7 @@
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "frankfurt oder , meurerstraße zwischen fürstenwalder poststraße und ende der straße|gefahr besteht nicht mehr",
   "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen mühlenbeck und birkenwerder|liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen falkensee und dreieck havelland|gefahr durch 1 verlorene ladung ein plastikteil auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen falkensee und dreieck havelland|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -185,7 +185,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen klettwitz und schwarzheide|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -331,6 +330,7 @@
   "gefahr falkensee, potsdamer straße zwischen straße der einheit und heckmannstraße|liegengebliebenes fahrzeug, staugefahr, fahren sie bitte besonders vorsichtig",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "kreis havelland, l20 zwischen seeburg und falkensee-dallgow|verkehrsstörung besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
@@ -596,6 +596,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau kreis havelland, l20 zwischen seeburg und falkensee-dallgow|stau, unfall, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
