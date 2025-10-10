@@ -1,5 +1,4 @@
 [
-  "a113 richtung neukölln zwischen ausfahrt schönefeld-nord und tunnel altglienicke",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -184,6 +183,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|polizei ist benachrichtigt, bitte vorsichtig fahren, stau",
+  "gefahr a2 berliner ring richtung magdeburg zwischen raststätte buckautal nord und rastplatz wüstenforst nord|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a2 magdeburg richtung berliner ring zwischen wollin und brandenburg|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -329,7 +329,6 @@
   "gefahr kreis barnim, l23 zwischen a11, chorin und britz|gefahr durch gegenstände auf der fahrbahn, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr kreis potsdam-mittelmark, brandenburger landstraße zwischen am bahnhof und herrenmühle|freilaufende tiere hunde , fahren sie bitte besonders vorsichtig",
   "gefahr kreis spree-neiße, straße zwischen papproth und jehserig|brennender pkw, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, feuerwehreinsatz, polizei ist benachrichtigt",
-  "kreis havelland, l863 zwischen abzweig nach etzin und wernitz|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
