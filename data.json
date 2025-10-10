@@ -1,5 +1,4 @@
 [
-  "a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen niederlehme und königs wusterhausen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -184,6 +183,8 @@
   "gefahr a111 dreieck oranienburg richtung charlottenburg tunnel ortskern tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen fürstenwalde-ost und briesen|fahren sie bitte besonders vorsichtig, gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen müllrose und frankfurt oder -west|gefahr durch 1 totes tier reh auf dem mittleren fahrstreifen, fahren sie bitte besonders vorsichtig auf dem mittleren fahrstreifen, polizei ist benachrichtigt",
+  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen storkow und friedersdorf|gefahr durch einen reifen auf dem rechten fahrstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a2 berliner ring richtung magdeburg zwischen dreieck werder und lehnin|fahrbahn auf einen fahrstreifen verengt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -221,6 +222,7 @@
   "gefahr berlin, an der wuhlheide, stadteinwärts zwischen rudolf-rühl-allee und spindlersfelder straße|fahrbahn auf zwei fahrstreifen verengt, wartungsarbeiten",
   "gefahr berlin, argentinische allee in höhe fischerhüttenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, arnulfstraße zwischen wittekindstraße und alboinstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr berlin, berliner straße in höhe b96a, mühlenstraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, berliner straße zwischen badensche straße und bundesallee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, berliner straße zwischen bamberger straße und jenaer straße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, berliner straße zwischen wittestraße und ernststraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
