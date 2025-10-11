@@ -176,10 +176,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|alle fahrbahnen geräumt",
-  "gefahr a10 südlicher berliner ring, dreieck werder richtung dreieck potsdam zwischen dreieck werder und glindow|alle fahrbahnen geräumt",
-  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen rangsdorf und genshagen|gefahr durch gegenstände auf der fahrbahn, bitte vorsichtig fahren, mittlerer fahrstreifen blockiert",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|unfallstelle geräumt",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen rangsdorf und genshagen|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -331,7 +328,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr jüterbog|demonstration",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "kreis oder-spree, l38 zwischen fürstenwalde/spree und abzweig nach hangelsberg|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -601,5 +597,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, fahren sie bitte besonders vorsichtig, bauarbeiten"
 ]
