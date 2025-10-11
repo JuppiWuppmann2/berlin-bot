@@ -176,6 +176,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
+  "berlin, am juliusturm in höhe breite straße|ampelanlage wieder in betrieb",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -201,7 +202,6 @@
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
-  "gefahr b5 charlottenburg richtung nauen zwischen berlin-spandau und a10, berlin-spandau|gefahr durch ein totes tier auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -218,7 +218,6 @@
   "gefahr berlin, alt-buch in höhe pölnitzweg|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
   "gefahr berlin, alt-moabit zwischen lüneburger straße und rahel-hirsch-straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
-  "gefahr berlin, am juliusturm in höhe breite straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, am niederfeld zwischen rosenhagener straße und steffenshagener straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nach rechts nicht möglich, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, am tierpark bis treskowallee zwischen sewanstraße und gregoroviusweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
   "gefahr berlin, an der wuhlheide, stadteinwärts zwischen rudolf-rühl-allee und spindlersfelder straße|fahrbahn auf zwei fahrstreifen verengt, wartungsarbeiten",
@@ -606,5 +605,5 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 dresden richtung schönefelder kreuz zwischen mittenwalde und schönefelder kreuz|stau, rechter fahrstreifen gesperrt, standstreifen gesperrt, unfall mit verletzten, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "stau a13 dresden richtung schönefelder kreuz zwischen ragow und schönefelder kreuz|stau, rechter fahrstreifen gesperrt, standstreifen gesperrt, unfall mit verletzten, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
