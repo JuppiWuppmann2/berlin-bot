@@ -1,4 +1,6 @@
 [
+  "a100 stadtring berlin, wilmersdorf richtung neukölln einfahrt detmolder straße|wieder offen",
+  "a100 stadtring berlin, wilmersdorf richtung neukölln in höhe detmolder straße|fahrbahnbeschränkung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -181,12 +183,12 @@
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
-  "gefahr a100 stadtring berlin, wilmersdorf richtung neukölln in höhe detmolder straße|fahrbahn auf einen fahrstreifen verengt, polizeieinsatz",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen kreuz oranienburg und stolpe|gefahr durch ein totes tier auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a13 dresden richtung schönefelder kreuz zwischen ragow und schönefelder kreuz|unfallstelle geräumt",
   "gefahr a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a9 halle/leipzig richtung berlin zwischen niemegk und brück|gefahr durch defektes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -332,7 +334,6 @@
   "gefahr kreis märkisch-oderland, l33 zwischen seeberg-siedlung und berlin-marzahn|wildunfall, bitte vorsichtig fahren",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
-  "sperrung a100 stadtring berlin, wilmersdorf richtung neukölln einfahrt detmolder straße|gesperrt, polizeieinsatz",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|einrichtung einer baustelle, fahrtrichtung gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein- und ausfahrt gesperrt",
@@ -608,6 +609,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 dresden richtung schönefelder kreuz zwischen ragow und schönefelder kreuz|stau, rechter fahrstreifen gesperrt, standstreifen gesperrt, unfall mit verletzten, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
