@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen dreieck spreeau und niederlehme",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -175,10 +176,9 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck potsdam und ferch|gefahr durch gegenstände auf dem linken fahrstreifen",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck potsdam und ferch|alle fahrbahnen geräumt",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck potsdam und ferch|gefahr durch liegengebliebenes fahrzeug, linker fahrstreifen blockiert, bitte vorsichtig fahren, polizei ist benachrichtigt",
-  "gefahr a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen dreieck spreeau und niederlehme|gefahr durch ein lkw-rad auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
-  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|gefahr durch gegenstände auf dem linken fahrstreifen",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr durch gegenstände auf dem rechten fahrstreifen reifenteile",
   "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
