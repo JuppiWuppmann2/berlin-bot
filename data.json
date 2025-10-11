@@ -1,4 +1,5 @@
 [
+  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen",
   "b96a berlin, grabbeallee in höhe heinrich-mann-straße|ampelanlage wieder in betrieb",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -177,7 +178,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch personen auf der fahrbahn, standstreifen blockiert, liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -187,6 +187,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen bestensee und groß köris|gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a2 berliner ring richtung magdeburg zwischen netzen und brandenburg|gefahr durch gegenstände auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
