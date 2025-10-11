@@ -1,4 +1,5 @@
 [
+  "a100n in höhe sonnenallee|verkehrsstörung besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -176,6 +177,8 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
+  "berlin, paul-schneider-straße bis gallwitzallee zwischen kaiser-wilhelm-straße und thaliaweg|wieder offen",
+  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch personen auf der fahrbahn, standstreifen blockiert, liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr a100 stadtring berlin einfahrt detmolder straße|ampelanlage außer betrieb, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -327,6 +330,7 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr jüterbog|demonstration",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "gefahr kreis oberhavel, l19 zwischen sommerfeld und kremmen|gefahr durch ungesicherte unfallstelle",
   "gefahr kreis teltow-fläming, l40 zwischen dahlewitz und b96, dahlewitz-ost|gefahr durch ungesicherte unfallstelle",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
@@ -336,6 +340,7 @@
   "sperrung a100 stadtring noch nicht aktiv|fahrbahnsanierung, einfahrt gesperrt",
   "sperrung a100 stadtring|fahrbahnsanierung, fahrtrichtung gesperrt",
   "sperrung a100 wilmersdorf richtung neukölln tunnel innsbrucker platz|gesperrt, bauarbeiten, fahrbahnerneuerung",
+  "sperrung a100n richtung neukölln zwischen sonnenallee und a100, dreieck neukölln|gesperrt, höhenkontrolle wurde ausgelöst",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
@@ -446,7 +451,6 @@
   "sperrung berlin, nordufer zwischen eckernförder platz und föhrer straße|gesperrt, baustelle",
   "sperrung berlin, oldenburgallee zwischen marathonallee und bayernallee|gesperrt, bauarbeiten",
   "sperrung berlin, otisstraße zwischen seidelstraße und winterweg|gesperrt, bauarbeiten",
-  "sperrung berlin, paul-schneider-straße bis gallwitzallee zwischen kaiser-wilhelm-straße und thaliaweg|gesperrt, unfall",
   "sperrung berlin, perleberger straße zwischen birkenstraße und ellen-epstein-straße|gesperrt, baustelle",
   "sperrung berlin, persiusstraße zwischen bödikerstraße und bossestraße|gesperrt, bauarbeiten",
   "sperrung berlin, pettenkoferstraße zwischen eldenaer straße und bänschstraße|gesperrt",
@@ -598,5 +602,6 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, fahren sie bitte besonders vorsichtig, bauarbeiten"
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, fahren sie bitte besonders vorsichtig, bauarbeiten",
+  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau, baustelle, fahren sie bitte besonders vorsichtig, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
