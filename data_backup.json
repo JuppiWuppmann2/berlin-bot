@@ -1,5 +1,4 @@
 [
-  "a24 pritzwalk richtung berliner ring zwischen neuruppin-süd und fehrbellin",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -190,6 +189,7 @@
   "gefahr a11 berliner ring richtung kreuz uckermark zwischen gramzow und kreuz uckermark|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, gefahr durch 1 person auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a11 kreuz uckermark richtung berliner ring zwischen pfingstberg und joachimsthal|gefahr durch liegengebliebenes fahrzeug, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a2 berliner ring richtung magdeburg zwischen dreieck werder und lehnin|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -332,7 +332,6 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald, l745 zwischen motzen und gallun|gefahr durch ein totes tier auf der fahrbahn, wildunfall",
   "gefahr kreis teltow-fläming, l794 zwischen neubeeren und struveshof|gefahr durch gegenstände auf der fahrbahn",
-  "gefahr ortsdurchfahrt kleptow, kleptow|unfallstelle geräumt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
