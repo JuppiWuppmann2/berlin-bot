@@ -1,6 +1,6 @@
 [
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
-  "baustelle a100 stadtring noch nicht aktiv|fahrbahnsanierung, ein fahrstreifen gesperrt",
+  "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alexanderstraße mitte noch nicht aktiv",
   "baustelle alt-biesdorf biesdorf|abrissarbeiten, rechter fahrstreifen gesperrt",
@@ -245,6 +245,7 @@
   "gefahr berlin, hasenheide zwischen lucy-lameck-straße und jahnstraße|fahrbahn auf einen fahrstreifen verengt, arbeiten an wasserleitungen",
   "gefahr berlin, hauptstraße in höhe emma-ihrer-str.|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, havemannstraße in höhe golliner straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, bauarbeiten",
+  "gefahr berlin, heidelberger straße bis bouch straße in höhe schmollerstraße|fahrradkorso, verkehrsbehinderung zu erwarten",
   "gefahr berlin, heidestraße in höhe perleberger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, verkehrsbehinderung zu erwarten",
   "gefahr berlin, helmholtzstraße in höhe pascalstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen bäkestraße und moltkestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -328,6 +329,7 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald, l745 zwischen motzen und gallun|gefahr durch ein totes tier auf der fahrbahn, wildunfall",
+  "gefahr kreis prignitz, l13 zwischen reetz und abzweig nach strehlen|gefahr durch ein totes tier fuchs auf der fahrbahn, bitte vorsichtig fahren",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|gesperrt, bauarbeiten",
