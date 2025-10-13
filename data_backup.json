@@ -1,4 +1,5 @@
 [
+  "b1, b5 berlin, alt-mahlsdorf in höhe pilgramer straße|ampelanlage wieder in betrieb",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -185,6 +186,7 @@
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
+  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen autobahnanschlussstelle dreieck charlottenburg und autobahndreieck dreieck charlottenburg|rechter fahrstreifen blockiert, liegengebliebenes fahrzeug",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
@@ -201,7 +203,6 @@
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-friedrichsfelde bis alt-biesdorf in höhe b158, märkische allee|fahrbahn auf einen fahrstreifen verengt, fahrbahnausbesserung",
-  "gefahr b1, b5 berlin, alt-mahlsdorf in höhe pilgramer straße|ampelanlage außer betrieb, gefahr, vorsicht an der kreuzung",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee zwischen rosenfelder straße und hubertusstraße|linker fahrstreifen gesperrt, brückenarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
