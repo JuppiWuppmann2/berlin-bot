@@ -1,5 +1,4 @@
 [
-  "a100 stadtring berlin, wilmersdorf richtung neukölln ausfahrt oberlandstraße|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -198,6 +197,8 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a14 wittenberge richtung schwerin zwischen groß warnow und grabow|gefahr durch reifenteile auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "gefahr a2 berliner ring richtung magdeburg zwischen lehnin und netzen|gefahr durch einen reifen auf dem mittleren fahrstreifen",
   "gefahr a24 berliner ring richtung pritzwalk zwischen dreieck havelland und kremmen|gefahr durch gegenstände auf der fahrbahn, polizei ist benachrichtigt",
   "gefahr a9 berlin richtung halle/leipzig zwischen beelitz-heilstätten und beelitz|1 person auf der fahrbahn",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -636,6 +637,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau",
   "stau a13 dresden richtung schönefelder kreuz zwischen dreieck spreewald und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "werneuchen, poststraße zwischen ortseingang und mühlenstraße|wieder offen"
+  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
