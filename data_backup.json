@@ -1,4 +1,6 @@
 [
+  "a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|verkehr hat sich normalisiert",
+  "a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|verkehr hat sich normalisiert",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -181,7 +183,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg noch nicht aktiv|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen leest und potsdam-nord|gefahr durch defekten pkw auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen leest und potsdam-nord|alle fahrbahnen wieder frei",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -192,6 +194,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen rastplatz krausnicker berge und staakow|unfallaufnahme auf dem standstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a13 schönefelder kreuz richtung dresden zwischen raststätte am kahlberg west und groß köris|defekter pkw auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a9 berlin richtung halle/leipzig zwischen brück und niemegk|gefahr durch defektes fahrzeug auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -341,7 +344,6 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis barnim, l200 zwischen spechthausen und eberswalde|unfall, rettungsfahrzeuge im einsatz, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr kreis dahme-spreewald, b179 zwischen königs wusterhausen und zeesen|wildunfall, bitte vorsichtig fahren, polizei ist benachrichtigt",
-  "kreis havelland, l91 zwischen quermathen und gohlitz|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
@@ -635,7 +637,5 @@
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau"
 ]
