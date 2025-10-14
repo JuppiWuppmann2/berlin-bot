@@ -1,5 +1,4 @@
 [
-  "a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen späthstraße und dreieck neukölln|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -160,6 +159,7 @@
   "baustelle oranienstraße kreuzberg|bauarbeiten, rechter fahrstreifen gesperrt, kein linksabbiegen in alexandrinenstraße möglich",
   "baustelle ottomar-geschke-straße köpenick|gleisbauarbeiten, fahrstreifenreduzierung und verschwenkungen",
   "baustelle pallasstraße schöneberg|glasfaserleitungsverlegung, fahrbahn jeweils auf einen fahrstreifen verengt und verschwenkt",
+  "baustelle pistoriusstraße weißensee noch nicht aktiv|leitungsbauarbeiten, für beiden richtungen nur ein gemeinsamer fahrstreifen frei, anbindung jacobsohnstraße ist für den kfz-verkehr gesperrt",
   "baustelle prinzenallee gesundbrunnen|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
   "baustelle sachsendamm schöneberg",
   "baustelle schnellerstraße niederschöneweide|instandsetzung regenwasserkanal, fahrbahn auf jeweils zwei fahrstreifen verengt",
@@ -218,7 +218,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, minna-cauer-straße zwischen ausfahrt vom tunnel-tiegarten-spreebogen und heidestraße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 fürstenberg richtung reinickendorf zwischen oranienburg nord und b273, oranienburg-zentrum|alle fahrbahnen geräumt",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park in höhe bulgarische straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b96a berlin, am treptower park zwischen puderstraße und karpfenteichstraße|rechter fahrstreifen gesperrt, kraneinsatz",
