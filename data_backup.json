@@ -115,6 +115,7 @@
   "baustelle helmholtzstraße charlottenburg|leitungsbauarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt und verschwenkt",
   "baustelle hindenburgdamm lichterfelde|arbeiten am fernwärmenetz, fahrbahn auf einen fahrstreifen je richtung verengt und verschwenkt",
   "baustelle hindenburgdamm lichterfelde|arbeiten an wasserleitungen, ein fahrstreifen gesperrt",
+  "baustelle holzmarktstraße mitte noch nicht aktiv|tagesbaustelle, fahrbahn auf einen fahrstreifen verengt",
   "baustelle hubertusallee grunewald|leitungsarbeiten, eine baustellenampel regelt den verkehr. die lynarstraße ist auf der seite richtung humboldtstraße von der hubertusallee abgehängt sackgasse",
   "baustelle hüttenweg dahlem|leitungsbau, für beide richtungen ein gemeinsamer fahrstreifen frei",
   "baustelle indira-gandhi-straße weißensee|gasleitungsbauarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -160,6 +161,7 @@
   "baustelle pallasstraße schöneberg|glasfaserleitungsverlegung, fahrbahn jeweils auf einen fahrstreifen verengt und verschwenkt",
   "baustelle pistoriusstraße weißensee noch nicht aktiv|leitungsbauarbeiten, für beiden richtungen nur ein gemeinsamer fahrstreifen frei, anbindung jacobsohnstraße ist für den kfz-verkehr gesperrt",
   "baustelle prinzenallee gesundbrunnen|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
+  "baustelle reichsstraße westend noch nicht aktiv",
   "baustelle sachsendamm schöneberg",
   "baustelle schnellerstraße niederschöneweide|instandsetzung regenwasserkanal, fahrbahn auf jeweils zwei fahrstreifen verengt",
   "baustelle schöneberger ufer tiergarten|arbeiten an gasleitungen, fahrbahn auf einen fahrstreifen verengt",
@@ -203,7 +205,6 @@
   "gefahr b102 brandenburg an der havel richtung treuenbrietzen zwischen abzweig nach dahnsdorf und a9, niemegk|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, vollsperrung",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b167 finowfurt, marienwerderstraße zwischen lehnschulzenstraße und a11, finowfurt|unfall, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, alexanderstraße in höhe karl-liebknecht-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -626,5 +627,6 @@
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau"
+  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau",
+  "stau b167 finowfurt, marienwerderstraße zwischen lehnschulzenstraße und a11, finowfurt|unfall, bitte vorsichtig fahren, polizei ist benachrichtigt, halbseitig gesperrt, stau"
 ]
