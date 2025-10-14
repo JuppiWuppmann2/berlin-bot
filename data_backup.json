@@ -1,6 +1,4 @@
 [
-  "b101 bad liebenwerda richtung mariendorf zwischen luckenwalde und brandenburgpark|die gefahr durch ein entgegenkommendes fahrzeug besteht nicht mehr",
-  "b101 berlin, großbeerenstraße zwischen heusingerstraße und körtingstraße|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -249,7 +247,6 @@
   "gefahr berlin, dahlwitzer straße in höhe landsberger straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, tiefbauarbeiten",
   "gefahr berlin, dudenstraße / mehringdamm in höhe b96, platz der luftbrücke|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, friedenstraße zwischen straße der pariser kommune und koppenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr berlin, fritz-erler-allee in höhe wutzkyallee|ampelanlage arbeitet fehlerhaft, vorsicht an der kreuzung",
   "gefahr berlin, gatower straße in höhe jürgen-schramm-straße|fahrbahn auf einen fahrstreifen verengt, vorübergehende regelung durch provisorische ampelanlagen",
   "gefahr berlin, gatower straße zwischen wilhelmstraße und am omnibushof|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, gitschiner straße bis wassertorplatz zwischen böcklerstraße und erkelenzdamm|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -342,6 +339,7 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald, b179 zwischen königs wusterhausen und zeesen|wildunfall, bitte vorsichtig fahren, polizei ist benachrichtigt",
+  "gefahr potsdam, horstweg in höhe an der alten zauche|gefahr durch 1 liegengebliebenes fahrzeug im kreuzungsbereich, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
@@ -632,6 +630,5 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
 ]
