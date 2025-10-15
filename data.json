@@ -1,5 +1,4 @@
 [
-  "a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen hennigsdorf und stolpe",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -187,6 +186,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
+  "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen berlin-spandau und potsdam-nord|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen, gefahr durch personen auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -341,6 +341,7 @@
   "gefahr berlin, weißenseer weg zwischen konrad-wolf-straße und fritz-lesch-straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, bauarbeiten",
   "gefahr berlin, weißenseer weg zwischen landsberger allee und bernhard-bästlein-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wexstraße zwischen bernhardstraße und prinzregentenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr berlin, wildenbruchplatz in höhe weigandufer|verkehrsbehinderung, havarie",
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, wollankstraße zwischen brehmestraße und nordbahnstraße|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, brückenarbeiten, eine umleitung ist eingerichtet",
   "gefahr berlin, yorckstraße zwischen bautzener straße und katzbachstraße|fahrbahn auf einen fahrstreifen verengt, brückenarbeiten",
