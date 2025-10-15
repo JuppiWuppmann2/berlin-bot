@@ -1,4 +1,5 @@
 [
+  "a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen schönefeld-süd und dreieck flughafen berlin brandenburg|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -194,12 +195,11 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen schönefeld-süd und dreieck flughafen berlin brandenburg|gefahr durch 1 liegengebliebenes fahrzeug auf dem rechten fahrstreifen und dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen waltersdorfer dreieck und dreieck flughafen berlin brandenburg|gefahr durch liegengebliebenes fahrzeug, personen auf dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a115 avus, dreieck funkturm richtung dreieck nuthetal zwischen hüttenweg und spanische allee|rechter fahrstreifen blockiert, grünpflege",
   "gefahr a115 avus, dreieck nuthetal richtung dreieck funkturm zwischen hüttenweg und dreieck funkturm|rechter fahrstreifen gesperrt, grünpflege",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen fürstenwalde-west und storkow|unfall auf dem standstreifen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen fürstenwalde-west und storkow|unfallstelle geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -641,5 +641,6 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau, fahren sie bitte besonders vorsichtig"
 ]
