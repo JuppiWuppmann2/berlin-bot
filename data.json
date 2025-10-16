@@ -1,5 +1,4 @@
 [
-  "a15 cottbus richtung dreieck spreewald zwischen cottbus-west und vetschau|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -264,7 +263,6 @@
   "gefahr berlin, hauptstraße in höhe emma-ihrer-str.|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, havemannstraße in höhe golliner straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, bauarbeiten",
   "gefahr berlin, heidestraße in höhe perleberger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, verkehrsbehinderung zu erwarten",
-  "gefahr berlin, heiligenseestraße in höhe konradshöher straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, helmholtzstraße in höhe pascalstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen bäkestraße und moltkestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen königsberger straße und bäkestraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
@@ -334,6 +332,7 @@
   "gefahr berlin, stubenrauchstraße zwischen neuköllner straße und ehrenpreisweg in beiden richtungen|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, stubenrauchstraße zwischen neuköllner straße und einfahrt a113, stubenrauchstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bitte vorsichtig fahren",
   "gefahr berlin, teltower damm zwischen laehrstraße und beeskowdamm|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
+  "gefahr berlin, thulestraße in höhe neumannstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, torstraße zwischen novalisstraße und chausseestraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
   "gefahr berlin, treskowallee zwischen ehrlichstraße und rummelsburger straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr berlin, triftstraße zwischen holzhauser straße und thiloweg, zu/von den straßen bei den wöhrden und fetschowzeile ist nur das rechtsabbiegen möglich|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -641,5 +640,6 @@
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau"
 ]
