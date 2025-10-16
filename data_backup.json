@@ -198,6 +198,7 @@
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter tor in höhe warschauer straße|rechter fahrstreifen gesperrt",
   "gefahr b1, b5 berlin, karl-marx-allee in höhe b2, alexanderstraße|ampelanlage außer betrieb, gefahr, fahren sie bitte besonders vorsichtig",
+  "gefahr b109 löwenberger land richtung greifswald zwischen templin und kreuzkrug|wildunfall, gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
@@ -343,6 +344,7 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "gefahr kreis havelland, l174 zwischen brädikow und warsow|gefahr durch ungesicherte unfallstelle",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
@@ -639,6 +641,5 @@
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau, baustelle",
-  "zeesen, schulstraße in höhe dorfaue"
+  "stau a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|stau, baustelle"
 ]
