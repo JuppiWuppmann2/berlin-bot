@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -184,8 +185,8 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße schöneberg|brückenprüfung, fahrbahn auf einen fahrstreifen verengt täglich 08-16 uhr",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen glindow und dreieck werder|gefahr durch gegenstände auf dem linken und dem mittleren fahrstreifen ein metallteil , bitte vorsichtig fahren, polizei ist benachrichtigt",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr durch 1 gegenstand auf dem linken und dem mittleren fahrstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen glindow und dreieck werder|alle fahrbahnen geräumt",
+  "gefahr a10, a115 dreieck potsdam richtung dreieck funkturm zwischen michendorf und dreieck nuthetal|gefahr durch gegenstände auf der fahrbahn ein spanngurt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -194,9 +195,11 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a11 kreuz uckermark richtung berliner ring einfahrt gramzow|gefahr durch 1 liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
   "gefahr a11 kreuz uckermark richtung berliner ring zwischen finowfurt und lanke|gefahr durch kanthölzer auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a113 schönefeld richtung neukölln zwischen späthstraße und dreieck neukölln|standstreifen blockiert, gefahr durch defekten pkw",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a13 schönefelder kreuz richtung dresden in höhe schwarzheide|unfall, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -643,5 +646,6 @@
   "sperrung warschauer platz friedrichshain|kraneinsatz, fahrtrichtung für den kfz-verkehr gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau"
+  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau",
+  "stau a24 pritzwalk richtung berliner ring zwischen a19, dreieck wittstock/dosse und einfahrt herzsprung|unfall, stau, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig"
 ]
