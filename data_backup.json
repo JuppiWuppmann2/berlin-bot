@@ -1,5 +1,4 @@
 [
-  "b101 berlin zwischen b96, mariendorfer damm und wippraer weg",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -181,7 +180,8 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch defekten pkw auf dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "berlin, invalidenstraße in höhe chausseestraße|ampelanlage wieder in betrieb",
+  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -266,7 +266,6 @@
   "gefahr berlin, hindenburgdamm zwischen königsberger straße und bäkestraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, hohenschönhauser straße in höhe weißenseer weg|abbiegen nach links nicht möglich, bauarbeiten",
   "gefahr berlin, hohenzollerndamm zwischen sächsische straße und fehrbelliner platz|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
-  "gefahr berlin, invalidenstraße in höhe chausseestraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, invalidenstraße in höhe friedrich-list-ufer|fahrbahn auf einen fahrstreifen verengt, arbeiten an erdkabeln",
   "gefahr berlin, invalidenstraße zwischen chausseestraße und hessische straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, kaiser-wilhelm-straße zwischen zietenstraße und amalienstraße|fahrbahn auf einen fahrstreifen verengt",
