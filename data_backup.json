@@ -1,5 +1,4 @@
 [
-  "a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -355,7 +354,7 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "gefahr kreis havelland und kreis oberhavel, l161 zwischen perwenitz und krämerpfuhl|gefahr durch hunde auf der fahrbahn",
+  "kreis havelland und kreis oberhavel, l161 zwischen perwenitz und krämerpfuhl",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
@@ -621,6 +620,7 @@
   "sperrung l91, od wachow",
   "sperrung l96, od milow",
   "sperrung leibnizstraße charlottenburg noch nicht aktiv|abbau kabelbrücke, vollsperrung für kfz-verkehr",
+  "sperrung lietzenburger straße charlottenburg|bauarbeiten, vollsperrung für kfz-verkehr",
   "sperrung müggelheimer damm köpenick|austausch der bahnstromkabel, vollsperrung für rad- und fußverkehr",
   "sperrung neuruppin ot gnewikow, bahnübergang abzweig von der l167 noch nicht aktiv",
   "sperrung otternbuchtstraße siemensstadt|stromleitungsbauarbeiten, vollsperrung für kfz-verkehr",
