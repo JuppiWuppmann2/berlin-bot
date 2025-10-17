@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen königs wusterhausen und schönefelder kreuz",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -169,7 +170,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen königs wusterhausen und schönefelder kreuz|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen niederlehme und königs wusterhausen|gefahr durch personen auf der fahrbahn",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -183,7 +183,7 @@
   "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen fürstenwalde-ost und briesen|rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen klettwitz und großräschen|gefahr durch rehe auf der fahrbahn",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen bestensee und groß köris|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|gefahr durch 1 gegenstand auf dem rechten fahrstreifen, gefahr durch 2 liegengebliebene fahrzeuge auf dem rechten fahrstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
+  "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|alle fahrbahnen geräumt",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|gefahr durch gegenstände auf der fahrbahn, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
