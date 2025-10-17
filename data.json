@@ -1,4 +1,5 @@
 [
+  "a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen fürstenwalde-ost und briesen|gefahr besteht nicht mehr",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -180,7 +181,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, schillerstraße zwischen b96a, dietzgenstraße und heinrich-böll-straße|verkehrsbehinderung beseitigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -191,7 +191,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen frankfurt oder -mitte und grenzübergang frankfurt oder|gefahr durch einen reifen auf der fahrbahn",
-  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen fürstenwalde-ost und briesen|gefahr durch gegenstände auf der fahrbahn, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a12, a10 frankfurt oder richtung schönefelder kreuz zwischen friedersdorf und niederlehme|gefahr durch gegenstände auf der fahrbahn",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
