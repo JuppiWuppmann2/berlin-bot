@@ -1,4 +1,5 @@
 [
+  "b96 berlin, oranienburger chaussee zwischen jostweg und fürstendamm|wieder offen",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
@@ -169,7 +170,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen dreieck barnim und dreieck pankow|gefahr durch ungesicherte unfallstelle, polizei und rettungswagen sind unterwegs",
+  "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen dreieck barnim und dreieck pankow|unfallstelle geräumt",
   "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen oberkrämer und kreuz oranienburg|fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt, rechter fahrstreifen gesperrt, gefahr durch liegengebliebenes fahrzeug",
   "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen groß kreutz und phöben|unfall, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a10 östlicher berliner ring, richtung dreieck barnim zwischen berlin-hohenschönhausen und dreieck barnim|gefahr durch liegengebliebenes fahrzeug auf dem mittleren fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
@@ -371,7 +372,6 @@
   "sperrung b5, wusterhausen",
   "sperrung b5, wusterhausen, berliner straße",
   "sperrung b87, zwischen kolochau und herzberg",
-  "sperrung b96 berlin, oranienburger chaussee zwischen jostweg und fürstendamm|gesperrt, unfall",
   "sperrung b96, brücke über die havelschleuse in der od fürstenberg/havel",
   "sperrung b96, neuhof bis od baruth",
   "sperrung b97 und b168, ou cottbus",
