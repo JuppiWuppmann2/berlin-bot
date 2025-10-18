@@ -1,6 +1,4 @@
 [
-  "a13 dresden richtung schönefelder kreuz zwischen staakow und baruth/mark",
-  "a13 schönefelder kreuz richtung dresden zwischen baruth/mark und staakow|gefahr besteht nicht mehr",
   "a15 cottbus richtung breslau zwischen cottbus-süd und roggosen",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -373,7 +371,6 @@
   "sperrung b169, ou drebkau",
   "sperrung b188, rw kreisverkehr stechow bis rhinsmühlen",
   "sperrung b189, ou wittenberge",
-  "sperrung b2, b5 berlin, karl-liebknecht-straße zwischen alexanderplatz und dircksenstraße|gesperrt, polizei ist vor ort",
   "sperrung b246, oe bad belzig",
   "sperrung b246, zossen, bü nächst neuendorfer chaussee und oertelufer",
   "sperrung b5 berlin, alexanderstraße bis memhardstraße zwischen b2, grunerstraße und rosa-luxemburg-straße|vollsperrung, gleisbauarbeiten",
@@ -411,6 +408,7 @@
   "sperrung berlin, chausseestraße zwischen tieckstraße und invalidenstraße|gesperrt, gleisbauarbeiten",
   "sperrung berlin, dernburgstraße zwischen kuno-fischer-straße und herbartstraße|gesperrt, baustelle",
   "sperrung berlin, dickensweg zwischen swiftweg und ragniter allee|gesperrt, baustelle",
+  "sperrung berlin, dircksenstraße zwischen rosa-luxemburg-straße und rochstraße|gesperrt, polizei ist vor ort",
   "sperrung berlin, dolomitenstraße zwischen brixener straße und b96a, mühlenstraße|gesperrt, baustelle",
   "sperrung berlin, eisenacher straße zwischen blumberger damm und kyritzer straße|gesperrt, bauarbeiten",
   "sperrung berlin, finckensteinallee zwischen paulinenstraße und berner straße|gesperrt, bauarbeiten",
