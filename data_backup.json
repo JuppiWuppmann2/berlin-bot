@@ -1,5 +1,4 @@
 [
-  "b158 angermünde richtung berlin zwischen seefeld und schloßparksiedlung|alle unfallstellen geräumt, keine verkehrsbehinderung mehr",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -174,6 +173,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, kniprodestraße in höhe conrad-blenkle-straße|ampelanlage wieder in betrieb",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -264,7 +264,6 @@
   "gefahr berlin, karl-marx-straße in höhe reuterstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, karl-marx-straße zwischen jonasstraße und thomasstraße|fahrbahnverengung, baustelle",
   "gefahr berlin, klaustaler straße bis wernigeroder straße zwischen nordhauser straße und harlingeroder weg über quedlinburger straße|fahrbahnverengung, bauarbeiten",
-  "gefahr berlin, kniprodestraße in höhe conrad-blenkle-straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, kolonnenstraße zwischen crellestraße und feurigstraße|abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, arbeiten an gasleitungen",
   "gefahr berlin, landsberger allee in höhe am wasserwerk|linker fahrstreifen gesperrt, tiefbauarbeiten",
   "gefahr berlin, landsberger allee in höhe marzahner brücke|fahrbahn auf einen fahrstreifen verengt, brückenarbeiten",
