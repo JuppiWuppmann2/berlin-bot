@@ -1,5 +1,4 @@
 [
-  "a10 südlicher berliner ring, dreieck potsdam richtung dreieck spreeau zwischen rangsdorf und schönefelder kreuz|aufforderung, vorsichtig zu fahren, aufgehoben",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -175,7 +174,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland kreuz oranienburg überleitung zur a111 richtung charlottenburg|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren, langsam fahren",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|alle fahrbahnen geräumt",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen falkensee und brieselang|gefahr durch defekten pkw auf dem standstreifen, gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -343,6 +341,7 @@
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt oberlandstraße|gesperrt",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
+  "sperrung a100 stadtring noch nicht aktiv|wartungsarbeiten, vollsperrung",
   "sperrung a100 stadtring|fahrbahnsanierung, auf- und ausfahrt gesperrt",
   "sperrung a100 stadtring|fahrbahnsanierung, auffahrt gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
