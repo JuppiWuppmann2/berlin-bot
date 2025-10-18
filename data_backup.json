@@ -1,4 +1,5 @@
 [
+  "a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen michendorf und dreieck nuthetal|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -173,7 +174,6 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen michendorf und dreieck nuthetal|gefahr durch gegenstände auf dem mittleren fahrstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen dreieck neukölln und gradestraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und tempelhofer damm|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -212,6 +212,7 @@
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96a berlin, petersburger straße zwischen landsberger allee und rigaer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96a berlin, treptower park richtung friedrichshain elsenbrücke|fahrbahn auf einen fahrstreifen verengt, staugefahr, brückenarbeiten",
+  "gefahr b96a petersburger straße in höhe bersarinplatz süd|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin zwischen aroser allee und in höhe gotthardstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin zwischen straße zum fez und spindlersfelder straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
