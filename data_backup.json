@@ -1,4 +1,5 @@
 [
+  "b1 berlin, leipziger straße zwischen friedrichstraße und jerusalemer straße|feuerwehreinsatz beendet",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -191,7 +192,7 @@
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter tor in höhe warschauer straße|rechter fahrstreifen gesperrt",
-  "gefahr b101 mariendorf richtung stahnsdorf zwischen birkenhain und ruhlsdorf|gefahr durch ein totes tier auf der fahrbahn",
+  "gefahr b101 mariendorf richtung stahnsdorf zwischen birkenhain und ruhlsdorf|alle fahrbahnen geräumt",
   "gefahr b101 mariendorf richtung trebbin zwischen marienfelder allee und großbeeren-süd|gefahr durch ungesicherte unfallstelle",
   "gefahr b101 richtung trebbin zwischen einfahrt großbeeren-süd und brandenburgpark|gefahr durch ungesicherte unfallstelle",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -357,7 +358,6 @@
   "sperrung alexanderstraße mitte|gleisbauarbeiten, vollsperrung für kfz-verkehr",
   "sperrung alexandrinenstraße kreuzberg|vollsperrung für kfz- und radverkehr",
   "sperrung alfred-kowalke-straße friedrichsfelde noch nicht aktiv|fahrbahnsanierungsarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
-  "sperrung b1 berlin, leipziger straße zwischen friedrichstraße und jerusalemer straße|gesperrt, feuerwehreinsatz",
   "sperrung b1, brücke altstädter bahnhof, zanderstraße",
   "sperrung b1, od brandenburg, potsdamer straße, brücke über die db ag",
   "sperrung b101, horst u. hartmannsdorf",
