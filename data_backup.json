@@ -1,5 +1,4 @@
 [
-  "a9 berlin richtung halle/leipzig zwischen beelitz-heilstätten und beelitz",
   "bauarbeiten rudower straße buckow noch nicht aktiv|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -187,8 +186,8 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen frankfurt oder -mitte und frankfurt oder -west|fahren sie bitte besonders vorsichtig, liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen schwarzheide und ruhland|1 liegengebliebenes fahrzeug auf dem beschleunigungsstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
-  "gefahr a15 dreieck spreewald richtung breslau zwischen vetschau und cottbus-west|1 liegengebliebenes fahrzeug auf dem verzögerungsstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
-  "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|gegenstände auf der fahrbahn, bitte vorsichtig fahren",
+  "gefahr a15 dreieck spreewald richtung breslau zwischen vetschau und cottbus-west|fahrstreifenblockierung beseitigt",
+  "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
@@ -330,8 +329,11 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "gefahr kreis potsdam-mittelmark und kreis teltow-fläming, l77, l40 zwischen güterfelde nord und b101, großbeeren-süd|gefahr durch gegenstände auf der fahrbahn, bitte vorsichtig fahren",
+  "gefahr kreis potsdam-mittelmark, l40 zwischen güterfelde nord und marggraffshof|gefahr durch gegenstände auf der fahrbahn",
   "gefahr marchlewskistr. / ecke warschauer str. berlin warschauer brücke|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr ortsdurchfahrt ruhlsdorf, alt-ruhlsdorf|unfall, fahren sie bitte besonders vorsichtig",
+  "kreis teltow-fläming und kreis potsdam-mittelmark, l40 zwischen großbeeren-süd und ruhlsdorf",
   "sperrung a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-marzahn und berlin-hellersdorf|unfall, fahren sie bitte besonders vorsichtig, staugefahr, gesperrt, polizei ist vor ort, rettungsfahrzeuge im einsatz",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
@@ -621,7 +623,5 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und berlin-hellersdorf|stau, bitte vorsichtig fahren",
-  "stau a11 kreuz uckermark richtung berliner ring zwischen gramzow und warnitz|stau, polizei ist benachrichtigt"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
 ]
