@@ -185,11 +185,13 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n treptow richtung neukölln zwischen stadtring berlin und a100, stadtring berlin|spurwechselanlagen arbeiten fehlerhaft, gefahr",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a11 kreuz uckermark richtung berliner ring zwischen kreuz uckermark und gramzow|unfall, bitte vorsichtig fahren",
   "gefahr a113 neukölln richtung schönefeld tunnel rudower höhe|standstreifen blockiert, liegengebliebenes fahrzeug",
   "gefahr a113 schönefeld richtung neukölln dreieck neukölln überleitung zur a100 richtung wilmersdorf|spurwechselanlagen arbeiten fehlerhaft, gefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen ragow und schönefelder kreuz|gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen großräschen und klettwitz|unfall, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch ein totes tier auf dem mittleren fahrstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a24 pritzwalk richtung berliner ring zwischen rastplatz rossower heide west und neuruppin|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -622,5 +624,6 @@
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und berlin-hellersdorf|stau, bitte vorsichtig fahren"
+  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und berlin-hellersdorf|stau, bitte vorsichtig fahren",
+  "stau a11 kreuz uckermark richtung berliner ring zwischen gramzow und warnitz|stau, polizei ist benachrichtigt"
 ]
