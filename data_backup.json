@@ -337,7 +337,6 @@
   "gefahr heiligensee, ruppiner chaussee in höhe am dachsbau|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis oberhavel, straße zwischen himmelpfort und altthymen|gefahr durch ungesicherte unfallstelle, vollsperrung, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "gefahr vehlefanz, lindenallee in höhe am anger|1 ampelanlage arbeitet fehlerhaft, vorsicht an der kreuzung, polizei ist benachrichtigt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
@@ -642,5 +641,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
+  "vehlefanz, lindenallee in höhe am anger|störung beseitigt"
 ]
