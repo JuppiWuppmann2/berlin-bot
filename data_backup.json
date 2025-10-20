@@ -195,7 +195,6 @@
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b169 cottbus, stadtring in höhe dissenchener straße|ampelanlage außer betrieb",
-  "gefahr b188 rathenow, bammer landstraße in höhe rathenow|1 unfall, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, alexanderstraße in höhe karl-liebknecht-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -334,7 +333,7 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
-  "gefahr eberswalde, breite straße zwischen oderberger straße und dr.-gillwald-höhe|hindernis auf der fahrbahn",
+  "gefahr eberswalde, breite straße zwischen oderberger straße und dr.-gillwald-höhe|alle fahrbahnen geräumt",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis dahme-spreewald, k6169 zwischen abzweig nach rotberg und selchow|1 angefahrenes tier reh im kurvenbereich, polizei ist benachrichtigt, bitte vorsichtig fahren",
@@ -381,6 +380,7 @@
   "sperrung b158, bad freienwalde, schiffmühler straße/berliner straße",
   "sperrung b158, ortsdurchfahrt oderberg|roadwork",
   "sperrung b169, ou drebkau",
+  "sperrung b188 rathenow, bammer landstraße in höhe rathenow|1 unfall, polizei ist benachrichtigt, bitte vorsichtig fahren, gesperrt für durchgangsverkehr",
   "sperrung b188, rw kreisverkehr stechow bis rhinsmühlen",
   "sperrung b189, ou wittenberge",
   "sperrung b246, oe bad belzig",
@@ -642,5 +642,6 @@
   "sperrung togostraße wedding",
   "sperrung treskowallee oberschöneweide|stromnetzarbeiten, rechter fahrstreifen gesperrt",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
+  "stau kreis dahme-spreewald und berlin, straße zwischen großziethen und hennensteig in berlin|unfall, polizei ist benachrichtigt, bitte vorsichtig fahren, stau"
 ]
