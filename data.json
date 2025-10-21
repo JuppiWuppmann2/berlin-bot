@@ -1,6 +1,8 @@
 [
+  "b101 trebbin richtung mariendorf zwischen a10, ludwigsfelde-ost und großbeeren-süd",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
+  "baustelle a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck charlottenburg und beusselstraße|rechter fahrstreifen gesperrt, reinigungsarbeiten, wanderbaustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
   "baustelle a100 stadtring|fahrbahnsanierung, ein fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -177,6 +179,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|alle fahrbahnen wieder frei",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen rastplatz siethener elsbruch und ferch|unfall, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen königs wusterhausen und niederlehme|bitte vorsichtig fahren, ungesicherte unfallstelle auf dem standstreifen, polizei ist benachrichtigt",
   "gefahr a10, a114 dreieck barnim richtung pankow zwischen dreieck barnim und schönerlinder straße|gefahr durch 1 liegengebliebenes fahrzeug auf dem abbiegestreifen",
   "gefahr a100 neukölln richtung wilmersdorf tunnel ortsteil britz|linker fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
@@ -199,7 +202,6 @@
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter tor in höhe warschauer straße|rechter fahrstreifen gesperrt",
   "gefahr b1, b5 richtung biesdorf zwischen ausfahrt a10, berlin-hellersdorf und vogelsdorf|gefahr durch fehlerhaft arbeitende ampelanlage, polizei ist benachrichtigt, bitte vorsichtig fahren",
-  "gefahr b101 trebbin richtung mariendorf zwischen a10, ludwigsfelde-ost und großbeeren-süd|unfall, stau zu erwarten, fahren sie bitte besonders vorsichtig, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, gefahr durch ungesicherte unfallstelle, linker fahrstreifen blockiert",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
@@ -343,12 +345,13 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
-  "gefahr cottbus, döbbrick ost zwischen maiberg und skadower wiesenweg|wildunfall, fahren sie bitte besonders vorsichtig",
+  "gefahr cottbus, döbbrick ost zwischen maiberg und skadower wiesenweg|störungsfreier verkehr",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr heiligensee, ruppiner chaussee in höhe am dachsbau|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "gefahr kreis prignitz, l13 zwischen reetz und abzweig nach gülitz|gefahr durch tiere auf der fahrbahn, bitte vorsichtig fahren",
+  "gefahr potsdam, nuthestraße zwischen neuendorfer straße und konrad-wolf-allee|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr wittenberge, lenzener straße in höhe dr.-wilhelm-külz-straße|ampelanlage außer betrieb, gefahr, bitte vorsichtig fahren, polizei regelt den verkehr",
-  "sperrung a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen rastplatz siethener elsbruch und ferch|richtungsfahrbahn gesperrt, gefahr durch ungesicherte unfallstelle auf dem linken fahrstreifen, stau, gasse für rettungs- und einsatzfahrzeuge bilden, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
@@ -650,6 +653,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "stau a115, a10 dreieck funkturm richtung dreieck potsdam zwischen saarmund und michendorf|stau, bitte vorsichtig fahren"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
 ]
