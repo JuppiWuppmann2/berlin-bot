@@ -1,5 +1,5 @@
 [
-  "a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg kreuz oranienburg überleitung zur a10 richtung dreieck havelland",
+  "a2 magdeburg richtung berliner ring zwischen ziesar und wollin|hindernisse beseitigt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck charlottenburg und beusselstraße|rechter fahrstreifen gesperrt, reinigungsarbeiten, wanderbaustelle",
@@ -178,7 +178,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, im gesamten kreuzungsbereich ist das linksabbiegen nicht möglich. die querung der werbellinstraße ist unterbrochen",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen kreuz oranienburg und oberkrämer|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
+  "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen kreuz oranienburg und oberkrämer|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren, 1 fahrstreifen gesperrt, polizei ist vor ort",
   "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen oberkrämer und kreuz oranienburg|gefahr durch gegenstände auf allen fahrstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a10 richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|alle fahrbahnen wieder frei",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen rastplatz siethener elsbruch und ferch|unfall, fahren sie bitte besonders vorsichtig",
@@ -195,8 +195,7 @@
   "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen waidmannsluster damm und schulzendorfer straße|linker fahrstreifen blockiert, bauarbeiten",
   "gefahr a113 schönefeld richtung neukölln dreieck neukölln überleitung zur a100 richtung wilmersdorf|spurwechselanlagen arbeiten fehlerhaft, gefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a2 berliner ring richtung magdeburg zwischen lehnin und netzen|gefahr durch gegenstände auf dem linken fahrstreifen, bitte vorsichtig fahren, gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
-  "gefahr a2 magdeburg richtung berliner ring zwischen ziesar und wollin|gefahr durch 1 spanngurt auf allen fahrstreifen",
+  "gefahr a2 berliner ring richtung magdeburg zwischen lehnin und netzen|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf in höhe blumberger damm|ampelanlage außer betrieb, bitte vorsichtig fahren",
@@ -651,6 +650,5 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt",
-  "wittenberge, lenzener straße in höhe dr.-wilhelm-külz-straße|ampelanlage wieder in betrieb"
+  "sperrung wildenbruchstraße neukölln|wasserrohrbruch, fahrtrichtung gesperrt"
 ]
