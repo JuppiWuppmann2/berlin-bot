@@ -1,5 +1,4 @@
 [
-  "a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen mühlenbeck und birkenwerder|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -205,6 +204,7 @@
   "gefahr b1, b5 berlin, frankfurter tor in höhe warschauer straße|rechter fahrstreifen gesperrt",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b198 angermünde richtung gramzow zwischen kerkow und greiffenberg|gefahr durch rehe auf der fahrbahn",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, alexanderstraße in höhe karl-liebknecht-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -350,7 +350,6 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis oberhavel, am bauernmarkt in höhe abzweig nach schmachtenhagen|gefahr durch tiere auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr kreis teltow-fläming, parkallee zwischen b101 und genshagen|gefahr durch ungesicherte unfallstelle",
-  "kreis spree-neiße, pumpe ausbau zwischen terpe und b156|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
