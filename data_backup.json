@@ -1,4 +1,5 @@
 [
+  "a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen kreuz oranienburg und birkenwerder|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -181,7 +182,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen birkenwerder und mühlenbeck|liegengebliebenes fahrzeug, polizei ist benachrichtigt, standstreifen blockiert",
-  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen kreuz oranienburg und birkenwerder|gefahr durch defekten pkw auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 neukölln richtung wilmersdorf tunnel ortsteil britz|linker fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und alboinstraße|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -347,7 +347,6 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "gefahr kreis teltow-fläming, parkallee zwischen b101 und genshagen|unfallstelle geräumt",
   "sperrung a100 neukölln richtung wilmersdorf tunnel ortsteil britz|gesperrt, tunnelwartungsarbeiten",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
