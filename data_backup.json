@@ -1,5 +1,4 @@
 [
-  "b112, b87 frankfurt oder , leipziger straße zwischen potsdamer straße und leipziger platz|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -208,6 +207,7 @@
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
+  "gefahr b5 nauen richtung charlottenburg zwischen bredow und a10, berlin-spandau|gefahr durch ein totes tier auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, lichtenrader damm zwischen marienfelder straße und löptener straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -395,6 +395,7 @@
   "sperrung bahnhofstraße lichtenrade",
   "sperrung berlin bäkebrücke|gesperrt, bauarbeiten, eine örtliche umleitung ist eingerichtet",
   "sperrung berlin in höhe weißenseer weg|gesperrt, gleisbauarbeiten",
+  "sperrung berlin tunnel am adenauer platz|gesperrt, wartungsarbeiten",
   "sperrung berlin zwischen einfahrt breitenbachplatz und ausfahrt mecklenburgische straße|gesperrt, instandsetzungsarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "sperrung berlin zwischen philippstraße und ende der straße|gesperrt, gehweg gesperrt, baustelle",
   "sperrung berlin, aachener straße bis brabanter straße zwischen paretzer straße und mecklenburgische straße|gesperrt, bauarbeiten",
