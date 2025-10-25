@@ -1,5 +1,4 @@
 [
-  "a15 cottbus richtung breslau zwischen cottbus-süd und roggosen|verkehrsstörung besteht nicht mehr",
   "b198 neustrelitz richtung gramzow zwischen schlepkow und abzweig nach kutzerow|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -188,6 +187,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, das abbiegen in die morusstraße ist nicht möglich. die morusstraße auf der seite richtung mittelweg ist von der werbellinstraße abgehängt",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, mehrower allee in höhe max-herrmann-straße|ampelanlage wieder in betrieb",
   "gefahr a100 neukölln richtung wilmersdorf tunnel ortsteil britz|linker fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und alboinstraße|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -293,7 +293,6 @@
   "gefahr berlin, markgrafendamm zwischen corinthstraße und b96a, alt-stralau|fahrbahn auf einen fahrstreifen verengt",
   "gefahr berlin, martin-luther-straße in höhe fuggerstraße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, martin-luther-straße zwischen barbarossastraße und traunsteiner straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr berlin, mehrower allee in höhe max-herrmann-straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, mehrower allee zwischen liebensteiner straße und schleusinger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, mommsenstraße zwischen bleibtreustraße und schlüterstraße|fahrbahnverengung, tiefbauarbeiten",
   "gefahr berlin, müggelheimer straße, stadteinwärts in höhe karlstraße|fahrbahn auf einen fahrstreifen verengt, staugefahr, arbeiten an wasserleitungen",
