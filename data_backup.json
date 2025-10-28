@@ -1,4 +1,5 @@
 [
+  "a11 berliner ring richtung kreuz uckermark zwischen wandlitz und lanke|hindernisse beseitigt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -193,9 +194,9 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, das abbiegen in die morusstraße ist nicht möglich. die morusstraße auf der seite richtung mittelweg ist von der werbellinstraße abgehängt",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 dreieck barnim richtung dreieck havelland zwischen mühlenbeck und ausfahrt birkenwerder|alle fahrbahnen geräumt",
   "gefahr a10 dreieck barnim richtung dreieck havelland zwischen mühlenbeck und ausfahrt birkenwerder|gefahr durch liegengebliebenes fahrzeug auf dem verzögerungsstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen dreieck pankow und mühlenbeck|gefahr durch defektes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
-  "gefahr a10, a115 dreieck potsdam richtung dreieck funkturm zwischen michendorf und dreieck nuthetal",
   "gefahr a100 neukölln richtung wilmersdorf tunnel ortsteil britz|linker fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen gradestraße und alboinstraße|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -206,7 +207,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a11 berliner ring richtung kreuz uckermark zwischen wandlitz und lanke|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "gefahr a11, a10 dreieck uckermark richtung berliner ring zwischen dreieck barnim und b2|gefahr durch liegengebliebenes fahrzeug",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a24 berliner ring richtung pritzwalk ausfahrt kremmen|gefahr durch verlorene ladung ein stein , fahren sie bitte besonders vorsichtig",
@@ -225,7 +226,6 @@
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b2, b5 berlin, heerstraße in höhe gatower straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
-  "gefahr b2, b5 berlin, kaiserdamm in höhe danckelmannstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b96 berlin, heidestraße zwischen döberitzer straße und invalidenstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
@@ -369,9 +369,7 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis teltow-fläming, l812 zwischen kemnitz und abzweig nach niebelhorst|wildunfall, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr l100 wandlitz richtung mittenwalde zwischen abzweig nach ruhlsdorf und zerpenschleuse|gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt",
-  "gefahr l20 birkenwerder zwischen ausfahrt b96, a10, birkenwerder und a10, birkenwerder|gefahr durch liegengebliebenes fahrzeug",
   "gefahr olympiastadion noch nicht aktiv|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "gefahr wüstemark, dorffleck zwischen ende der straße und ortsausgang|gefahr durch hindernisse auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
@@ -682,5 +680,6 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr"
+  "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
+  "wüstemark, dorffleck zwischen ende der straße und ortsausgang"
 ]
