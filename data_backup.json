@@ -1,5 +1,4 @@
 [
-  "a113 autobahnzubringer dresden, neukölln richtung schönefeld ausfahrt adlershof",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -204,6 +203,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
+  "gefahr a111 dreieck oranienburg richtung charlottenburg tunnel flughafen tegel|rechter fahrstreifen blockiert, gefahr durch defekten pkw",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße zwischen otto-erich-straße und hohenzollernstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
@@ -232,6 +232,7 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96 berlin, tiergartentunnel in höhe einfahrt reichpietschufer|verkehrsbehinderung, unfall, bitte vorsichtig fahren",
+  "gefahr b96 luckau richtung mahlow zwischen dahlewitz-ost und glasow|gefahr durch gegenstände auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park in höhe bulgarische straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
