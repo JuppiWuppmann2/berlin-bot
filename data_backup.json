@@ -1,5 +1,4 @@
 [
-  "a15 cottbus richtung breslau zwischen cottbus-süd und roggosen|verkehrsstörung besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -206,7 +205,6 @@
   "gefahr a113 berlin zwischen dreieck neukölln und späthstraße|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, schlagloch",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen teupitz und groß köris|gefahr durch 1 liegengebliebenes fahrzeug auf dem rechten fahrstreifen und dem standstreifen, gefahr durch 1 person auf dem rechten fahrstreifen und dem standstreifen, fahren sie bitte besonders vorsichtig, fahrstreifen gesperrt, polizei ist vor ort",
-  "gefahr a24 pritzwalk richtung berliner ring zwischen neuruppin und neuruppin-süd|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -366,7 +364,7 @@
   "gefahr berlin, zoppoter straße zwischen sylter straße und heiligendammer straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, einbahnstraßenregelung, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
-  "gefahr kreis barnim, l200 zwischen eberswalde und sandkrug|gefahr durch ein totes tier auf der fahrbahn",
+  "gefahr kreis barnim, l200 zwischen eberswalde und sandkrug|alle fahrbahnen geräumt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung treptow einfahrt dreieck neukölln|gesperrt, reparaturarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
