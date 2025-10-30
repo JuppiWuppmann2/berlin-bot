@@ -1,5 +1,4 @@
 [
-  "a13 schönefelder kreuz richtung dresden zwischen teupitz und baruth/mark",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -191,10 +190,7 @@
   "baustelle werbellinstraße neukölln|neubau einer ampel, das abbiegen in die morusstraße ist nicht möglich. die morusstraße auf der seite richtung mittelweg ist von der werbellinstraße abgehängt",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, bizetstraße zwischen indira-gandhi-straße und lindenallee|wieder offen",
-  "berlin, jerusalemer straße zwischen schützenstraße und zimmerstraße|wieder offen",
   "berlin, oberlandstraße in höhe schaffhausener straße|ampelanlage wieder in betrieb",
-  "berlin, zimmerstraße zwischen axel-springer-straße und jerusalemer straße|wieder offen",
   "gefahr a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen niederlehme und königs wusterhausen|gefahr durch gegenstände auf allen fahrstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen königs wusterhausen und niederlehme|unfall auf dem rechten und dem mittleren fahrstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen phöben und groß kreutz|gefahr durch ungesicherte unfallstelle",
@@ -468,6 +464,7 @@
   "sperrung berlin, dickensweg zwischen swiftweg und ragniter allee|gesperrt, baustelle",
   "sperrung berlin, dolomitenstraße zwischen brixener straße und b96a, mühlenstraße|gesperrt, baustelle",
   "sperrung berlin, eisenacher straße zwischen blumberger damm und kyritzer straße|gesperrt, bauarbeiten",
+  "sperrung berlin, else-lasker-schüler-straße zwischen bülowstraße und kurfürstenstraße|gesperrt, feuerwehreinsatz",
   "sperrung berlin, finckensteinallee zwischen paulinenstraße und berner straße|gesperrt, bauarbeiten",
   "sperrung berlin, flohrstraße zwischen seidelstraße und straße 22|gesperrt, baustelle",
   "sperrung berlin, frank-schweitzer-straße zwischen dahmeweg und kreisverkehr georg-knorr-platz|gesperrt, baustelle",
@@ -674,5 +671,6 @@
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "stau a11 berliner ring richtung kreuz uckermark zwischen wandlitz und lanke|stau"
+  "stau a11 berliner ring richtung kreuz uckermark zwischen wandlitz und lanke|stau",
+  "stau a15 cottbus richtung breslau zwischen cottbus-süd und roggosen|stau, polizei ist vor ort"
 ]
