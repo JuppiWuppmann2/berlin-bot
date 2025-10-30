@@ -1,5 +1,4 @@
 [
-  "a24 pritzwalk richtung berliner ring zwischen neuruppin-süd und fehrbellin",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -326,6 +325,7 @@
   "gefahr berlin, neuköllner straße in höhe bildhauerweg|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, neuköllner straße zwischen neudecker weg und bildhauerweg|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, oberfeldstraße zwischen b1, b5, alt-biesdorf und kornmandelweg|fahrbahnverengung, vorübergehende regelung durch provisorische ampelanlagen, wanderbaustelle",
+  "gefahr berlin, oberlandstraße in höhe schaffhausener straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, ollenhauerstraße, richtung kurt-schumacher-platz in höhe reinickes hof|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, pallasstraße zwischen b1, potsdamer straße und elßholzstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, passenheimer straße in höhe dickensweg|fahrbahnverengung, tiefbauarbeiten",
@@ -675,7 +675,7 @@
   "sperrung thielallee dahlem|ertüchtigung der fahrbahn für anlage von radfahrstreifen, fahrtrichtung gesperrt, umleitung ausgewiesen",
   "sperrung thomasstraße neukölln|leitungsbauarbeiten, vollsperrung",
   "sperrung togostraße wedding",
-  "sperrung werder havel , kemnitzer chaussee zwischen kemnitzer straße und marienstraße|unfall, vollsperrung, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, polizei ist vor ort",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung zimmerstraße mitte|hebebühneneinsatz, vollsperrung für kfz-verkehr täglich 07-17 uhr"
+  "sperrung zimmerstraße mitte|hebebühneneinsatz, vollsperrung für kfz-verkehr täglich 07-17 uhr",
+  "werder havel , kemnitzer chaussee zwischen kemnitzer straße und marienstraße|alle unfallstellen geräumt, keine verkehrsbehinderung mehr"
 ]
