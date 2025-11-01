@@ -1,4 +1,5 @@
 [
+  "b2, b5 berlin, am lustgarten bis friedrichstraße zwischen schloßplatz und charlottenstraße über unter den linden, friedrichstraße, kochstraße, wilhelmstraße, leipziger straße, potsdamer platz, potsdamer straße, potsdamer brücke, winterfeldtstraße, maaßenstraße, nollendorfplatz, kleiststraße, wittenbergplatz, tauentzienstraße, breitscheidplatz, kurfürstendamm, adenauerplatz, lewishamstraße, kaiser-friedrich-straße, kantstraße, krumme straße, karl-august-platz, leibnizstraße, cauerstraße, dovebrücke, dovestraße, helmholtzstraße, gotzkowskybrücke, gotzkowskystraße, alt-moabit, invalidenstraße und chausseestraße|mit verkehrsstörungen ist nicht mehr zu rechnen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -197,13 +198,13 @@
   "gefahr b1, b5 berlin, alt-biesdorf zwischen grabensprung und köpenicker straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b1, b5 berlin, frankfurter tor bis alexanderplatz zwischen warschauer straße und alexanderstraße über lichtenberger straße, alexanderstraße, alexanderplatz, grunerstraße und dircksenstraße|demonstration, verkehrsbehinderung zu erwarten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, unter den linden in höhe b5, neustädtische kirchstraße|verkehrsbehinderung, baustelle",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, alexanderstraße in höhe karl-liebknecht-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b2, b5 berlin, am lustgarten bis friedrichstraße zwischen schloßplatz und charlottenstraße über unter den linden, friedrichstraße, kochstraße, wilhelmstraße, leipziger straße, potsdamer platz, potsdamer straße, potsdamer brücke, winterfeldtstraße, maaßenstraße, nollendorfplatz, kleiststraße, wittenbergplatz, tauentzienstraße, breitscheidplatz, kurfürstendamm, adenauerplatz, lewishamstraße, kaiser-friedrich-straße, kantstraße, krumme straße, karl-august-platz, leibnizstraße, cauerstraße, dovebrücke, dovestraße, helmholtzstraße, gotzkowskybrücke, gotzkowskystraße, alt-moabit, invalidenstraße und chausseestraße|fahrradkorso, verkehrsbehinderung zu erwarten",
   "gefahr b2, b5 berlin, bismarckstraße in höhe weimarer straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b2, b5 berlin, heerstraße in höhe gatower straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
@@ -345,7 +346,6 @@
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis barnim und kreis märkisch-oderland, l29 zwischen hohenfinow und gersdorf|gefahr durch ungesicherte unfallstelle",
   "gefahr kreis potsdam-mittelmark, alte tieckower straße zwischen tieckow und fohrde|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
-  "gefahr olympiastadion|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt alboinstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
@@ -643,6 +643,6 @@
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "störung olympiastadion westend|fußballspiel, staugefahr",
+  "stau b5 charlottenburg richtung nauen zwischen zur döberitzer heide und berlin-spandau|stau",
   "störung stadion an der alten försterei köpenick|fußballspiel, staugefahr"
 ]
