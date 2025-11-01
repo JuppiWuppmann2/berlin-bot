@@ -1,5 +1,4 @@
 [
-  "a10 pritzwalk richtung dreieck barnim zwischen dreieck havelland und oberkrämer|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter fahrstreifen gesperrt",
@@ -190,6 +189,8 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a9 berlin richtung halle/leipzig zwischen beelitz und brück|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, gefahr durch reifenteile auf dem rechten fahrstreifen, polizei ist benachrichtigt",
+  "gefahr a9 halle/leipzig richtung berlin zwischen brück und beelitz|gefahr durch reifenteile auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, königstraße in höhe chausseestraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr b1 berlin, unter den linden bis potsdamer platz zwischen pariser platz und ben-gurion-straße über friedrichstraße, leipziger straße und potsdamer platz|demonstration, verkehrsbehinderung zu erwarten",
@@ -212,6 +213,7 @@
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
+  "gefahr b96 reinickendorf richtung fürstenberg zwischen oranienburg-zentrum-süd und oranienburg nord|gefahr durch 1 hund auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park zwischen klingerstraße und bulgarische straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
