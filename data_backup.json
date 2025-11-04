@@ -1,7 +1,4 @@
 [
-  "a10, a24 dreieck havelland richtung pritzwalk zwischen raststätte wolfslake ost und kremmen",
-  "a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk",
-  "b1 küstrin-kietz richtung biesdorf zwischen manschnow und seelow nord|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -185,7 +182,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße kreuzberg noch nicht aktiv|baumschnittarbeiten, fahrbahnverengung",
-  "brandenburg an der havel, fontanestraße in höhe august-bebel-straße|gefahr besteht nicht mehr",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -456,6 +452,7 @@
   "sperrung berlin, frohnauer straße zwischen karmeliterweg und welfenallee|gesperrt, wasserrohrbruch",
   "sperrung berlin, georgenstraße zwischen geschwister-scholl-straße und planckstraße|gesperrt, gleisbauarbeiten",
   "sperrung berlin, gerhard-sedlmayr-straße zwischen pierre-de-caters-straße und abramowitschallee|gesperrt, baustelle",
+  "sperrung berlin, giersstraße zwischen falkenberger straße und hansastraße|gesperrt, polizeieinsatz",
   "sperrung berlin, goethestraße in höhe schillerstraße|vollsperrung, baustelle, eine umleitung ist eingerichtet",
   "sperrung berlin, goltzstraße bis bahnhofstraße zwischen b96, lichtenrader damm und mellener straße|gesperrt, baustelle",
   "sperrung berlin, goltzstraße, stadtauswärts zwischen bahnhofstraße und briesingstraße|gesperrt, baustelle",
