@@ -1,5 +1,4 @@
 [
-  "a13 schönefelder kreuz richtung dresden zwischen schwarzheide und ruhland|alle unfallstellen geräumt, keine verkehrsbehinderung mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -181,7 +180,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle yorckstraße kreuzberg noch nicht aktiv|baumschnittarbeiten, fahrbahnverengung",
-  "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf in höhe wexstraße|fahrstreifensperrung wieder aufgehoben",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -345,6 +343,7 @@
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt detmolder straße|gesperrt",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt gradestraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt oberlandstraße|gesperrt",
+  "sperrung a100 stadtring berlin, neukölln, richtung alt-treptow einfahrt sonnenallee noch nicht aktiv|gesperrt, wartungsarbeiten",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a100 stadtring noch nicht aktiv|wartungsarbeiten, fahrtrichtung gesperrt",
   "sperrung a100 stadtring|fahrbahnsanierung, auf- und ausfahrt gesperrt",
