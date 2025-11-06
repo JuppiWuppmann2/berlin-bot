@@ -1,5 +1,4 @@
 [
-  "a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen dreieck potsdam und ferch|verkehrsstörung besteht nicht mehr",
   "a10 südlicher berliner ring, schönefelder kreuz richtung dreieck spreeau zwischen schönefelder kreuz und königs wusterhausen|die gefahr durch ein entgegenkommendes fahrzeug besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -190,6 +189,7 @@
   "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen hennigsdorf und kreuz oranienburg|1 liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a12 berliner ring richtung frankfurt oder zwischen raststätte biegener hellen süd und ausfahrt frankfurt oder -west|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -452,6 +452,7 @@
   "sperrung berlin, greifswalder straße zwischen an den siedlergärten und am schlehdorn|gesperrt, kanalbauarbeiten",
   "sperrung berlin, grünauer straße zwischen köpenicker straße und am falkenberg|gesperrt, baustelle",
   "sperrung berlin, gustav-adolf-straße zwischen wigandstaler straße und amalienstraße|gesperrt, tiefbauarbeiten",
+  "sperrung berlin, hauptstraße zwischen karlshorster straße und markgrafendamm|gesperrt, unfall",
   "sperrung berlin, hildegardstraße zwischen livländische straße und bundesallee|gesperrt, baustelle",
   "sperrung berlin, hohenzollernring in höhe tangermünder weg|gesperrt, baustelle",
   "sperrung berlin, insterburgallee zwischen heerstraße und lyckallee|gesperrt, baustelle",
