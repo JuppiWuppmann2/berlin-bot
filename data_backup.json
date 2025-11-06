@@ -188,8 +188,10 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen schulzendorfer straße und stolpe|unfall, gefahr durch auf dem standstreifen abgestellte fahrzeuge",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen briesen und fürstenwalde-ost|gefahr durch gegenstände auf allen fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-mahlsdorf in höhe pilgramer straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -209,7 +211,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, tempelhofer damm zwischen manfred-von-richthofen-straße und hoeppnerstraße|ampelanlage außer betrieb, gefahr, bitte vorsichtig fahren",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 fürstenberg richtung reinickendorf zwischen oranienburg-süd und kreuz oranienburg|alle fahrbahnen geräumt",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park zwischen klingerstraße und bulgarische straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96a berlin, breite straße zwischen mühlenstrße und neue schönholzer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -341,6 +342,7 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis prignitz, l13 zwischen frehne und meyenburg|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
+  "gefahr wittstock/dosse, am markt in höhe markt|unfall, polizei ist benachrichtigt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, bauarbeiten",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt britzer damm|gesperrt, zu hohe verkehrsbelastung",
@@ -646,6 +648,7 @@
   "sperrung rankestraße charlottenburg|kraneinsatz, anbindung gesperrt",
   "sperrung reinhardtstraße/luisenstraße mitte|rohrbruch, gesamter kreuzungsbereich für den kfz-verkehr gesperrt",
   "sperrung romain-rolland-straße pankow",
+  "sperrung saarmund, am markt zwischen beelitzer straße und mühlenstraße|vollsperrung, feuerwehr und rettungskräfte sind vor ort, polizei ist vor ort, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, gefahr, unfall",
   "sperrung schiffbauerdamm mitte|leitungsbau, vollsperrung für kfz-verkehr. im anschluss folgen weitere arbeiten",
   "sperrung schillerstraße lichterfelde|tiefbauarbeiten, vollsperrung für den kfz- und radverkehr",
   "sperrung senheimer straße frohnau",
@@ -659,6 +662,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "stau a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen waltersdorfer dreieck und dreieck flughafen berlin brandenburg|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "wünsdorf, zum bahnhof zwischen am bahnhof und b96, berliner allee|gefahr besteht nicht mehr"
+  "stau a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen waltersdorfer dreieck und dreieck flughafen berlin brandenburg|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
 ]
