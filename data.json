@@ -1,6 +1,4 @@
 [
-  "a100n richtung neukölln zwischen sonnenallee und dreieck neukölln|wieder offen",
-  "a113 autobahnzubringer dresden, neukölln richtung schönefeld zwischen adlershof und schönefeld-nord|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -188,7 +186,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
-  "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt flughafen tegel|fahrstreifensperrung wieder aufgehoben",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen briesen und müllrose|liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, gefahr durch reifenteile auf der fahrbahn, bitte vorsichtig fahren",
@@ -335,6 +332,7 @@
   "gefahr berlin, wollankstraße zwischen brehmestraße und nordbahnstraße|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, brückenarbeiten, eine umleitung ist eingerichtet",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
+  "gefahr cottbus, l50 zwischen kiekebusch und kahren|unfall, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr cottbus, nordring zwischen karlstraße und an der windmühle|unfall, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
