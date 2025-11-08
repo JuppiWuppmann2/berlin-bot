@@ -1,5 +1,4 @@
 [
-  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-hellersdorf und berlin-marzahn",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -234,6 +233,7 @@
   "gefahr berlin, cecilienstraße vor der kreuzung tollensestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, chemnitzer straße zwischen achardstraße und wernitzer straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, bauarbeiten",
   "gefahr berlin, dahlemer weg zwischen robert-w.-kempner-straße und curtiusstraße|staugefahr, für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
+  "gefahr berlin, ebertystraße in höhe straßmannstraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, friedenstraße zwischen straße der pariser kommune und koppenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, frohnauer brücke bis ludolfingerplatz zwischen zeltinger platz und kreisverkehr über ludolfingerplatz, karmeliterweg, knappenpfad, kreuzritterstraße, an der buche und alemannenstraße|demonstration, verkehrsbehinderung zu erwarten",
   "gefahr berlin, föhrer straße in höhe föhrer brücke|fahrstreifen gesperrt, arbeiten an gasleitungen",
@@ -324,6 +324,7 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr berlin-köpenick, stadion an der alten försterei|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
+  "gefahr dallmin, tiefenthaler straße in höhe ortseingang|angefahrenes tier, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "sperrung a100 stadtring",
