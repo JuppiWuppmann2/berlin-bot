@@ -344,6 +344,7 @@
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
   "sperrung a111 ehem. a105|baustelle, fahrtrichtung gesperrt",
+  "sperrung a111 reinickendorf-zubringer noch nicht aktiv|feuerwehrübung, vollsperrung",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a115|brücke abgerissen, fahrtrichtung gesperrt",
@@ -631,5 +632,6 @@
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "stau a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und dreieck potsdam|stau, staulänge zunehmend, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, bitte vorsichtig fahren",
-  "stau a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen raststätte stolper heide und kreuz oranienburg|stau"
+  "stau a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen raststätte stolper heide und kreuz oranienburg|stau",
+  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
 ]
