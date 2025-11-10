@@ -171,6 +171,7 @@
   "baustelle stromstraße moabit|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
   "baustelle stromstraße moabit|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt. die lessingstraße ist von der stromstraße abgehängt sackgasse, einbahnstraßenregelung aufgehoben",
   "baustelle stromstraße moabit|leitungsarbeiten, fahrbahn auf einen fahrstreifen verengt. im anschluss folgen weitere arbeiten",
+  "baustelle säntisstraße marienfelde noch nicht aktiv|brückenprüfung, gegenverkehrsregelung mit baustellenampel",
   "baustelle südostallee johannisthal|leitungsarbeiten, eine baustellenampel regelt den verkehr",
   "baustelle teltower damm zehlendorf|stromleitungsarbeiten, fahrbahn abschnittsweise verengt und verschwenkt",
   "baustelle theodor-heuss-platz westend|sanierung eines gleichrichterwerks, fahrbahn auf zwei fahrstreifen verengt",
@@ -190,6 +191,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a15 cottbus richtung dreieck spreewald zwischen cottbus-west und vetschau|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a24, a10 pritzwalk richtung dreieck werder zwischen kremmen und raststätte wolfslake west|gefahr durch 1 liegengebliebenes fahrzeug auf dem abbiegestreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, potsdamer straße in höhe bülowstraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
@@ -198,6 +200,7 @@
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b169 cottbus richtung elsterwerda zwischen a13, ruhland und lauchhammer|unfall, bitte vorsichtig fahren, polizei ist vor ort",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, alexanderstraße in höhe karl-liebknecht-straße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -303,7 +306,6 @@
   "gefahr berlin, prenzlauer promenade in höhe wisbyer straße|abbiegen nach links nicht möglich, fahrbahnverengung, gleisbauarbeiten",
   "gefahr berlin, prinzenstraße in höhe moritzstraße|abbiegen nicht möglich, fahrbahnverengung, bauarbeiten",
   "gefahr berlin, rathausbrücke bis rathausstraße zwischen rathausbrücke und spandauer straße|weihnachtsmarkt, verkehrsbehinderung zu erwarten",
-  "gefahr berlin, rhinstraße in höhe meeraner straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, rudower straße in höhe arnikaweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
   "gefahr berlin, rudower straße zwischen zadekstraße und storchenweg|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr berlin, rummelsburger landstraße in höhe minna-todenhagen-straße|geänderte verkehrsführung, bauarbeiten",
@@ -632,5 +634,6 @@
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten"
+  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
+  "stau a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und dreieck potsdam|stau, staulänge zunehmend, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, bitte vorsichtig fahren"
 ]
