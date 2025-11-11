@@ -1,5 +1,4 @@
 [
-  "a114 pankow richtung dreieck pankow zwischen schönerlinder straße und dreieck pankow|polizeibenachrichtigung eingestellt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -176,6 +175,7 @@
   "baustelle werneuchener straße alt-hohenschönhausen noch nicht aktiv|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, schützallee in höhe karl-schmidt-rottluff-weg|ampelanlage wieder in betrieb",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -301,7 +301,6 @@
   "gefahr berlin, scharnweberstraße bis seidelstraße zwischen antonienstraße und flohrstraße|fahrbahn auf einen fahrstreifen verengt, stau zu erwarten, geänderte verkehrsführung, brückenarbeiten",
   "gefahr berlin, schloßstraße bis wolfensteindamm zwischen wolfensteindamm und fronhoferstraße|fahrbahnverengung, havarie, verkehrsbehinderung zu erwarten",
   "gefahr berlin, schöneberger ufer zwischen kluckstraße und b1, potsdamer straße|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
-  "gefahr berlin, schützallee in höhe karl-schmidt-rottluff-weg|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, seestraße zwischen müllerstraße und oudenarder straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr berlin, sewanstraße zwischen baikalstraße und volkradstraße|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, baustelle",
   "gefahr berlin, siemensstraße zwischen borstellstraße und leonorenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, brückenarbeiten",
