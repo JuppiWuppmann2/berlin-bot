@@ -1,5 +1,4 @@
 [
-  "a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefeld-nord und adlershof|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -189,7 +188,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen friedersdorf und dreieck spreeau|unfallstelle geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, alt-friedrichsfelde zwischen robert-uhrig-straße und tunnel alt-friedrichsfelde|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -535,6 +533,7 @@
   "sperrung fasanenstraße charlottenburg|stromleitungsbauarbeiten, fahrtrichtung gesperrt",
   "sperrung finckensteinallee lichterfelde|abwasserleitungsbauarbeiten, fahrtrichtung für kfz-verkehr gesperrt, umleitung ausgewiesen",
   "sperrung friedenstraße friedrichshain|fernwärmebauarbeiten, fahrtrichtung für kfz-verkehr gesperrt",
+  "sperrung friedrich-engels-straße rosenthal noch nicht aktiv",
   "sperrung friedrich-engels-straße rosenthal|fahrbahnsanierung, vollsperrung, umleitung ausgewiesen, ein bauabschnitt folgt",
   "sperrung frohnauer straße frohnau/hermsdorf|wasserrohrbruch, vollsperrung für kfz-verkehr",
   "sperrung frohnauer straße frohnau|wasserrohrbruch, vollsperrung für kfz-verkehr",
@@ -630,6 +629,5 @@
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "spremberg, grazer straße zwischen forster landstraße und posthalterweg"
+  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten"
 ]
