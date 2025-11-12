@@ -1,4 +1,5 @@
 [
+  "a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefeld-nord und adlershof|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -180,6 +181,7 @@
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
+  "gefahr a100 stadtring berlin, wedding richtung wilmersdorf in höhe hohenzollerndamm|rechter fahrstreifen gesperrt, reinigungsarbeiten",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen jakob-kaiser-platz und dreieck charlottenburg|rechter fahrstreifen gesperrt, zu hohe verkehrsbelastung",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf zwischen spandauer damm und tunnel rathenauplatz|linker fahrstreifen blockiert, bauarbeiten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren, staugefahr",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
@@ -187,7 +189,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen friedersdorf und dreieck spreeau|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren",
+  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen friedersdorf und dreieck spreeau|unfallstelle geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, alt-friedrichsfelde zwischen robert-uhrig-straße und tunnel alt-friedrichsfelde|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -258,6 +260,7 @@
   "gefahr berlin, hauptstraße zwischen schlichtallee und karlshorster straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr berlin, heidestraße in höhe perleberger straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, verkehrsbehinderung zu erwarten",
   "gefahr berlin, herderstraße zwischen goethestraße und schillerstraße|fahrbahnverengung, baustelle",
+  "gefahr berlin, hermsdorfer damm in höhe schulzendorfer straße noch nicht aktiv|gegenverkehr, arbeiten an wasserleitungen",
   "gefahr berlin, hindenburgdamm zwischen bäkestraße und moltkestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen königsberger straße und bäkestraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, hohenzollerndamm zwischen sächsische straße und fehrbelliner platz|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
@@ -335,7 +338,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kladow, kladower damm in höhe runebergweg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr kreis havelland, nauener straße zwischen abzweig nach elstal und b5, berliner chaussee|liegengebliebenes fahrzeug, polizei ist benachrichtigt",
-  "gefahr spremberg, grazer straße zwischen forster landstraße und posthalterweg|gefahr durch personen auf der fahrbahn, bitte vorsichtig fahren",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -343,7 +345,6 @@
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
   "sperrung a111 ehem. a105|baustelle, fahrtrichtung gesperrt",
-  "sperrung a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefeld-nord und adlershof|gesperrt, brennender lkw",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung mitte|gesperrt, bauarbeiten",
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a115|brücke abgerissen, fahrtrichtung gesperrt",
@@ -630,5 +631,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "stau a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen dreieck flughafen berlin brandenburg und schönefeld-nord|stau, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren"
+  "spremberg, grazer straße zwischen forster landstraße und posthalterweg"
 ]
