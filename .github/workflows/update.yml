@@ -130,8 +130,7 @@ jobs:
           timeout 12m python bot.py || echo "Bot-Timeout erreicht"
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
-          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}\n          
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
           # Logging-Level setzen
           PYTHONUNBUFFERED: 1
           # Chrome-spezifische Umgebungsvariablen
