@@ -1,4 +1,5 @@
 [
+  "a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen brieselang und falkensee",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -171,7 +172,6 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen brieselang und falkensee|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -326,8 +326,8 @@
   "gefahr brandenburg an der havel, jacobstraße bis steinstraße zwischen bauhofstraße und brüderstraße|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig, stau zu erwarten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis elbe-elster, l67 zwischen abzweig nach gräfendorf und großrössen|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr kreis elbe-elster, l71 zwischen schönewalde und brandis|gefahr, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr luckenwalde, beelitzer straße in höhe puschkinstraße|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
+  "kreis elbe-elster, l71 zwischen schönewalde und brandis|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
