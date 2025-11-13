@@ -344,38 +344,7 @@ def post_updates_safely(items, resolved=False):
                 parts = beautify_text(norm_item)
             
             logger.info(f"📤 Poste: {parts[0][:50]}...")
-            
-            # Duplicate protection: load last posted messages (data.json)
-            try:
-                with open(STATE_FILE, 'r', encoding='utf-8') as f:
-                    seen = [s.strip() for s in json.load(f) if isinstance(s, str)]
-            except Exception:
-                seen = []
-
-            candidate = parts[0].strip() if isinstance(parts, list) else str(parts).strip()
-            if seen and candidate == seen[-1]:
-                logger.info("🔁 Meldung bereits gepostet — übersprungen.")
-            else:
-                # Post to Bluesky (existing function)
-                post_on_bluesky_thread(parts)
-                # Post to Discord if webhook is configured
-                try:
-                    from discord_notifier import send_to_discord
-                    webhook = os.getenv('DISCORD_WEBHOOK_URL')
-                    if webhook:
-                        send_to_discord(candidate, webhook_url=webhook)
-                        logger.info('📨 Discord-Benachrichtigung gesendet')
-                except Exception as e:
-                    logger.warning(f'⚠️ Discord-Nachricht fehlgeschlagen: {e}')
-
-                # Append to seen list and save state file
-                try:
-                    seen.append(candidate)
-                    with open(STATE_FILE, 'w', encoding='utf-8') as f:
-                        json.dump(seen[-200:], f, ensure_ascii=False, indent=2)
-                except Exception:
-                    pass
-    
+            post_on_bluesky_thread(parts)
             successful_posts += 1
             logger.info("✅ Erfolgreich gepostet!")
             
