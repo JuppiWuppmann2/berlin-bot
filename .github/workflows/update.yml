@@ -1,13 +1,13 @@
 name: Bluesky Bot
 on:
   schedule:
-    - cron: "*/10 * * * *"   # alle 10 Minuten (statt 5, um Rate-Limits zu vermeiden)
+    - cron: "*/5 * * * *"   # alle 10 Minuten (statt 5, um Rate-Limits zu vermeiden)
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  # Timeout nach 15 Minuten
+    timeout-minutes: 10  # Timeout nach 15 Minuten
     
     steps:
       # Repo auschecken mit Schreibrechten durch GH_PAT
