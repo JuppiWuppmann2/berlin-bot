@@ -1,4 +1,5 @@
 [
+  "b96a berlin, stralauer allee, richtung alexanderplatz zwischen ehrenbergstraße und naglerstraße",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -296,6 +297,7 @@
   "gefahr berlin, sewanstraße zwischen baikalstraße und volkradstraße|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, baustelle",
   "gefahr berlin, siemensstraße zwischen borstellstraße und leonorenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, brückenarbeiten",
   "gefahr berlin, skalitzer straße in höhe manteuffelstraße|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
+  "gefahr berlin, sonnenallee in höhe saalestraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, spandauer straße zwischen b2, b5, karl-liebknecht-straße und rathausstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, sterndamm in höhe hausnummer 152|für beide richtungen nur ein fahrstreifen abwechselnd frei, fahrbahnausbesserung",
   "gefahr berlin, stralauer straße zwischen klosterstraße und littenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
@@ -360,7 +362,6 @@
   "sperrung b87, zwischen kolochau und herzberg",
   "sperrung b96, brücke über die havelschleuse in der od fürstenberg/havel",
   "sperrung b96, neuhof bis od baruth",
-  "sperrung b96a berlin, stralauer allee, richtung alexanderplatz zwischen ehrenbergstraße und naglerstraße|gesperrt, unfall",
   "sperrung b97 und b168, ou cottbus",
   "sperrung b97, b156 ou spremberg",
   "sperrung baerwaldstraße kreuzberg|tiefbauarbeiten, vollsperrung für den kfz-verkehr",
