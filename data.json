@@ -1,5 +1,5 @@
 [
-  "a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen glindow und dreieck werder|wieder offen",
+  "b101 mariendorf richtung trebbin zwischen berlin und heinersdorf|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
@@ -181,6 +181,7 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10, a11 dreieck havelland richtung kreuz uckermark zwischen rastplatz kappgraben-süd und bernau-süd|rutschgefahr, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf in höhe kreuz schöneberg|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -200,7 +201,6 @@
   "gefahr b1, b5 berlin, frankfurter allee in höhe möllendorffstraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b101 mariendorf richtung trebbin zwischen berlin und heinersdorf|gefahr durch ungesicherte unfallstelle, polizei und rettungswagen sind unterwegs",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
