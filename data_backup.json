@@ -181,6 +181,7 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen oberkrämer und kreuz oranienburg|unfallstelle geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -192,6 +193,7 @@
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen briesen und fürstenwalde-ost|gefahr durch liegengebliebenes fahrzeug",
+  "gefahr a2 berliner ring richtung magdeburg in höhe raststätte buckautal nord|abfahrt ausgebucht für lkw, rechter fahrstreifen blockiert, fahren sie bitte besonders vorsichtig",
   "gefahr a9 halle/leipzig richtung berlin zwischen niemegk und raststätte fläming ost|gefahr durch defekten pkw auf dem abbiegestreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
@@ -344,7 +346,7 @@
   "gefahr kreis oberspreewald-lausitz, l55 zwischen calau und mlode|gefahr durch ein totes tier reh auf dem rechten fahrstreifen",
   "gefahr kreis potsdam-mittelmark, straße zwischen stahnsdorf und güterfelde nord|wildunfall, fahren sie bitte besonders vorsichtig",
   "gefahr wustrau, zietenstraße zwischen hohes ende und eichenallee|gefahr durch hunde auf der fahrbahn",
-  "sperrung a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen dreieck havelland und oberkrämer|gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt, richtungsfahrbahn gesperrt",
+  "sperrung a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen dreieck havelland und oberkrämer|unfallaufnahme, gefahr, richtungsfahrbahn gesperrt, vorsichtig an das stauende heranfahren",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -622,6 +624,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "stau a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen oberkrämer und kreuz oranienburg|unfall, polizei ist vor ort, stau, rechter fahrstreifen gesperrt, mittlerer fahrstreifen blockiert",
   "störung uber arena friedrichshain|veranstaltung, staugefahr"
 ]
