@@ -1,5 +1,4 @@
 [
-  "a13 schönefelder kreuz richtung dresden zwischen freiwalde und duben|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
@@ -180,8 +179,10 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, albrechtstraße in höhe heesestraße|ampelanlage wieder in betrieb",
+  "berlin, landsberger allee in höhe liebenwalder straße|fahrbahnbeschränkung besteht nicht mehr",
   "gefahr a10 südlicher berliner ring, dreieck spreeau richtung schönefelder kreuz zwischen dreieck spreeau und niederlehme|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
-  "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-marzahn und berlin-hellersdorf|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen berlin-marzahn und berlin-hellersdorf|alle fahrbahnen geräumt",
   "gefahr a100 neukölln richtung wilmersdorf tunnel innsbrucker platz|rechter fahrstreifen gesperrt, schlagloch",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -203,6 +204,7 @@
   "gefahr b1, b5 berlin, frankfurter allee in höhe möllendorffstraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b101 großenhain richtung bad liebenwerda zwischen waldstraße und bad liebenwerda-ost|gefahr durch gegenstände auf der fahrbahn glasscherben , langsam fahren, bitte vorsichtig fahren",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -223,7 +225,6 @@
   "gefahr b96a berlin, treptower park richtung friedrichshain elsenbrücke|fahrbahn auf einen fahrstreifen verengt, staugefahr, brückenarbeiten",
   "gefahr berlin tunnel alexanderplatz|fahrbahn auf einen fahrstreifen verengt, instandsetzungsarbeiten, tagesbaustelle",
   "gefahr berlin zwischen straße zum fez und spindlersfelder straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr berlin, albrechtstraße in höhe heesestraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
   "gefahr berlin, alt-moabit zwischen lüneburger straße und rahel-hirsch-straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
   "gefahr berlin, am tierpark bis treskowallee zwischen sewanstraße und gregoroviusweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
@@ -233,6 +234,7 @@
   "gefahr berlin, argentinische allee in höhe fischerhüttenstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, arnulfstraße zwischen wittekindstraße und alboinstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, auerbachstraße zwischen ortseingang und douglasstraße|fahrbahnverengung, bauarbeiten",
+  "gefahr berlin, behrenstraße in höhe b5, glinkastraße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, berliner straße zwischen badensche straße und bundesallee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, berliner straße zwischen wittestraße und ernststraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, blaschkoallee, richtung a113 in höhe buschkrugallee|fahrbahn auf einen fahrstreifen verengt, staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
@@ -346,8 +348,6 @@
   "gefahr kreis elbe-elster, l62 zwischen hohenleipisch und gorden|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr kreis havelland, l96 zwischen bundeslandgrenze und abzweig nach rathenow|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig",
   "gefahr waltersdorfer chaussee, fughafen schönefeld richtung kreuzberg zwischen b96a in schönefeld und neuhofer straße in berlin",
-  "hennigsdorf, ruppiner chaussee bis ruppiner straße zwischen kreisverkehr neubrück und hafenstraße|gefahr besteht nicht mehr",
-  "kreis havelland, l96 zwischen abzweig nach rathenow und steckelsdorf",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -628,5 +628,6 @@
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten"
+  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
+  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
 ]
