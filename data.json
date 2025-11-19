@@ -1,9 +1,8 @@
 [
-  "b158 berlin richtung angermünde zwischen bad freienwalde oder und schiffmühle|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
-  "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
+  "baustelle a100 stadtring|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
   "baustelle alt-biesdorf biesdorf|wasserrohrbruch, fahrbahn auf einen fahrstreifen verengt",
   "baustelle alt-kaulsdorf kaulsdorf|stromleitungsarbeiten, fahrbahn auf einen fahrstreifen verengt",
@@ -196,6 +195,7 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a2 berliner ring richtung magdeburg zwischen brandenburg und wollin|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
   "gefahr a24 pritzwalk richtung schwerin zwischen dreieck wittstock/dosse und pritzwalk|gefahr durch defekten pkw auf dem verzögerungsstreifen im kurvenbereich, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a24 pritzwalk richtung schwerin zwischen pritzwalk und meyenburg|gefahr durch 1 gegenstand auf dem rechten fahrstreifen und dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen markgrafenstraße und jerusalemer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
@@ -218,7 +218,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, roedernallee zwischen fräsersteig und schmiedepfad|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 mahlow richtung luckau zwischen dahlewitz-ost und a10, rangsdorf in dahlewitz|mittlerer fahrstreifen blockiert, polizei ist vor ort, bitte vorsichtig fahren",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park zwischen klingerstraße und bulgarische straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96a berlin, michael-brückner-straße in höhe sterndamm|fahrbahn auf einen fahrstreifen verengt, staugefahr, arbeiten an wasserleitungen",
@@ -339,7 +338,6 @@
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis elbe-elster, kreisstraße zwischen abzweig nach lindenau und kaupen|gefahr durch verschmutzte fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr mürower landstraße, angermünde richtung passow zwischen mürower weg und schwarzer weg|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
-  "kreis oder-spree, l23 zwischen a12, storkow und rieplos",
   "sperrung a100 as innsbrucker platz noch nicht aktiv|brückenprüfarbeiten, einfahrt gesperrt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -498,6 +496,7 @@
   "sperrung berlin, thielallee zwischen b1, unter den eichen und habelschwerdter allee|gesperrt, bauarbeiten",
   "sperrung berlin, thielallee zwischen breisacher straße und corrensplatz|gesperrt, tiefbauarbeiten",
   "sperrung berlin, thomasstraße zwischen karl-marx-platz und mittelweg|gesperrt",
+  "sperrung berlin, torstraße zwischen rosenthaler platz und gormannstraße|gesperrt, unfall",
   "sperrung berlin, werderstraße zwischen fuldaer weg und kleingartenanlage an der werdeerstraße|gesperrt, baustelle",
   "sperrung berlin, wernigeroder straße zwischen nordhauser straße und harlingeroder weg|gesperrt, einbahnstraßenregelung, baustelle",
   "sperrung berlin, weserstraße zwischen gürtelstraße und jessnerstraße|gesperrt, tiefbauarbeiten",
@@ -613,6 +612,5 @@
   "sperrung togostraße wedding",
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
-  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "störung uber arena friedrichshain|veranstaltung, staugefahr"
+  "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten"
 ]
