@@ -1,8 +1,4 @@
 [
-  "a24 berliner ring richtung pritzwalk zwischen neuruppin und herzsprung|gefahr besteht nicht mehr",
-  "a24 pritzwalk richtung berliner ring zwischen fehrbellin und kremmen|gefahr besteht nicht mehr",
-  "a9 berlin richtung halle/leipzig zwischen beelitz und brück|gefahr besteht nicht mehr",
-  "b2, b5 berlin, karl-liebknecht-straße bis unter den linden zwischen spandauer straße und neustädtische kirchstraße|information über veranstaltung aufgehoben",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
@@ -183,7 +179,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 dreieck havelland richtung charlottenburg zwischen oberkrämer und kreuz oranienburg|gefahr durch gegenstände auf der fahrbahn, gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
-  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen dreieck potsdam und glindow|unfall mit verletzten, polizei ist benachrichtigt",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck werder zwischen dreieck potsdam und glindow|unfall mit verletzten, unfallaufnahme auf dem standstreifen, gefahr",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr durch 2 personen auf dem standstreifen",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -195,6 +191,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
+  "gefahr a111 dreieck oranienburg richtung charlottenburg zwischen hennigsdorf und ausfahrt stolpe|gefahr durch liegengebliebenes fahrzeug auf dem verzögerungsstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen markgrafenstraße und jerusalemer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -207,6 +204,7 @@
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b167 löwenberg richtung lebus zwischen bad freienwalde und abzweig nach altranft|gefahr durch personen auf der fahrbahn, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, altonaer straße zwischen klopstockstraße und kreisverkehr großer stern|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, heerstraße in höhe gatower straße|rechter fahrstreifen gesperrt, arbeiten an gasleitungen",
@@ -615,6 +613,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau, vorsichtig an das stauende heranfahren",
   "störung uber arena friedrichshain|veranstaltung, staugefahr"
 ]
