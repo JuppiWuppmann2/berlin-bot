@@ -1,4 +1,5 @@
 [
+  "a2 magdeburg richtung berliner ring zwischen netzen und lehnin",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
@@ -190,7 +191,6 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz einfahrt klettwitz|gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a2 berliner ring richtung magdeburg zwischen einfahrt netzen und brandenburg|gefahr durch 1 unbeleuchtetes fahrzeug auf dem beschleunigungsstreifen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
-  "gefahr a2 magdeburg richtung berliner ring zwischen netzen und lehnin|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, alt-kaulsdorf, stadteinwärts in höhe adolfstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -220,6 +220,7 @@
   "gefahr berlin, allee der kosmonauten zwischen poelchaustraße und charlottenstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, alt-köpenick bis lindenstraße zwischen dammbrücke und bahnhofstraße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung, gleisbauarbeiten",
   "gefahr berlin, alt-moabit zwischen lüneburger straße und rahel-hirsch-straße|fahrbahn auf einen fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich",
+  "gefahr berlin, am juliusturm höhe bmw-werk|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, am tierpark bis treskowallee zwischen sewanstraße und gregoroviusweg|fahrbahn auf einen fahrstreifen verengt, arbeiten an gasleitungen",
   "gefahr berlin, am weingarten zwischen syringenplatz und stedingerweg|fahrbahnverengung, verkehrsbehinderung, wasserrohrbruch",
   "gefahr berlin, an der wuhlheide in höhe firlstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
