@@ -1,5 +1,4 @@
 [
-  "b87, b112 markendorf-siedlung, müllroser chaussee zwischen ortseingang und tannenweg|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring noch nicht aktiv|brückenwartung, fahrbahn auf einen fahrstreifen verengt",
@@ -194,6 +193,7 @@
   "gefahr a11 berliner ring richtung kreuz uckermark zwischen lanke und finowfurt|alle fahrbahnen geräumt",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a24 berliner ring richtung pritzwalk zwischen neuruppin und herzsprung|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a24 pritzwalk richtung berliner ring zwischen fehrbellin und kremmen|unfall, gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr a9 berlin richtung halle/leipzig zwischen beelitz und brück|gefahr durch personen auf dem standstreifen, gefahr durch defektes fahrzeug auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -287,6 +287,7 @@
   "gefahr berlin, landsberger allee in höhe marzahner brücke|fahrbahn auf einen fahrstreifen verengt, brückenarbeiten",
   "gefahr berlin, landsberger allee zwischen oderbruchstraße und vulkanstraße|fahrbahn auf zwei fahrstreifen verengt, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
   "gefahr berlin, landsberger allee zwischen pyramidenring und märkische allee|fahrbahn auf einen fahrstreifen verengt, kraneinsatz, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
+  "gefahr berlin, leipziger platz in höhe b1, leipziger straße|verkehrsbehinderung, unfall",
   "gefahr berlin, lietzenburger straße zwischen joachimsthaler straße und meinekestraße|fahrbahn auf zwei fahrstreifen verengt, geänderte verkehrsführung, bauarbeiten",
   "gefahr berlin, lützowufer zwischen lützowplatz und genthiner straße|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr berlin, malteserstraße in höhe belßstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -420,6 +421,7 @@
   "sperrung berlin, frohnauer straße zwischen kammgasse und falkentaler steig|gesperrt, wasserrohrbruch",
   "sperrung berlin, frohnauer straße zwischen karmeliterweg und welfenallee|gesperrt, wasserrohrbruch",
   "sperrung berlin, georgenstraße zwischen geschwister-scholl-straße und planckstraße|gesperrt, gleisbauarbeiten",
+  "sperrung berlin, gneisenaustraße, richtung mehringdamm zwischen südstern und baerwaldstraße|gesperrt, feuerwehreinsatz",
   "sperrung berlin, goethestraße in höhe schillerstraße|vollsperrung, baustelle, eine umleitung ist eingerichtet",
   "sperrung berlin, goltzstraße bis bahnhofstraße zwischen b96, lichtenrader damm und mellener straße|gesperrt, baustelle",
   "sperrung berlin, goltzstraße, stadtauswärts zwischen bahnhofstraße und briesingstraße|gesperrt, baustelle",
@@ -613,5 +615,6 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
+  "stau a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|stau, vorsichtig an das stauende heranfahren",
   "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
 ]
