@@ -1,5 +1,4 @@
 [
-  "a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen rastplatz kappgraben-süd und dreieck barnim|hindernisse beseitigt",
   "a113 autobahnzubringer dresden, neukölln richtung schönefeld in höhe johannisthaler chaussee|wieder offen, gefahr durch liegengebliebenes fahrzeug, gefahr durch ölspur, rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -197,7 +196,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen saarmund und potsdam-drewitz",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen markgrafenstraße und jerusalemer straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
@@ -205,6 +203,7 @@
   "gefahr b1, b5 berlin, frankfurter allee in höhe möllendorffstraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b102 doberlug-kirchhain richtung luckau zwischen abzweig nach schöna-kolpien und dahme/mark|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren, polizei ist vor ort",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, richtung b1 / b5 zwischen märkische spitze und b1, b5, alt-biesdorf|fahrbahn auf einen fahrstreifen verengt, brückenarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
