@@ -1,4 +1,5 @@
 [
+  "a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen havelbrücke und falkensee",
   "a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen raststätte stolper heide und stolpe|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -189,7 +190,6 @@
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck spreeau zwischen rangsdorf und schönefelder kreuz|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen michendorf und dreieck nuthetal|rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ludwigsfelde-west und dreieck nuthetal|gefahr durch liegengebliebenes fahrzeug, fahren sie bitte besonders vorsichtig",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen havelbrücke und falkensee|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, 1 rechter fahrstreifen gesperrt, polizei ist vor ort",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -353,7 +353,6 @@
   "gefahr brieselang, finkenkruger straße bis karl-marx-straße zwischen am wald und heideweg|gefahr durch 1 hund auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis teltow-fläming, l791 zwischen abzweig nach nächst neuendorf und ende der straße|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, vollsperrung",
-  "gefahr potsdam, nuthestraße zwischen wetzlarer straße und horstweg|unfallstelle geräumt",
   "sperrung a100 as innsbrucker platz noch nicht aktiv|brückenprüfarbeiten, einfahrt gesperrt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
