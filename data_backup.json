@@ -1,5 +1,6 @@
 [
   "a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen grenzübergang frankfurt oder und frankfurt oder -mitte|wartungsarbeiten beendet",
+  "b101 berlin, großbeerenstraße zwischen wilhelm-von-siemens-straße und friedenfelser straße|verkehrsbehinderung beseitigt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
   "baustelle a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg ausfahrt eichborndamm|rechter fahrstreifen gesperrt, baustelle",
@@ -183,7 +184,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "berlin, michaelkirchstraße zwischen michaelkirchplatz und köpenicker straße|wieder offen",
-  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen birkenwerder und mühlenbeck|feuerwehreinsatz, fahren sie bitte besonders vorsichtig, unfall, polizei ist vor ort",
+  "gefahr a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen birkenwerder und mühlenbeck|fahren sie bitte besonders vorsichtig, unfall, polizei ist vor ort, rechter fahrstreifen gesperrt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -305,6 +306,7 @@
   "gefahr berlin, paulsborner straße in höhe caspar-theyß-straße|fahrbahn auf einen fahrstreifen verengt, vorübergehende regelung durch provisorische ampelanlagen",
   "gefahr berlin, pichelsdorfer straße zwischen wilhelmstraße und b2, b5, heerstraße|fahrbahnverengung, wanderbaustelle",
   "gefahr berlin, pistoriusstraße in höhe jacobsohnstraße|für beide richtungen nur ein fahrstreifen abwechselnd frei, bauarbeiten",
+  "gefahr berlin, platz der luftbrücke zwischen columbiadamm und b96, mehringdamm|demonstration, verkehrsbehinderung zu erwarten",
   "gefahr berlin, prinzenstraße in höhe moritzstraße|abbiegen nicht möglich, fahrbahnverengung, bauarbeiten",
   "gefahr berlin, raoul-wallenberg-straße in höhe lea-grundig-straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, rathausbrücke bis rathausstraße zwischen rathausbrücke und spandauer straße|weihnachtsmarkt, verkehrsbehinderung zu erwarten",
