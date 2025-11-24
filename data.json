@@ -182,6 +182,7 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "berlin, paul-schneider-straße zwischen mühlenstraße und kamenzer damm|feuerwehreinsatz beendet",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -191,7 +192,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
-  "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen dreieck flughafen berlin brandenburg und schönefeld-süd|liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
+  "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen dreieck flughafen berlin brandenburg und schönefeld-süd|alle fahrbahnen geräumt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a15 dreieck spreewald richtung breslau zwischen vetschau und cottbus-west|fahrzeug verunglückt auf dem rechten fahrstreifen und dem standstreifen, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr a2 magdeburg richtung berliner ring zwischen lehnin und dreieck werder|gefahr durch liegengebliebenes fahrzeug, langsam fahren, bitte vorsichtig fahren",
@@ -474,7 +475,6 @@
   "sperrung berlin, nordufer bis sylter straße zwischen föhrer straße und eckernförder platz|gesperrt, bauarbeiten",
   "sperrung berlin, nordufer zwischen eckernförder platz und föhrer straße|gesperrt, baustelle",
   "sperrung berlin, otisstraße zwischen seidelstraße und winterweg|gesperrt, bauarbeiten",
-  "sperrung berlin, paul-schneider-straße zwischen mühlenstraße und kamenzer damm|gesperrt, feuerwehreinsatz",
   "sperrung berlin, platanenallee zwischen kastanienallee und reichsstraße|gesperrt, fahrbahnerneuerung",
   "sperrung berlin, prinzregentenstraße zwischen badensche straße und durlacher straße|gesperrt, bauarbeiten",
   "sperrung berlin, proskauer straße zwischen schreinerstraße und liebigstraße|gesperrt, bauarbeiten",
@@ -631,6 +631,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "störung uber arena friedrichshain|veranstaltung, staugefahr"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
 ]
