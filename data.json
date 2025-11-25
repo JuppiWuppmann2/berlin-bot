@@ -196,6 +196,7 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|staugefahr vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a9 halle/leipzig richtung berlin zwischen niemegk und brück|unfall auf dem standstreifen, rechter fahrstreifen gesperrt, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, potsdamer straße in höhe scharounplatz|ampelanlage außer betrieb, bitte vorsichtig fahren",
@@ -337,6 +338,7 @@
   "gefahr berlin, triftstraße, richtung hermsdorfer straße zwischen thiloweg und alt-wittenau|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, tucholskystraße zwischen johannisstraße und oranienburger straße|fahrbahn auf einen fahrstreifen verengt, abbiegen nach rechts nicht möglich, bauarbeiten",
   "gefahr berlin, turmstraße zwischen bredowstraße und stromstraße|fahrbahnverengung, bauarbeiten",
+  "gefahr berlin, unionplatz bis nettelbeckplatz zwischen oldenburger straße und müllerstraße|demonstration, verkehrsbehinderung zu erwarten",
   "gefahr berlin, werneuchener straße zwischen genslerstraße und goeckestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wexstraße zwischen bernhardstraße und prinzregentenstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
@@ -348,7 +350,6 @@
   "gefahr kreis oberhavel, k6512 zwischen b167 in grieben und abzweig nach vielitz|gefahr durch ungesicherte unfallstelle",
   "gefahr kreis oberspreewald-lausitz, straße zwischen lübbenau/spreewald und lehde|unfall, bitte vorsichtig fahren, staugefahr, polizei regelt den verkehr",
   "gefahr l93 ziesar richtung brandenburg zwischen ausfahrt a2, ziesar und b107 in ziesar|wildunfall, gefahr durch ungesicherte unfallstelle",
-  "nauen, siemensring bis rathausplatz zwischen ende der straße und kreisverkehr|veranstaltung beendet",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf ausfahrt oberlandstraße|gesperrt, unfall",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt oberlandstraße|gesperrt, unfall",
@@ -640,6 +641,5 @@
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "stau a13 dresden richtung schönefelder kreuz zwischen lübbenau und duben|stau vor der baustelle, vorsichtig an das stauende heranfahren, gasse für rettungs- und einsatzfahrzeuge bilden, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "störung uber arena friedrichshain|veranstaltung, staugefahr"
 ]
