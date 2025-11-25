@@ -1,4 +1,5 @@
 [
+  "a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -233,7 +234,9 @@
   "gefahr berlin, berliner straße zwischen wittestraße und ernststraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, blaschkoallee, richtung a113 in höhe buschkrugallee|fahrbahn auf einen fahrstreifen verengt, staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, boyenstraße in höhe chausseestraße|geänderte verkehrsführung, bauarbeiten",
+  "gefahr berlin, brandenburgische straße in höhe westfälische straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, breite straße zwischen b96a und berliner straße|fahrbahn auf einen fahrstreifen verengt, verkehrsbehinderung, havarie",
+  "gefahr berlin, breite straße/ mecklenburgische straße in höhe zoppoter straße|ampelanlage außer betrieb, vorsicht an der kreuzung",
   "gefahr berlin, brückenstraße bis jannowitzbrücke zwischen rungestraße und jannowitzbrücke|fahrbahnverengung, baustelle",
   "gefahr berlin, buckower damm zwischen rohrlegerweg und bauhüttenweg|staugefahr, vorübergehende regelung durch provisorische ampelanlagen, bauarbeiten",
   "gefahr berlin, buschallee zwischen hansastraße und gartenstraße|fahrbahn auf einen fahrstreifen verengt, gleisbauarbeiten",
@@ -348,7 +351,6 @@
   "sperrung a115 avus, dreieck funkturm richtung dreieck nuthetal ausfahrt kreuz zehlendorf zur b1 in richtung zehlendorf|gesperrt, bauarbeiten",
   "sperrung a115|brücke abgerissen, fahrtrichtung gesperrt",
   "sperrung a117|bau der as hubertus, fahrtrichtung gesperrt",
-  "sperrung a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|richtungsfahrbahn gesperrt",
   "sperrung albrechtstraße steglitz|fahrbahnsanierung, fahrtrichtung für kfz- und radverkehr gesperrt",
   "sperrung albrechtstraße tempelhof|baustelle, vollsperrung für kfz- und radverkehr",
   "sperrung alexandrinenstraße kreuzberg|fahrbahnsanierungsarbeiten, vollsperrung für kfz-verkehr",

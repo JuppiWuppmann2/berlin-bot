@@ -1,5 +1,5 @@
 [
-  "a9 halle/leipzig richtung berlin zwischen beelitz und beelitz-heilstätten|wieder offen",
+  "a9 berlin richtung halle/leipzig zwischen niemegk und klein marzehns",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -194,7 +194,7 @@
   "gefahr a11 berliner ring richtung kreuz uckermark zwischen finowfurt und werbellin|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a9 berlin richtung halle/leipzig zwischen niemegk und klein marzehns|liegengebliebenes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
+  "gefahr a2 berliner ring richtung magdeburg zwischen brandenburg und wollin|gefahr durch gegenstände auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, potsdamer straße in höhe scharounplatz|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
@@ -339,7 +339,6 @@
   "gefahr berlin, zeppelinstraße in höhe spekteweg|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "gefahr kreis oberhavel, schwanter straße in höhe ortseingang|unfallstelle geräumt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
