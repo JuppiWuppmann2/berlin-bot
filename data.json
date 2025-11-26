@@ -1,4 +1,5 @@
 [
+  "b96 berlin, markstraße zwischen pankower allee und walderseestraße",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -181,7 +182,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen erkner und freienbrink|gefahr durch liegengebliebenes fahrzeug, standstreifen blockiert, bitte vorsichtig fahren",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
+  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen erkner und rüdersdorf|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -377,7 +378,6 @@
   "sperrung b5, wusterhausen",
   "sperrung b5, wusterhausen, berliner straße",
   "sperrung b87, zwischen kolochau und herzberg",
-  "sperrung b96 berlin, markstraße zwischen pankower allee und walderseestraße|gesperrt, unfall",
   "sperrung b96, brücke über die havelschleuse in der od fürstenberg/havel",
   "sperrung b96, neuhof bis od baruth",
   "sperrung b97 und b168, ou cottbus",
