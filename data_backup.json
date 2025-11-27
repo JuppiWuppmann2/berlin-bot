@@ -180,6 +180,7 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen potsdam-nord und leest|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen buschkrugallee und gradestraße|rechter fahrstreifen gesperrt, defekter lkw",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
@@ -191,7 +192,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a13 schönefelder kreuz richtung dresden zwischen calau und bronkow|gefahr durch einen reifen auf dem linken fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, potsdamer straße in höhe scharounplatz|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und mozartstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -213,7 +213,6 @@
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
   "gefahr b96 berlin, roedernallee zwischen fräsersteig und schmiedepfad|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, tiergartentunnel heidestraße|gefahrenstelle, wasser auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr b96 freienhufen, freienhufener straße bis großräschener straße zwischen ortseingang und gemeindesiedlung|gefahr durch ein totes tier reh auf der fahrbahn, bitte vorsichtig fahren",
   "gefahr b96 kreuzberg richtung reinickendorf ausfahrt invalidenstr|rechter fahrstreifen gesperrt, abbiegen nach rechts nicht möglich",
   "gefahr b96a berlin marggraffbrücke|fahrbahn auf zwei fahrstreifen verengt, brückenarbeiten",
   "gefahr b96a berlin, am treptower park zwischen klingerstraße und bulgarische straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -290,6 +289,7 @@
   "gefahr berlin, martin-luther-straße in höhe fuggerstraße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, martin-luther-straße zwischen barbarossastraße und traunsteiner straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, messedamm zwischen bredtschneiderstraße und masurenallee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, tiefbauarbeiten",
+  "gefahr berlin, munsterdamm in höhe prellerweg|1 fahrstreifen gesperrt, fahrbahnausbesserung",
   "gefahr berlin, müggelseedamm zwischen rauener weg und charlotte-e.-pauly-straße|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, fahrbahnausbesserung",
   "gefahr berlin, neue bahnhofstraße zwischen boxhagener straße und gürtelstraße|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, bauarbeiten, überholen verboten",
   "gefahr berlin, neuköllner straße in höhe bildhauerweg|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -337,7 +337,6 @@
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "kreis oberspreewald-lausitz, l526 zwischen hindenberger dorfstraße und abzweig nach groß beuchow|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, neukölln richtung wilmersdorf einfahrt buschkrugallee|gesperrt, defekter lkw",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
@@ -621,5 +620,5 @@
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "störung messegelände westend noch nicht aktiv|messe, verkehrseinschränkungen bei an- und abreise"
+  "störung messegelände westend|messe, verkehrseinschränkungen bei an- und abreise"
 ]
