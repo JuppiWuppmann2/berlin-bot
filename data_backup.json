@@ -1,5 +1,5 @@
 [
-  "a9 halle/leipzig richtung berlin zwischen klein marzehns und niemegk",
+  "a115 dreieck funkturm richtung dreieck nuthetal zwischen rastplatz am stern und ausfahrt potsdam-babelsberg|aufforderung, vorsichtig zu fahren, aufgehoben",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -185,7 +185,6 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
-  "gefahr a115 dreieck funkturm richtung dreieck nuthetal zwischen rastplatz am stern und ausfahrt potsdam-babelsberg|bitte vorsichtig fahren, gefahr durch holzteile auf dem rechten fahrstreifen",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen duben und lübbenau|defekter lkw auf dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -196,6 +195,7 @@
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b169, b96 cottbus richtung elsterwerda zwischen sedlitz und senftenberg|gefahr durch personen auf der fahrbahn, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr b198 gramzow richtung neustrelitz zwischen prenzlau und abzweig nach ellingen|wildunfall, gefahr durch ungesicherte unfallstelle, polizei ist benachrichtigt",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
