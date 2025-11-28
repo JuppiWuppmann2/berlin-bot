@@ -1,6 +1,4 @@
 [
-  "a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefeld-süd und schönefeld-nord",
-  "b107 genthin richtung pritzwalk zwischen glöwen und abzweig nach klein leppin|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -178,7 +176,9 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen ludwigsfelde-ost und genshagen|defekter lkw auf dem standstreifen, gefahr durch reifenteile auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|gefahr durch ungesicherte unfallstelle auf dem rechten fahrstreifen und dem standstreifen",
+  "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen freienbrink und dreieck spreeau|gefahr durch ungesicherte unfallstelle",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -195,7 +195,6 @@
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b115 lübben richtung jüterbog zwischen lübben spreewald und abzweig nach lubolz|gefahr durch ungesicherte unfallstelle, wildunfall, fahren sie bitte besonders vorsichtig",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts zwischen poelchaustraße und landsberger allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -333,7 +332,7 @@
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis oder-spree, b168 zwischen fürstenwalde/spree und berkenbrücker chaussee|gefahr durch gegenstände auf der fahrbahn erde",
-  "kreis prignitz, l11 zwischen abzweig nach wittenberge und breese",
+  "gefahr kreis potsdam-mittelmark, l83 zwischen klein marzehns und abzweig nach garrey|gefahr durch ungesicherte unfallstelle",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -608,5 +607,6 @@
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
   "störung messegelände westend|messe, verkehrseinschränkungen bei an- und abreise",
-  "störung stadion an der alten försterei köpenick noch nicht aktiv|fußballspiel, staugefahr"
+  "störung stadion an der alten försterei köpenick noch nicht aktiv|fußballspiel, staugefahr",
+  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
 ]
