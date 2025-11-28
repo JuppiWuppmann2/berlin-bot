@@ -173,7 +173,6 @@
   "baustelle werneuchener straße alt-hohenschönhausen|leitungsbauarbeiten, ein gemeinsamer fahrstreifen wechselseitig befahrbar",
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
-  "berlin, kronprinzessinnenweg zwischen am sandwerder und b1, königstraße|ampelanlage wieder in betrieb",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -185,7 +184,7 @@
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a113 autobahnzubringer dresden, schönefeld richtung neukölln zwischen schönefelder kreuz und waltersdorfer dreieck|gefahr durch ein totes tier auf der fahrbahn, linker fahrstreifen blockiert, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch reifenteile auf der fahrbahn, bitte vorsichtig fahren, defekter lkw auf dem standstreifen",
+  "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und mozartstraße|fahrbahn auf einen fahrstreifen verengt",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
@@ -325,7 +324,6 @@
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr heiligensee, alt-heiligensee zwischen sandhauser brücke und fährstraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr kreis uckermark, straße zwischen b198 und biesenbrow|gefahr durch ölspur, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
-  "gefahr woltersdorf, rüdersdorfer straße zwischen schumannstraße und seestraße|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -601,5 +599,6 @@
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
   "störung messegelände westend|messe, verkehrseinschränkungen bei an- und abreise",
   "störung stadion an der alten försterei köpenick noch nicht aktiv|fußballspiel, staugefahr",
-  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
+  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr",
+  "woltersdorf, rüdersdorfer straße zwischen schumannstraße und seestraße"
 ]
