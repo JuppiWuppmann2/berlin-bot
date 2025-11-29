@@ -185,9 +185,10 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen friedersdorf und dreieck spreeau|gefahr durch 1 liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
+  "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen friedersdorf und dreieck spreeau|alle fahrbahnen geräumt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 biesdorf richtung küstrin-kietz zwischen waldsiedlung eichendamm und abzweig nach alt tucheband|gefahr durch unbeleuchtetes fahrzeug auf der fahrbahn, fahren sie bitte besonders vorsichtig",
+  "gefahr b1 brandenburger chaussee, brandenburg richtung zehlendorf zwischen a10, groß kreutz und neu plötzin|wildunfall, gefahr durch ungesicherte unfallstelle",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und mozartstraße|fahrbahn auf einen fahrstreifen verengt",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
@@ -241,6 +242,7 @@
   "gefahr berlin, falkenberger chaussee in höhe darßer straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, föhrer straße in höhe föhrer brücke|fahrstreifen gesperrt, arbeiten an gasleitungen",
   "gefahr berlin, fürstenwalder damm zwischen müggelseedamm und jastrower weg in berlin|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr berlin, gallwitzallee in höhe eiswaldtstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, gartenfelder straße in höhe paulsternstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, gatower straße in höhe jürgen-schramm-straße|fahrbahn auf einen fahrstreifen verengt, vorübergehende regelung durch provisorische ampelanlagen",
   "gefahr berlin, gitschiner straße bis wassertorplatz zwischen prinzenstraße und erkelenzdamm|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -597,6 +599,7 @@
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
+  "stau b96 fürstenberg richtung reinickendorf zwischen hohen neuendorf und weislingenstraße in berlin|stau, unfall",
   "störung messegelände westend|messe, verkehrseinschränkungen bei an- und abreise",
   "störung stadion an der alten försterei köpenick|fußballspiel, staugefahr"
 ]
