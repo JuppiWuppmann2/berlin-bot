@@ -1,4 +1,6 @@
 [
+  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen",
+  "a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen dreieck spreeau und freienbrink|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -179,8 +181,6 @@
   "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ludwigsfelde-west und dreieck nuthetal|gefahr durch 2 liegengebliebene fahrzeuge auf dem beschleunigungsstreifen, fahren sie bitte besonders vorsichtig, polizei ist vor ort",
   "gefahr a10 westlicher berliner ring, dreieck havelland richtung dreieck werder zwischen dreieck havelland und leest|gefahr durch ölspur",
   "gefahr a10 östlicher berliner ring, dreieck barnim richtung dreieck spreeau zwischen rüdersdorf und erkner|gefahr durch gegenstände auf dem rechten fahrstreifen ein unterlegkeil , fahren sie bitte besonders vorsichtig",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen berlin-marzahn und berlin-hohenschönhausen|gefahr durch personen auf dem standstreifen, gefahr durch ungesicherte unfallstelle",
-  "gefahr a10 östlicher berliner ring, dreieck spreeau richtung dreieck barnim zwischen dreieck spreeau und freienbrink|gefahr durch 1 person auf dem standstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -329,6 +329,7 @@
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
   "gefahr berlin-köpenick, stadion an der alten försterei noch nicht aktiv|fußballspiel, verkehrsbehinderung zu erwarten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr hönow, mahlsdorfer straße zwischen hoppegartener straße und ortsausgang|fahrbedingungen haben sich gebessert",
+  "gefahr kreis dahme-spreewald, k6153 zwischen abzweig nach senzig und zernsdorf|gefahr durch ölspur, bitte vorsichtig fahren",
   "gefahr seehausen, dorfstraße zwischen bahnhofstraße und an der lanke|störung am bahnübergang, bahnschranke außer betrieb",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
