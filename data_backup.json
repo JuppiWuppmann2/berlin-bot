@@ -187,7 +187,6 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle wollankstraße pankow|sanierung der s-bahnbrücke, eine baustellenampel regelt den verkehr. das abbiegen in die kattegatstraße ist nicht möglich. die einfahrt von der nordbahnstraße auf die wollankstraße ist nicht möglich jeweils einbahnstraßenregelung",
-  "berlin, wilhelmsruher damm in höhe eichhorster weg|verkehrsbehinderung beseitigt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -197,6 +196,7 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a103 schöneberg richtung steglitz zwischen sachsendamm und wolfensteindamm/schloßstraße|linker fahrstreifen gesperrt, bauarbeiten",
+  "gefahr a11 kreuz uckermark richtung berliner ring zwischen bernau-süd und dreieck barnim|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a113 neukölln richtung schönefeld zwischen waltersdorfer dreieck und schönefelder kreuz|gefahr durch gegenstände auf dem standstreifen eine schaufel , fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
@@ -210,6 +210,7 @@
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr b101 mariendorf richtung trebbin zwischen brandenburgpark und einfahrt ludwigsfelde-ost|gefahr durch gegenstände auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
@@ -346,7 +347,7 @@
   "gefahr berlin-köpenick, stadion an der alten försterei noch nicht aktiv|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr brandenburg an der havel, reckahner straße zwischen reckahn und göttin|gefahr durch ein totes tier waschbär auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr neuruppin, otto-grotewohl-straße zwischen artur-becker-straße und bruno-salvat-straße|gefahr durch ölspur, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
-  "gefahr potsdam, garnstraße zwischen alt nowawes und tuchmacherstraße|unfall, halbseitig gesperrt, polizei ist benachrichtigt, bitte vorsichtig fahren",
+  "gefahr potsdam, garnstraße zwischen alt nowawes und tuchmacherstraße|unfallstelle geräumt",
   "sperrung a100 reinickendorf-zubringer noch nicht aktiv",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
@@ -620,5 +621,6 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
+  "störung stadion an der alten försterei köpenick noch nicht aktiv|fußballspiel, staugefahr"
 ]
