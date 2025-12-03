@@ -197,7 +197,7 @@
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen müllrose und briesen|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a15 breslau richtung cottbus zwischen grenzübergang forst und bademeusel|unfall auf allen fahrstreifen, polizei ist vor ort, unfall, gefahr durch auslaufenden kraftstoff",
-  "gefahr a24 pritzwalk richtung schwerin zwischen putlitz und suckow|gefahr durch defektes fahrzeug auf dem linken fahrstreifen",
+  "gefahr a24 pritzwalk richtung schwerin zwischen putlitz und suckow|alle fahrbahnen geräumt",
   "gefahr a24 pritzwalk richtung schwerin zwischen rastplatz dorngrund nord und putlitz|unfall, fahren sie bitte besonders vorsichtig, polizei ist vor ort",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, grunerstraße zwischen littenstraße und alexanderstraße|fahrbahn auf einen fahrstreifen verengt, fahrbahnausbesserung",
@@ -341,9 +341,8 @@
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
   "gefahr berlin, zoppoter straße zwischen breite straße und borkumer straße|einbahnstraßenregelung, parkverbot, tiefbauarbeiten",
-  "gefahr berlin-köpenick, stadion an der alten försterei noch nicht aktiv|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
+  "gefahr berlin-köpenick, stadion an der alten försterei|fußballspiel, verkehrsbehinderung zu erwarten, nutzen sie die öffentlichen verkehrsmittel, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr potsdam, nuthestraße zwischen wetzlarer straße und horstweg|vorausgegangener unfall, gefahr durch gegenstände auf der fahrbahn, fahren sie bitte besonders vorsichtig",
-  "gefahr trebnitz, trebnitzer hauptstraße zwischen trebnitzer bahnhofstraße und ortsausgang|störung am bahnübergang, polizei ist benachrichtigt",
   "sperrung a100 reinickendorf-zubringer noch nicht aktiv",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
@@ -618,5 +617,6 @@
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "störung stadion an der alten försterei köpenick|fußballspiel, staugefahr"
+  "störung stadion an der alten försterei köpenick|fußballspiel, staugefahr",
+  "trebnitz, trebnitzer hauptstraße zwischen trebnitzer bahnhofstraße und ortsausgang|störung am bahnübergang beseitigt"
 ]
