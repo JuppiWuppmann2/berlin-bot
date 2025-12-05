@@ -1,5 +1,6 @@
 [
-  "a10 nördlicher berliner ring, dreieck havelland richtung dreieck barnim zwischen oberkrämer und kreuz oranienburg",
+  "b167 löwenberg richtung bückwitz zwischen ganzer und metzelthin|gefahr besteht nicht mehr",
+  "b2 potsdam, friedrich-engels-straße bis leipziger straße zwischen am stellwerk und am magazin|störung beseitigt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -180,6 +181,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle wollankstraße pankow|sanierung der s-bahnbrücke, eine baustellenampel regelt den verkehr. das abbiegen in die kattegatstraße ist nicht möglich. die einfahrt von der nordbahnstraße auf die wollankstraße ist nicht möglich jeweils einbahnstraßenregelung",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung dreieck spreeau zwischen rangsdorf und schönefelder kreuz|gefahr durch 1 brennendes fahrzeug auf dem standstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -187,9 +189,12 @@
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|fahrbahn auf einen fahrstreifen verengt, gesperrt für lkw über 3,5 t, auf beschilderung achten, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
   "gefahr a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|überholverbot",
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
+  "gefahr a11 berliner ring richtung kreuz uckermark zwischen lanke und finowfurt|gefahr durch liegengebliebenes fahrzeug auf dem rechten fahrstreifen, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen dreieck spreeau und friedersdorf|1 brennender lkw auf dem standstreifen, polizei ist benachrichtigt, bitte vorsichtig fahren",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen groß köris und teupitz|gefahr durch ungesicherte unfallstelle auf dem standstreifen, polizei ist vor ort",
+  "gefahr a24 pritzwalk richtung schwerin zwischen meyenburg und putlitz|gefahr durch 1 totes tier wildschwein auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, grunerstraße zwischen littenstraße und alexanderstraße|fahrbahn auf einen fahrstreifen verengt, fahrbahnausbesserung",
   "gefahr b1 berlin, leipziger straße zwischen niederwallstraße und markgrafenstraße|linker fahrstreifen gesperrt, bauarbeiten",
@@ -199,10 +204,8 @@
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b167 löwenberg richtung bückwitz zwischen ganzer und metzelthin|wildunfall, fahren sie bitte besonders vorsichtig",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr b2 berlin, greifswalder straße zwischen grellstraße und lilli-henoch-straße|1 fahrstreifen gesperrt, gleisbauarbeiten",
-  "gefahr b2 potsdam, friedrich-engels-straße bis leipziger straße zwischen am stellwerk und am magazin|ampelanlage arbeitet fehlerhaft, bitte vorsichtig fahren",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen memhardstraße und rosa-luxemburg-straße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
@@ -594,6 +597,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "störung uber arena friedrichshain|veranstaltung, staugefahr"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
 ]
