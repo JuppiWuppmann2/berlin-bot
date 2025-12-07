@@ -1,4 +1,5 @@
 [
+  "b5 birkenwerder richtung nauen zwischen falkensee und havelpark dallgow",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -208,7 +209,6 @@
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen memhardstraße und rosa-luxemburg-straße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
   "gefahr b2, b5 berlin, straße des 17. juni in höhe klopstockstraße|fahrbahn auf zwei fahrstreifen verengt, staugefahr, baustelle",
-  "gefahr b5 birkenwerder richtung nauen zwischen falkensee und havelpark dallgow|personen auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b96 berlin, heidestraße, richtung fennstraße in höhe hedwig-porschütz-straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b96 berlin, mariendorfer damm bis tempelhofer damm zwischen ullsteinstraße und ordensmeisterstraße|fahrbahn auf einen fahrstreifen verengt",
   "gefahr b96 berlin, mehringdamm zwischen platz der luftbrücke und schwiebusser straße|linker fahrstreifen gesperrt",
@@ -287,6 +287,7 @@
   "gefahr berlin, markgrafendamm zwischen corinthstraße und b96a, alt-stralau|fahrbahn auf einen fahrstreifen verengt",
   "gefahr berlin, martin-luther-straße in höhe fuggerstraße|fahrbahn auf einen fahrstreifen verengt, abbiegen nicht möglich, geänderte verkehrsführung im baustellenbereich, bauarbeiten",
   "gefahr berlin, martin-luther-straße zwischen barbarossastraße und traunsteiner straße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr berlin, maximilian-kolbe-straße in höhe b2, potsdamer chaussee|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, meiningenallee zwischen gotha-allee und reichsstraße|einbahnstraßenregelung, baustelle",
   "gefahr berlin, messedamm zwischen bredtschneiderstraße und masurenallee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten, tiefbauarbeiten",
   "gefahr berlin, müggelheimer straße in höhe wendenschloßstraße|ampelanlage außer betrieb, bitte vorsichtig fahren",
