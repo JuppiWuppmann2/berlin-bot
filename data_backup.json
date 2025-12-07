@@ -1,4 +1,6 @@
 [
+  "a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen dreieck nuthetal und michendorf|aufforderung, vorsichtig zu fahren, aufgehoben",
+  "a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen friedersdorf und storkow",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -180,6 +182,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle wollankstraße pankow|sanierung der s-bahnbrücke, eine baustellenampel regelt den verkehr. das abbiegen in die kattegatstraße ist nicht möglich. die einfahrt von der nordbahnstraße auf die wollankstraße ist nicht möglich jeweils einbahnstraßenregelung",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen ludwigsfelde-west und michendorf|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -190,7 +193,6 @@
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a114, a10 pankow richtung dreieck havelland zwischen schönerlinder straße und dreieck pankow|unfallstelle geräumt",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen friedersdorf und storkow|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen baruth/mark und teupitz|polizei ist benachrichtigt, liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren, gefahr durch gegenstände auf der fahrbahn",
   "gefahr a13 schönefelder kreuz richtung dresden zwischen schwarzheide und ruhland|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei ist benachrichtigt",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
