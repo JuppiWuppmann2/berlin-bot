@@ -1,5 +1,4 @@
 [
-  "b96 fürstenberg richtung reinickendorf zwischen birkenwerder und hohen neuendorf",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -204,7 +203,6 @@
   "gefahr b167 löwenberg richtung lebus zwischen abzweig nach hammer und zerpenschleuse|wildunfall, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr b2 berlin, greifswalder straße zwischen grellstraße und lilli-henoch-straße|1 fahrstreifen gesperrt, gleisbauarbeiten",
-  "gefahr b2 potsdamer chaussee, potsdam richtung spandau zwischen abzweig nach sacrow und abzweig nach groß glienicke|alle fahrbahnen geräumt",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen memhardstraße und rosa-luxemburg-straße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
@@ -328,6 +326,7 @@
   "gefahr berlin, werneuchener straße zwischen genslerstraße und goeckestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
+  "gefahr kleinmachnow, förster-funke-allee bis adolf-grimme-ring zwischen august-bebel-platz und schopfheimer allee|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",

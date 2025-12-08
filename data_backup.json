@@ -1,4 +1,5 @@
 [
+  "b96 fürstenberg richtung reinickendorf zwischen birkenwerder und hohen neuendorf",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -203,7 +204,7 @@
   "gefahr b167 löwenberg richtung lebus zwischen abzweig nach hammer und zerpenschleuse|wildunfall, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
   "gefahr b2 berlin, greifswalder straße zwischen grellstraße und lilli-henoch-straße|1 fahrstreifen gesperrt, gleisbauarbeiten",
-  "gefahr b2 potsdamer chaussee, potsdam richtung spandau zwischen abzweig nach sacrow und abzweig nach groß glienicke|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren",
+  "gefahr b2 potsdamer chaussee, potsdam richtung spandau zwischen abzweig nach sacrow und abzweig nach groß glienicke|alle fahrbahnen geräumt",
   "gefahr b2, b5 berlin theodor-heuss-platz zwischen ahornstraße und reichsstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen gontardstraße und alexanderplatz|fahrbahn auf einen fahrstreifen verengt, staugefahr, baustelle",
   "gefahr b2, b5 berlin, karl-liebknecht-straße zwischen memhardstraße und rosa-luxemburg-straße|fahrbahn auf einen fahrstreifen verengt, staugefahr, bauarbeiten",
@@ -367,7 +368,6 @@
   "sperrung b5, wusterhausen",
   "sperrung b5, wusterhausen, berliner straße",
   "sperrung b87, zwischen kolochau und herzberg",
-  "sperrung b96 fürstenberg richtung reinickendorf zwischen birkenwerder und hohen neuendorf|vollsperrung, unfall, bitte vorsichtig fahren",
   "sperrung b96, brücke über die havelschleuse in der od fürstenberg/havel",
   "sperrung b96, neuhof bis od baruth",
   "sperrung b97 und b168, ou cottbus",
