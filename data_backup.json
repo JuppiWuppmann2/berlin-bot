@@ -1,4 +1,5 @@
 [
+  "a115 dreieck nuthetal richtung dreieck funkturm zwischen dreieck nuthetal und saarmund|verkehrsstörung besteht nicht mehr",
   "a15 richtung cottbus zwischen dreieck spreewald und boblitz|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -191,6 +192,7 @@
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen bestensee und mittenwalde|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
+  "gefahr a13 richtung schönefelder kreuz zwischen groß köris und bestensee|gefahr durch liegengebliebenes fahrzeug",
   "gefahr a2 berliner ring richtung magdeburg zwischen wollin und ziesar|gefahr durch defektes fahrzeug auf dem mittleren fahrstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen niederwallstraße und markgrafenstraße|linker fahrstreifen gesperrt, bauarbeiten",
@@ -605,6 +607,5 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
-  "stau a115 dreieck nuthetal richtung dreieck funkturm zwischen dreieck nuthetal und saarmund|vorsichtig an das stauende heranfahren, stau"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
 ]
