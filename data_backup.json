@@ -1,4 +1,5 @@
 [
+  "a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen am festplatz und tunnel flughafen tegel|wieder offen",
   "a15 richtung cottbus zwischen dreieck spreewald und boblitz|wieder offen",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
@@ -179,6 +180,7 @@
   "baustelle wittenbergplatz schöneberg|gasleitungsarbeiten, fahrbahn auf jeweils einen fahrstreifen verengt",
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle wollankstraße pankow|sanierung der s-bahnbrücke, eine baustellenampel regelt den verkehr. das abbiegen in die kattegatstraße ist nicht möglich. die einfahrt von der nordbahnstraße auf die wollankstraße ist nicht möglich jeweils einbahnstraßenregelung",
+  "gefahr a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|fahren sie bitte besonders vorsichtig, unfall, polizei ist vor ort, 2 fahrstreifen gesperrt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -189,7 +191,6 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen fürstenwalde-ost und briesen|gefahr durch ölspur, fahren sie bitte besonders vorsichtig",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen bestensee und mittenwalde|gefahr durch liegengebliebenes fahrzeug auf dem standstreifen, bitte vorsichtig fahren",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen niederwallstraße und markgrafenstraße|linker fahrstreifen gesperrt, bauarbeiten",
@@ -324,12 +325,10 @@
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, württembergische straße in höhe düsseldorfer straße|ampelanlage außer betrieb, bitte vorsichtig fahren",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
-  "sperrung a10 südlicher berliner ring, schönefelder kreuz richtung dreieck potsdam zwischen michendorf und ferch|gefahr durch ungesicherte unfallstelle auf dem linken und dem mittleren fahrstreifen, fahren sie bitte besonders vorsichtig, richtungsfahrbahn gesperrt",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
-  "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg zwischen am festplatz und tunnel flughafen tegel|gesperrt, höhenkontrolle wurde ausgelöst",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg ausfahrt seidelstraße|gesperrt, bauarbeiten",
   "sperrung a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg einfahrt eichborndamm|gesperrt",
   "sperrung a111 ehem. a105|baustelle, fahrtrichtung gesperrt",
@@ -605,5 +604,6 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
+  "stau a115 dreieck nuthetal richtung dreieck funkturm zwischen dreieck nuthetal und saarmund|vorsichtig an das stauende heranfahren, stau"
 ]
