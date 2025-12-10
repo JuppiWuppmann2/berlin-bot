@@ -1,5 +1,6 @@
 [
   "a12 autobahn der freiheit, berliner ring richtung frankfurt oder zwischen storkow und fürstenwalde-west|gefahr besteht nicht mehr",
+  "a9, b102 berlin richtung treuenbrietzen zwischen raststätte fläming west und niemegk|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -181,7 +182,8 @@
   "baustelle wolfensteindamm steglitz|gasleitungsbauarbeiten nach havarie, im gesamten kreuzungsbereich kommt es zu fahrstreifenreduzierungen, mit verkehrsbeeinträchtigungen muss gerechnet werden",
   "baustelle wollankstraße pankow|sanierung der s-bahnbrücke, eine baustellenampel regelt den verkehr. das abbiegen in die kattegatstraße ist nicht möglich. die einfahrt von der nordbahnstraße auf die wollankstraße ist nicht möglich jeweils einbahnstraßenregelung",
   "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen genshagen und rangsdorf|gefahr durch liegengebliebenes fahrzeug, bitte vorsichtig fahren, polizei ist benachrichtigt",
-  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen phöben und leest|gefahr durch reifenteile auf der fahrbahn",
+  "gefahr a10 südlicher berliner ring, dreieck potsdam richtung schönefelder kreuz zwischen ludwigsfelde-west und ludwigsfelde-ost|gefahr durch gegenstände auf der fahrbahn, polizei ist benachrichtigt, fahren sie bitte besonders vorsichtig",
+  "gefahr a10 westlicher berliner ring, dreieck werder richtung dreieck havelland zwischen phöben und leest|alle fahrbahnen geräumt",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen detmolder straße und schmargendorf|rechter fahrstreifen gesperrt, mittlerer fahrstreifen gesperrt, bauarbeiten",
   "gefahr a100 stadtring berlin, neukölln richtung wilmersdorf zwischen wexstraße und detmolder straße|überholverbot für schwerlastverkehr",
   "gefahr a100 stadtring berlin, wedding richtung wilmersdorf dreieck funkturm überleitung zur a115 richtung dreieck nuthetal|rechter fahrstreifen gesperrt, vorübergehende beschränkung des zulässigen gesamtgewichts auf 2,8 t, vorübergehende begrenzung der fahrbahnbreite auf 2,20 m",
@@ -201,7 +203,6 @@
   "gefahr a12 autobahn der freiheit, frankfurt oder richtung berliner ring zwischen frankfurt oder -west und müllrose|liegengebliebenes fahrzeug, bitte vorsichtig fahren",
   "gefahr a13 dresden richtung schönefelder kreuz zwischen mittenwalde und ragow|gefahr durch 1 liegengebliebenes fahrzeug auf dem beschleunigungsstreifen, fahren sie bitte besonders vorsichtig",
   "gefahr a24 pritzwalk richtung berliner ring zwischen herzsprung und neuruppin|gefahr durch reifenteile auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
-  "gefahr a9, b102 berlin richtung treuenbrietzen zwischen raststätte fläming west und niemegk|gefahr durch personen auf der fahrbahn, fahren sie bitte besonders vorsichtig",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen niederwallstraße und markgrafenstraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1 berlin, potsdamer chaussee in höhe lindenthaler allee|ampelanlage außer betrieb, bitte vorsichtig fahren",
@@ -209,7 +210,8 @@
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und märkische allee|fahrbahn auf einen fahrstreifen verengt, wasserrohrbruch",
   "gefahr b1, b5 berlin, frankfurter allee vor der einmündung alfredstraße|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1, b5 berlin, frankfurter allee, stadtauswärts zwischen mainzer straße und kinzigstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
-  "gefahr b102 treuenbrietzen richtung brandenburg an der havel zwischen niemegk-nord und ende der straße|gefahr durch ein totes tier auf der fahrbahn, bitte vorsichtig fahren, polizei ist benachrichtigt",
+  "gefahr b102 treuenbrietzen richtung brandenburg an der havel zwischen niemegk-nord und ende der straße|alle fahrbahnen geräumt",
+  "gefahr b112 as frankfurt oder -süd richtung guben süd zwischen abzweig nach lossow und brieskow-finkenheerd|gefahr durch ungesicherte unfallstelle, bitte vorsichtig fahren",
   "gefahr b158 berlin, märkische allee in höhe franz-stenzer-straße|rechter fahrstreifen gesperrt, bauarbeiten",
   "gefahr b158 berlin, märkische allee, stadtauswärts in höhe springpfuhlpark|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr b2 berlin, dorfstraße zwischen blankenburger pflasterweg und wartenberger weg|für beide richtungen nur ein fahrstreifen abwechselnd frei, vorübergehende regelung durch provisorische ampelanlagen, tiefbauarbeiten",
@@ -276,7 +278,6 @@
   "gefahr berlin, hindenburgdamm zwischen bäkestraße und moltkestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen krahmerstraße und klingsorstraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, hindenburgdamm zwischen königsberger straße und bäkestraße|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
-  "gefahr berlin, hohenzollerndamm in höhe a100, hohenzollerndamm|ampelanlage außer betrieb, gefahr, bitte vorsichtig fahren",
   "gefahr berlin, hohenzollerndamm zwischen sächsische straße und fehrbelliner platz|fahrbahnverengung, geänderte verkehrsführung im baustellenbereich, tiefbauarbeiten",
   "gefahr berlin, huttenstraße zwischen berlichingenstraße und wiebestraße|für beide richtungen nur ein fahrstreifen abwechselnd frei, bauarbeiten",
   "gefahr berlin, hönower straße zwischen pestalozzistraße und fritz-reuter-straße|die geschwindigkeit ist auf 20 km/h begrenzt, fahrbahnverengung, baustelle",
@@ -624,5 +625,6 @@
   "sperrung werderstraße hakenfelde|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung westerwaldstraße falkenhagener feld|leitungsarbeiten, vollsperrung für den kfz-verkehr",
   "sperrung wildenbruchstraße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
-  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung"
+  "sperrung zeltinger straße frohnau|beseitigung von fahrbahnschäden, vollsperrung",
+  "störung uber arena friedrichshain noch nicht aktiv|veranstaltung, staugefahr"
 ]
