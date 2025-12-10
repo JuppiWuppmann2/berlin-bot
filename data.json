@@ -1,5 +1,4 @@
 [
-  "a10 nördlicher berliner ring, dreieck barnim richtung dreieck havelland zwischen dreieck pankow und mühlenbeck|gefahr besteht nicht mehr",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -188,7 +187,9 @@
   "gefahr a100n zwischen sonnenallee und b96a, am treptower park|fahrbahnverengung, staugefahr",
   "gefahr a103 steglitz richtung schöneberg zwischen filandastraße und saarstraße|rechter fahrstreifen gesperrt, reinigungsarbeiten",
   "gefahr a111 autobahnzubringer hamburg, dreieck oranienburg richtung charlottenburg zwischen seidelstraße und ausfahrt tunnel flughafen tegel|linker fahrstreifen gesperrt, bauarbeiten",
+  "gefahr a111 charlottenburg richtung dreieck oranienburg tunnel flughafen tegel|spurwechselanlagen arbeiten fehlerhaft, gefahr",
   "gefahr a115 dreieck nuthetal richtung dreieck funkturm zwischen kleinmachnow und spanische allee|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
+  "gefahr a2 berliner ring richtung magdeburg zwischen dreieck werder und lehnin|bitte vorsichtig fahren, gefahr durch liegengebliebenes fahrzeug auf dem standstreifen",
   "gefahr b1 berlin, gertraudenstraße in höhe petriplatz|fahrbahn auf zwei fahrstreifen verengt, bauarbeiten",
   "gefahr b1 berlin, leipziger straße zwischen niederwallstraße und markgrafenstraße|linker fahrstreifen gesperrt, bauarbeiten",
   "gefahr b1, b5 berlin, alt-biesdorf zwischen oberfeldstraße und mozartstraße|fahrbahn auf einen fahrstreifen verengt",
@@ -324,7 +325,6 @@
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, yorckstraße zwischen b96, mehringdamm und möckernstraße|2 fahrstreifen gesperrt, unfall",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
-  "kreis dahme-spreewald und kreis teltow-fläming, l74 zwischen töpchin und wünsdorf",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wedding richtung wilmersdorf einfahrt siemensdamm|gesperrt, zu hohe verkehrsbelastung",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
