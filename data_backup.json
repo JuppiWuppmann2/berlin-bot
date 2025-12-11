@@ -1,5 +1,4 @@
 [
-  "a11 berliner ring richtung kreuz uckermark zwischen lanke und finowfurt",
   "bauarbeiten rudower straße buckow|stromnetzarbeiten, fahrbahn jeweils auf einen fahrstreifen verengt",
   "baustelle a100 stadtring berlin, neukölln richtung wilmersdorf in höhe detmolder straße|rechter fahrstreifen gesperrt, baustelle",
   "baustelle a100 stadtring|brückenschäden, rechter und mittlerer fahrstreifen gesperrt",
@@ -318,9 +317,7 @@
   "gefahr berlin, werneuchener straße zwischen genslerstraße und goeckestraße|fahrbahn auf einen fahrstreifen verengt, bauarbeiten",
   "gefahr berlin, wolfensteindamm zwischen fronhoferstraße und hindenburgdamm|fahrbahn auf einen fahrstreifen verengt, tiefbauarbeiten",
   "gefahr berlin, zadekstraße zwischen baumläuferweg und rudower straße|fahrbahnverengung, bauarbeiten",
-  "gefahr kreis oberhavel, l21 zwischen liebenwalde und zehlendorf|unfall mit verletzten, bitte vorsichtig fahren, polizei ist benachrichtigt",
   "gefahr kreis ostprignitz-ruppin, l14 zwischen abzweig nach teetz und herzsprung|gefahr durch ungesicherte unfallstelle, fahren sie bitte besonders vorsichtig, polizei ist vor ort, vollsperrung, rutschgefahr, ortskundige autofahrer werden gebeten, das gebiet weiträumig zu umfahren",
-  "kreis havelland, k6309 zwischen nauen und ende der straße|gefahr besteht nicht mehr",
   "sperrung a100 stadtring",
   "sperrung a100 stadtring berlin, wilmersdorf richtung wedding zwischen dreieck funkturm und spandauer damm|vollsperrung, brücke gesperrt",
   "sperrung a111 autobahnzubringer hamburg, charlottenburg richtung dreieck oranienburg einfahrt seidelstraße|gesperrt, baustelle",
@@ -539,6 +536,7 @@
   "sperrung karl-kunger-straße alt-treptow|kanalarbeiten, fahrtrichtung gesperrt. im anschluss folgen weitere arbeiten",
   "sperrung kietzer straße - kirchstraße alt-köpenick|gleis- und leitungsarbeiten, vollsperrung für den kfz- und radverkehr",
   "sperrung knotenpunkt b1/l233, rüdersdorf, berliner straße",
+  "sperrung kreis oberhavel, l21 zwischen liebenwalde und zehlendorf|unfall mit verletzten, polizei ist vor ort, vollsperrung",
   "sperrung königsheideweg baumschulenweg|bauarbeiten an stromleitungen, vollsperrung für kfz- und radverkehr",
   "sperrung l101, rosenhagen, dorfstraße",
   "sperrung l144, heiligengrabe, königsberg, königsberger dorfstraße",
