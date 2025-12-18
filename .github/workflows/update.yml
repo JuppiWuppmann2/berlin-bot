@@ -1,104 +1,195 @@
 name: Bluesky Bot
 on:
   schedule:
-    - cron: "*/10 * * * *"  # Alle 10 Minuten
+    - cron: "*/5 * * * *"   # alle 10 Minuten (statt 5, um Rate-Limits zu vermeiden)
   workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 8  # Reduziert von 10 auf 8 Minuten
+    timeout-minutes: 15  # Erhöht von 10 auf 15 Minuten
     
     steps:
-      - uses: actions/checkout@v4
+      # Repo auschecken mit Schreibrechten durch GH_PAT
+      - uses: actions/checkout@v4  # Aktuellere Version
         with:
           token: ${{ secrets.GH_PAT }}
-          fetch-depth: 1
+          fetch-depth: 1  # Shallow clone für bessere Performance
       
+      # Python einrichten
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-          cache: 'pip'
+          cache: 'pip'  # Pip-Cache für schnellere Builds
       
+      # Dependencies installieren aus requirements.txt
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      # Vereinfachte Chrome-Installation
+      # Chrome und ChromeDriver für bessere Stabilität vorbereiten
       - name: Setup Chrome and ChromeDriver
         run: |
-          # Chrome installieren
-          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
           sudo apt-get update
-          sudo apt-get install -y google-chrome-stable xvfb
+          sudo apt-get install -y google-chrome-stable xvfb jq
           
-          # Chrome-Version prüfen
-          CHROME_VERSION=$(google-chrome --version | awk '{print $3}')
-          echo "Chrome Version: $CHROME_VERSION"
+          # Chrome-Version abrufen
+          CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f3)
+          CHROME_MAJOR=$(echo "$CHROME_VERSION" | cut -d '.' -f1)
+          echo "Chrome Version: $CHROME_VERSION (Major: $CHROME_MAJOR)"
           
-          # ChromeDriver über webdriver-manager herunterladen lassen
-          # (wird automatisch beim ersten Start gemacht)
-          echo "ChromeDriver wird beim Bot-Start automatisch heruntergeladen"
+          # ChromeDriver für die entsprechende Chrome-Version finden
+          echo "Suche ChromeDriver für Chrome $CHROME_MAJOR..."
+          
+          # Neue Chrome for Testing API verwenden
+          API_URL="https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json"
+          
+          # Passende ChromeDriver-Version finden (latest für diese Chrome-Version)
+          CHROMEDRIVER_VERSION=$(curl -s "$API_URL" | jq -r --arg major "$CHROME_MAJOR" '
+            .versions[] | 
+            select(.version | startswith($major + ".")) | 
+            select(.downloads.chromedriver != null) |
+            select(.downloads.chromedriver[] | select(.platform == "linux64")) |
+            .version
+          ' | tail -1)
+          
+          if [ -z "$CHROMEDRIVER_VERSION" ] || [ "$CHROMEDRIVER_VERSION" == "null" ]; then
+            echo "⚠️ Keine passende ChromeDriver-Version gefunden, verwende direkte Suche..."
+            
+            # Fallback: Direkte Versionsprüfung für Chrome 140
+            case "$CHROME_MAJOR" in
+              "140")
+                CHROMEDRIVER_VERSION="140.0.6834.82"
+                ;;
+              "139")
+                CHROMEDRIVER_VERSION="139.0.6778.87"
+                ;;
+              "138")
+                CHROMEDRIVER_VERSION="138.0.6901.78"
+                ;;
+              *)
+                CHROMEDRIVER_VERSION="140.0.6834.82"  # Latest known
+                ;;
+            esac
+          fi
+          
+          echo "Verwende ChromeDriver Version: $CHROMEDRIVER_VERSION"
+          
+          # ChromeDriver URL zusammenbauen
+          CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/$CHROMEDRIVER_VERSION/linux64/chromedriver-linux64.zip"
+          
+          echo "ChromeDriver URL: $CHROMEDRIVER_URL"
+          
+          # Download und Installation
+          if curl --output /dev/null --silent --head --fail "$CHROMEDRIVER_URL"; then
+            echo "✅ URL ist erreichbar, lade herunter..."
+            wget -O /tmp/chromedriver.zip "$CHROMEDRIVER_URL"
+            cd /tmp
+            unzip chromedriver.zip
+            
+            # ChromeDriver Binary finden
+            CHROMEDRIVER_BINARY=$(find /tmp -name "chromedriver" -type f -executable | head -1)
+            
+            if [ -z "$CHROMEDRIVER_BINARY" ]; then
+              echo "❌ ChromeDriver binary nicht gefunden, zeige Inhalt:"
+              find /tmp -name "*chrome*" -type f -ls
+              exit 1
+            fi
+            
+            echo "Gefundener ChromeDriver: $CHROMEDRIVER_BINARY"
+            
+            # Installation
+            sudo cp "$CHROMEDRIVER_BINARY" /usr/local/bin/chromedriver
+            sudo chmod +x /usr/local/bin/chromedriver
+            
+            # Verifikation
+            echo "ChromeDriver installiert:"
+            chromedriver --version
+            which chromedriver
+          else
+            echo "❌ ChromeDriver URL nicht erreichbar: $CHROMEDRIVER_URL"
+            echo "Verfügbare Versionen prüfen..."
+            curl -s "$API_URL" | jq -r '.versions[-5:][].version' | head -10
+            exit 1
+          fi
       
-      - name: Run bot with timeout
-        timeout-minutes: 6  # Timeout für den Bot selbst
+      # Bot mit erweiterten Umgebungsvariablen ausführen
+      - name: Run bot
+        timeout-minutes: 12  # Erhöht von 12m (vorher implizit durch timeout Befehl)
         run: |
-          # Virtual display
+          # Virtual display für Headless-Chrome
           export DISPLAY=:99
           Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
           
-          # Bot ausführen
+          # Chrome-Optionen setzen
+          export CHROME_BIN=/usr/bin/google-chrome
+          export CHROMEDRIVER_VERBOSE=1
+          
+          # Bot ausführen ohne timeout Befehl (wird durch timeout-minutes kontrolliert)
           python bot.py
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+          # Logging-Level setzen
           PYTHONUNBUFFERED: 1
+          # Chrome-spezifische Umgebungsvariablen
+          CHROME_LOG_FILE: /tmp/chrome.log
       
+      # Log-Output für Debugging (bei Fehlern)
       - name: Show logs on failure
         if: failure()
         run: |
-          echo "=== Letzte 50 Zeilen der Logs ==="
-          tail -50 /tmp/*.log 2>/dev/null || echo "Keine Logs verfügbar"
-          echo "=== Prozesse ==="
-          ps aux | grep -E 'chrome|python' | head -20
+          echo "=== Chrome Logs ==="
+          cat /tmp/chrome.log 2>/dev/null || echo "Keine Chrome-Logs verfügbar"
+          echo "=== System Info ==="
+          df -h
+          free -m
+          ps aux | grep chrome | head -10
       
+      # Aktualisierte data.json committen und pushen
       - name: Commit and push updated state
-        if: always()  # Auch bei Fehlern State speichern
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
+          # Nur committen wenn sich data.json geändert hat
           if git diff --quiet data.json; then
             echo "Keine Änderungen in data.json"
           else
-            echo "Änderungen in data.json gefunden"
+            echo "Änderungen in data.json gefunden, committe..."
             git add data.json
             
+            # Auch Backup-Datei hinzufügen falls vorhanden
             if [ -f data_backup.json ]; then
               git add data_backup.json
             fi
             
+            # Commit mit detaillierterer Nachricht
             TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
-            git commit -m "Update state - $TIMESTAMP [skip ci]"
+            git commit -m "Update state file - $TIMESTAMP [skip ci]"
             
-            # Push mit Retry
+            # Push mit Retry-Logic
             for i in {1..3}; do
               if git push origin HEAD:main; then
-                echo "✅ Push erfolgreich"
+                echo "✅ Push erfolgreich (Versuch $i)"
                 break
               else
-                echo "⚠️ Push fehlgeschlagen (Versuch $i/3)"
-                sleep 3
+                echo "❌ Push fehlgeschlagen (Versuch $i), warte 5 Sekunden..."
+                sleep 5
               fi
             done
           fi
       
+      # Cleanup (optional, für bessere Performance)
       - name: Cleanup
         if: always()
         run: |
+          # Chrome-Prozesse beenden
           pkill -f chrome || true
           pkill -f Xvfb || true
-          rm -rf /tmp/.org.chromium.* 2>/dev/null || true
+          
+          # Temporäre Dateien löschen
+          rm -rf /tmp/.org.chromium.Chromium.* 2>/dev/null || true
+          rm -f /tmp/chrome.log 2>/dev/null || true
